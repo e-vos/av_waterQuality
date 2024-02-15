@@ -83,6 +83,10 @@ Output:
 NAME IN ('Almy Pond', 'Barber Pond', 'Barney Pond', 'Blackamore Pond', 'Boone Lake', 'Brickyard Pond', 'Carbuncle Pond', 'Georgiaville Pond', 'Indian Lake', 'Larkin Pond', 'Mashapaug Pond', 'Scott Pond', 'Spectacle Pond', 'Stafford Pond', 'Tarkiln Pond', 'Tiogue Lake', 'Warwick Pond', 'Wenscott Reservoir', 'Worden Pond')
 
 MISSING FROM RIGIS PONDS AND LAKES SHAPEFILE: 'Boone Lake', 'Tarkiln Pond'
+
+Explaination: Someone incorrectly spelled "Boone Lake" as "Boon Lake" and "Tarkiln Pond" as "Tarklin Pond".
+              I have updated the shapefile to correct these errors. The names of waterbodies in the shapefile
+              agree with the names in matches_set and sql_selection.
 '''
 
 # print(len(matches_set))

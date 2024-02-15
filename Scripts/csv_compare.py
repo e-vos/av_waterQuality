@@ -69,3 +69,20 @@ if len(file_paths) == num_files:
 else:
 
     print("An error has occurred: the number of files selected does not equal " + num_files)
+    
+# Create SQL expression from matches_set to make a selection in ArcGIS Pro
+
+sql_selection = "NAME IN ({})".format(', '.join(["'{}'".format(i) for i in matches_set]))
+
+print(sql_selection)
+
+'''
+
+Output:
+
+NAME IN ('Almy Pond', 'Barber Pond', 'Barney Pond', 'Blackamore Pond', 'Boone Lake', 'Brickyard Pond', 'Carbuncle Pond', 'Georgiaville Pond', 'Indian Lake', 'Larkin Pond', 'Mashapaug Pond', 'Scott Pond', 'Spectacle Pond', 'Stafford Pond', 'Tarkiln Pond', 'Tiogue Lake', 'Warwick Pond', 'Wenscott Reservoir', 'Worden Pond')
+
+MISSING FROM RIGIS PONDS AND LAKES SHAPEFILE: 'Boone Lake', 'Tarkiln Pond'
+'''
+
+# print(len(matches_set))

@@ -9,6 +9,7 @@ Description:
 # import tkinter as tk
 # from tkinter import filedialog
 import pandas as pd
+import csv
 
 file_paths = []     # Initialize list to store selected file paths
 num_files = int(2)  # Define the number of files to be read
@@ -55,7 +56,7 @@ if len(file_paths) == num_files:
     
     matches_set = sorted(list(set(matches_verbose)))    # No repeats
     
-    print(matches_set)
+    # print(matches_set)
     
     '''
     
@@ -74,7 +75,7 @@ else:
 
 sql_selection = "NAME IN ({})".format(', '.join(["'{}'".format(i) for i in matches_set]))
 
-print(sql_selection)
+# print(sql_selection)
 
 '''
 
@@ -90,3 +91,29 @@ Explaination: Someone incorrectly spelled "Boone Lake" as "Boon Lake" and "Tarki
 '''
 
 # print(len(matches_set))
+
+# Associate waterbody name with watershed watch station designation (WWXXX format)
+
+names_dict = {}
+
+filtered_df = df2[df2['Site_DESCR'].isin(matches_set)]
+
+names_dict = dict(zip(filtered_df['WW_Station'], filtered_df['Site_DESCR']))
+
+# print(names_dict)
+
+'''
+
+Output:
+
+{'WW002': 'Barber Pond', 'WW005': 'Blackamore Pond', 'WW006': 'Boone Lake', 
+'WW007': 'Brickyard Pond', 'WW016': 'Georgiaville Pond', 'WW018': 'Indian Lake', 
+'WW025': 'Mashapaug Pond', 'WW049': 'Spectacle Pond', 'WW055': 'Tiogue Lake', 
+'WW059': 'Warwick Pond', 'WW062': 'Wenscott Reservoir', 'WW066': 'Worden Pond', 
+'WW134': 'Barney Pond', 'WW138': 'Larkin Pond', 'WW143': 'Scott Pond', 'WW145': 'Stafford Pond', 
+'WW150': 'Carbuncle Pond', 'WW199': 'Almy Pond', 'WW204': 'Tarkiln Pond'}
+
+'''
+
+dict_df = pd.DataFrame.from_dict(names_dict, orient="index")
+dict_df.to_csv(r"C:\Users\Elliot\Documents\University\Internships\AV\av_waterQuality\Datasets\CSV\Filtered_Alert_WW_Stations.csv")

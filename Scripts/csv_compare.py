@@ -10,14 +10,19 @@ import tkinter as tk
 from tkinter import filedialog
 import pandas as pd
 
-# Create a Tkinter root window
-root = tk.Tk()
-root.withdraw()
-
 file_paths = []     # Initialize list to store selected file paths
 num_files = int(2)  # Define the number of files to be read
 
+# file1 =                       # If you have the file paths already,
+# file2 =                       # use these lines to define the paths
+# file_paths.append(file1)      # and comment out the prompt section
+# file_paths.append(file2)      # below.
+
 # Prompt the user twice to select CSV files
+
+root = tk.Tk()
+root.withdraw()
+
 for _ in range(num_files):
 
     file_selection = filedialog.askopenfilename(filetypes=[("CSV Files", "*.csv")])
@@ -28,6 +33,8 @@ for _ in range(num_files):
         file_paths.append(file_selection)
         
 # print(file_paths)
+
+# Perform comparison and print uniques
 
 if len(file_paths) == num_files:
 

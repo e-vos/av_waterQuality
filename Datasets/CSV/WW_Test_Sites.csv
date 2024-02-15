@@ -1,719 +1,714 @@
-WW_StaNumb,WBID,WB_Type,Site_DESCR,Town,COUNTY,LAT_DD,LON_DD
-1,RI0008040L-01,Reservoir ,Alton Pond,Hopkinton,WASHINGTON,41.438171,-71.721642
-2,RI0008039L-14,Lake or Pond,Barber Pond,South Kingstown,WASHINGTON,41.504129,-71.564271
-3,RI0007027L-02,Lake or Pond,Belleville Pond-Lower,North Kingstown,KENT,41.561453,-71.475119
-4,RI0007027L-02,Lake or Pond,Belleville Pond-Upper,North Kingstown,KENT,41.563136,-71.481419
-5,RI0006018L-06,Lake or Pond,Blackamore Pond,Cranston,PROVIDENCE,41.774109,-71.446890
-6,RI0008040L-14,Lake or Pond,Boone Lake,Exeter,WASHINGTON,41.581428,-71.675153
-7,RI0007020L-02,Lake or Pond,Brickyard Pond,Barrington,BRISTOL,41.733850,-71.319964
-8,RI0010044L-03,Lake or Pond,Carr Pond (North Kingstown),North Kingstown,KENT,41.523592,-71.451522
-9,RI0006012L-01,Lake or Pond,Carr Pond (West Greenwich),West Greenwich,KENT,41.634417,-71.556514
-10,RI0005011L-06,Lake or Pond,Clark Pond,Foster,PROVIDENCE,41.772414,-71.776758
-11,RI0006015L-08,Lake or Pond,Coomer's Lake (Reservoir),Glocester,PROVIDENCE,41.880867,-71.624909
-12,RI0010043L-08,Lake or Pond,Deep Pond (Charlestown),Charlestown,WASHINGTON,41.391067,-71.662250
-13,RI0001002L-03,Reservoir ,Echo Lake (Pascoag south),Glocester,PROVIDENCE,41.927994,-71.711037
-14,RI0006017L-08,Lake or Pond,Fenner Pond,Cranston,PROVIDENCE,41.771401,-71.419901
-15,RI0006013L-01,Reservoir ,Flat River Reservoir (Johnson Pond),Coventry,KENT,41.685454,-71.605113
-16,RI0002007L-02,Reservoir ,Georgiaville Pond,Smithfield,PROVIDENCE,41.892783,-71.511331
-17,RI0008039L-13,Reservoir ,Hundred Acre Pond,South Kingstown,WASHINGTON,41.499950,-71.542667
-18,RI0010045L-04,Lake or Pond,Indian Lake,South Kingstown,WASHINGTON,41.480172,-71.470544
-19,RI0001002L-11,Reservoir ,Keech Pond,Glocester,PROVIDENCE,41.879128,-71.688375
-20,RI0007024L-01,Lake or Pond,"Sandy Pond (Little Pond, south of airport)",Warwick,KENT,41.705881,-71.406332
-21,RI0008040L-10,Reservoir ,Locustville Pond,Hopkinton,WASHINGTON,41.510217,-71.717213
-22,RI0008040L-20,Lake or Pond,Long Pond (Hopkinton),Hopkinton,WASHINGTON,41.506486,-71.774108
-23,RI0010043L-07,Lake or Pond,Long Pond (South Kingstown),South Kingstown,WASHINGTON,41.410350,-71.553686
-24,RI0002007L-06,Reservoir ,Lower Sprague Reservoir,Smithfield,PROVIDENCE,41.887806,-71.548376
-25,RI0006017L-06,Lake or Pond,Mashapaug Pond,Providence,PROVIDENCE,41.790983,-71.432942
-26,RI0008039L-05,Reservoir ,Meadowbrook Pond (Sandy Pond),Richmond,WASHINGTON,41.439906,-71.691067
-27,RI0006014L-01,Lake or Pond,Mishnock Lake,West Greenwich,KENT,41.654058,-71.590844
-28,RI0006018L-01,Reservoir ,Oak Swamp Reservoir,Johnston,PROVIDENCE,41.827322,-71.541019
-29,RI0001002L-03,Reservoir ,Pascoag Reservoir (Echo Lake),Burrillville,PROVIDENCE,41.944583,-71.706023
-30,RI0008039L-06,Lake or Pond,Pasquiset Pond,Charlestown,WASHINGTON,41.426961,-71.631367
-31,RI0008039R-18C,Stream or river,Pawcatuck River @ Bradford.  (Westerly/Hopkinton),Hopkinton,WASHINGTON,41.406269,-71.747733
-32,RI0010043E-06A,Salt Pond,Pt Judith Pond - East Pond,Narragansett,WASHINGTON,41.387539,-71.500766
-33,RI0007020L-06,Lake or Pond,Prince's Pond (Tiffany Pond),Barrington,BRISTOL,41.743678,-71.318425
-34,RI0008039L-19,Reservoir ,Queen River @ Usquepaugh (Glen Rock Reservoir),South Kingstown,WASHINGTON,41.507914,-71.606189
-35,RI0006013L-04,Reservoir ,Quidnick Reservoir,Coventry,KENT,41.679061,-71.679369
-36,RI0006018L-04,Lake or Pond,Randall Pond,Cranston,PROVIDENCE,41.788765,-71.468889
-37,RI0006017L-05,Reservoir ,Roger Williams Park Pond (Cunliff Lake),Providence,PROVIDENCE,41.778542,-71.412970
-38,RI0006017L-09,Lake or Pond,Sand Pond (N. of Airport),Warwick,KENT,41.745261,-71.424635
-39,RI0010045L-01,Reservoir ,Saugatucket Pond,South Kingstown,WASHINGTON,41.453581,-71.494992
-40,RI0010043L-09,Lake or Pond,Schoolhouse Pond-Lower,Charlestown,WASHINGTON,41.395469,-71.665214
-41,RI0010043L-09,Lake or Pond,Schoolhouse Pond-Upper,Charlestown,WASHINGTON,41.400531,-71.667686
-42,RI0007027L-03,Reservoir ,Secret Lake,North Kingstown,KENT,41.555019,-71.480589
-43,RI0006015L-05,Lake or Pond,Shippee Sawmill Pond,Foster,PROVIDENCE,41.834822,-71.751681
-44,RI0010045L-05,Lake or Pond,Silver Lake,South Kingstown,WASHINGTON,41.433967,-71.488181
-45,RI0010044L-02,Reservoir ,Silver Spring Lake,North Kingstown,KENT,41.538511,-71.469867
-46,RI0002007L-03,Reservoir ,Slack's Reservoir,Johnston,PROVIDENCE,41.859528,-71.551750
-47,RI0004009L-02,Lake or Pond,Slater Pond,Pawtucket,PROVIDENCE,41.871036,-71.344896
-48,RI0001002L-07,Reservoir ,Smith and Sayles Reservoir,Glocester,PROVIDENCE,41.893469,-71.682067
-49,RI0006017L-07,Lake or Pond,Spectacle Pond,Cranston,PROVIDENCE,41.790244,-71.442558
-50,RI0001002L-06,Lake or Pond,Spring Grove Pond,Glocester,PROVIDENCE,41.908847,-71.649328
-51,RI0001002L-04,Lake or Pond,Spring Lake (Herring Pond),Burrillville,PROVIDENCE,41.982658,-71.664339
-52,RI0002007L-07,Reservoir ,Stillwater Pond,Smithfield,PROVIDENCE,41.908342,-71.527331
-53,RI0001002L-05,Lake or Pond,Sucker Pond,Burrillville,PROVIDENCE,41.936839,-71.668168
-54,RI0006012L-02,Lake or Pond,Tarbox Pond,West Greenwich,KENT,41.634431,-71.568811
-55,RI0006014L-02,Reservoir ,Tiogue Lake,Coventry,KENT,41.679097,-71.550853
-56,RI0008039L-08,Lake or Pond,Tucker Pond,South Kingstown,WASHINGTON,41.424494,-71.551047
-57,RI0004009L-01B,Reservoir ,Turner Reservoir (south),East Providence,PROVIDENCE,41.840031,-71.339789
-58,RI0001003L-02,Reservoir ,Valley Falls Pond,Central Falls,PROVIDENCE,41.895206,-71.398375
-59,RI0007024L-02,Lake or Pond,Warwick Pond,Warwick,KENT,41.722800,-71.412906
-60,RI0008039L-02,Lake or Pond,Watchaug Pond,Charlestown,WASHINGTON,41.379358,-71.690058
-61,RI0002007L-04,Reservoir ,Waterman Reservoir,Glocester,PROVIDENCE,41.881519,-71.589489
-62,RI0003008L-05,Reservoir ,Wenscott Reservoir,North Providence,PROVIDENCE,41.872736,-71.464036
-63,RI0001002L-01,Reservoir ,Wilson Reservoir,Burrillville,PROVIDENCE,41.967878,-71.727158
-64,RI0010043L-05,Lake or Pond,White Pond,South Kingstown,WASHINGTON,41.414572,-71.545928
-65,RI0002007L-08,Reservoir ,Woonasquatucket Reservoir (Stump Pond),Smithfield,PROVIDENCE,41.906078,-71.544722
-66,RI0008039L-07,Lake or Pond,Worden Pond,South Kingstown,WASHINGTON,41.437677,-71.570920
-67,RI0008040L-11,Reservoir ,Wyoming Pond,Hopkinton,WASHINGTON,41.516191,-71.702446
-68,RI0008039L-15,Lake or Pond,Yawgoo Pond,South Kingstown,WASHINGTON,41.510569,-71.571660
-69,RI0008039R-03,Stream or river,Beaver River 1 (Old Mt),Richmond,WASHINGTON,41.538690,-71.641044
-70,RI0008039R-03,Stream or river,Beaver River 3 (Rte 138),Richmond,WASHINGTON,41.492323,-71.627958
-71,RI0008039R-03,Stream or river,Beaver River 4 (Shannock),Richmond,WASHINGTON,41.464271,-71.627845
-72,RI0008040R-07,Stream or river,Falls River A - Twin Bridges,West Greenwich,KENT,41.579995,-71.720860
-73,RI0008040R-07,Stream or river,Falls River B - Sand Bank,Exeter,WASHINGTON,41.587169,-71.731245
-74,RI0008040R-07,Stream or river,Falls River C - Austin Farm Rd,Exeter,WASHINGTON,41.598177,-71.745779
-75,RI0008040R-07,Stream or river,Falls River D - Stepstone Falls,Exeter,WASHINGTON,41.612641,-71.760484
-76,RI0008040R-11,Stream or river,Locustv. Log House Brook at Grassy-Sand Pond Rd,Hopkinton,WASHINGTON,41.540673,-71.770805
-77,RI0008040R-03B,Stream or river,Locustv. Brushy Brook at Woody Hill,Hopkinton,WASHINGTON,41.534474,-71.748054
-78,RI0008040R-03B,Stream or river,Locustv. Brushy Brook at Saw Mill,Hopkinton,WASHINGTON,41.527842,-71.736243
-79,RI0008040R-12,Stream or river,Locustv. Moscow Brook at Saw Mill,Hopkinton,WASHINGTON,41.527008,-71.736715
-80,RI0008039R-13,Stream or river,Meadow Brook 1,Richmond,WASHINGTON,41.500833,-71.665080
-81,RI0008039R-13,Stream or river,Meadow Brook 2,Richmond,WASHINGTON,41.466504,-71.690180
-82,RI0008039R-13,Stream or river,Meadow Brook 3,Richmond,WASHINGTON,41.446585,-71.690148
-83,RI0005011R-03,Stream or river,Moosup River Upstream,Foster,PROVIDENCE,41.765449,-71.767155
-84,RI0005011R-03,Stream or river,Moosup River-A - Fairbanks,Coventry,KENT,41.706458,-71.761538
-85,RI0005011R-03,Stream or river,Moosup River-B,Coventry,KENT,41.690931,-71.763224
-86,RI0010044R-01,Stream or river,Narrow River 01 - Gilbert Stuart Stream,North Kingstown,KENT,41.519381,-71.445281
-87,RI0010044E-01A,Estuary,Narrow River 02 - Upper Pond,North Kingstown,KENT,41.514214,-71.447789
-88,RI0010044R-10,Stream or river,Narrow River 12 - Mumford Brook,South Kingstown,WASHINGTON,41.438846,-71.475098
-89,RI0010044E-01A,Estuary,Narrow River 03 - Lower Pond A,North Kingstown,KENT,41.503847,-71.451550
-90,RI0001003R-01A,Stream or river,Blackstone Canal at Scott Pond,Lincoln,PROVIDENCE,41.906618,-71.406206
-91,RI0010044E-01A,Estuary,Narrow River 04 - Lower Pond B,South Kingstown,WASHINGTON,41.494719,-71.448764
-92,RI0008039L-21,Reservoir ,The Reservoir (Camp Canonicus),Exeter,WASHINGTON,41.540776,-71.522073
-93,RI0010044E-01A,Estuary,Narrow River 05 - Lacey Bridge.  (South Kingstown/Narragansett),South Kingstown,WASHINGTON,41.488384,-71.447304
-94,RI0010044E-01A,Estuary,"Narrow River 06 - Mettatuxet Beach (Narragansett, South Kingstown)",Narragansett,WASHINGTON,41.475468,-71.448277
-95,RI0010044E-01A,Estuary,"Narrow River 07 - End of Narrows, (South Kingstown/Narragansett)",South Kingstown,WASHINGTON,41.469000,-71.448894
-96,RI0010044E-01A,Estuary,Narrow River 08 - Middlebridge / Narrow River 20 - NW Middlebridge,South Kingstown,WASHINGTON,41.457969,-71.450764
-97,RI0010044E-01A,Estuary,"Narrow River 09 - Pettaquamscutt (Narragansett, South Kingstown)",Narragansett,WASHINGTON,41.444172,-71.460867
-98,RI0010044E-01A,Estuary,Narrow River 10 - Sprague Bridge,Narragansett,WASHINGTON,41.448594,-71.449317
-99,RI0010044E-01A,Stream or river,Narrow River 11 - Mettatuxet Brook,Narragansett,WASHINGTON,41.471008,-71.443617
-100,RI0008039R-34,Stream or river,Queens River (Sherman Brook),South Kingstown,WASHINGTON,41.517794,-71.604454
-101,RI0008039R-21A,Stream or river,Queens River (Brownell's - Wm Reynold's Rd),Exeter,WASHINGTON,41.562563,-71.547991
-102,RI0008039R-21C,Stream or river,Queens River 5 (Sand Bridge),Exeter,WASHINGTON,41.543656,-71.564275
-103,RI0008039R-21C,Stream or river,Queens River (Mail Rd) 06b,Exeter,WASHINGTON,41.538969,-71.568641
-104,RI0008039R-39,Stream or river,Barber Pond-Mud Brook,Exeter,WASHINGTON,41.512197,-71.557174
-105,RI0007027R-02,Stream or river,Belleville Upper Pond Inlet @ RR Xing,North Kingstown,KENT,41.571719,-71.486458
-106,RI0007027R-02,Stream or river,Belleville Lower Pond Outlet @ Sluiceway,North Kingstown,KENT,41.557497,-71.472726
-107,RI0008040R-15,Stream or river,Boone Tributary 1/Roaring Brook,Exeter,WASHINGTON,41.587845,-71.671288
-108,RI0008040R-15,Stream or river,Boone Tributary 2/Roaring Brook,Exeter,WASHINGTON,41.582932,-71.672485
-109,RI0010044R-02,Stream or river,Carr Inlet (NK) Eastern,North Kingstown,KENT,41.525384,-71.446401
-110,RI0006013L-01,Reservoir ,Flat River Reservoir @ Zeke's Bridge,Coventry,KENT,41.665330,-71.618884
-111,RI0006013L-01,Reservoir ,Flat River Reservoir @ Isle of Capri,Coventry,KENT,41.672999,-71.607902
-112,RI0006013R-02,Stream or river,Flat River @ Maple Valley,Coventry,KENT,41.714721,-71.652406
-113,RI0002007R-10A,Reservoir ,Georgiaville @ Capron Pond/Woonasquatucket River,Smithfield,PROVIDENCE,41.902792,-71.521688
-114,RI0002007R-03,Stream or river,Georgiaville @ Harris/Harris Brook,Smithfield,PROVIDENCE,41.899054,-71.510030
-115,RI0008039R-17,Stream or river,Pasquiset Tributary/Pasquiset Brook,Charlestown,WASHINGTON,41.429549,-71.627942
-116,RI0007027R-07,Stream or river,Secret Lake-Oak Hill East/Oak Hill Brook,North Kingstown,KENT,41.556219,-71.481173
-117,RI0007027R-07,Stream or river,Secret Lake-Oak Hill West/Oak Hill Brook,North Kingstown,KENT,41.556958,-71.483160
-118,RI0007027L-03,Stream or river,Secret Lake-Shore Dr.,North Kingstown,KENT,41.554202,-71.476051
-119,RI0008039R-05A,Stream or river,Shickasheen Brook @ Rte 2,Exeter,WASHINGTON,41.523470,-71.553149
-120,RI0008039R-05A,Stream or river,Shickasheen Brook @ Miskiania,Exeter,WASHINGTON,41.520507,-71.571997
-121,RI0008039R-05B,Stream or river,Shickasheen Brook @ Barber Outlet,South Kingstown,WASHINGTON,41.498685,-71.564969
-122,RI0008039R-05B,Stream or river,Shickasheen Brook @ Rte 138,South Kingstown,WASHINGTON,41.486348,-71.564517
-123,RI0002007R-15,Stream or river,Slack's Tributary 1 (A - Northwest corner - culvert),Smithfield,PROVIDENCE,41.866375,-71.558561
-124,RI0002007R-15,Stream or river,"Slack's Tributary 2 (B - SW cove - drainage from 36"" H x 6' wide concrete culvert))",Johnston,PROVIDENCE,41.859348,-71.557825
-125,RI0002007R-15,Stream or river,"Slack's Tributary 3 (C - Outlet of stream crossing Windsor Ave., discharging into Southernmost cove)",Johnston,PROVIDENCE,41.855697,-71.556795
-126,RI0002007R-15,Stream or river,"Slack's Tributary 4 (D - Southeast cove - 17"" concrete pipe discharge)",Johnston,PROVIDENCE,41.855578,-71.549621
-127,RI0001002R-32,Stream or river,Smith & Sayles @ Keech/Trib to S & S,Glocester,PROVIDENCE,41.884496,-71.688140
-128,RI0001002R-33,Stream or river,Smith & Sayles @ Balcom/Trib to S & S,Glocester,PROVIDENCE,41.889509,-71.681274
-129,RI0001002R-33,Stream or river,Smith & Sayles @ O'Donnel/Trib to S & S,Glocester,PROVIDENCE,41.894446,-71.674377
-130,RI0007037R-01,Stream or river,Stafford Pond Inlet-Upstream/Sucker Brook,Tiverton,NEWPORT,41.656455,-71.161964
-131,RI0007037R-02,Stream or river,Stafford Pond Inlet-Downstream/Sucker Brook,Tiverton,NEWPORT,41.654926,-71.160345
-132,RI0007037L-01,Lake or Pond,Stafford Pond-Northeast(NE) Cove,Tiverton,NEWPORT,41.650622,-71.154700
-133,RI0008039R-19,Stream or river,Watchaug Pond-Perry Healy Brook,Charlestown,WASHINGTON,41.380209,-71.704082
-134,RI0003008L-02,Reservoir ,Barney Pond,Lincoln,PROVIDENCE,41.896956,-71.417594
-135,RI0005047L-03,Reservoir ,Bowdish Reservoir,Glocester,PROVIDENCE,41.922877,-71.770632
-136,RI0008040L-15,Reservoir ,Breakheart Pond,Exeter,WASHINGTON,41.596494,-71.701839
-137,RI0001003L-04,Reservoir ,Handy Pond (Rochambeau Pond),Lincoln,PROVIDENCE,41.958625,-71.472036
-138,RI0008039L-11,Lake or Pond,Larkin Pond,South Kingstown,WASHINGTON,41.470014,-71.557850
-139,RI0003008L-01,Lake or Pond,Olney Pond,Lincoln,PROVIDENCE,41.889017,-71.432644
-140,RI0006017L-05,Reservoir ,Pleasure Pond (a Roger William Park Pond),Providence,PROVIDENCE,41.784922,-71.411982
-141,RI0008039R-18E,Stream or river,Pawcatuck River @ Potter Hill,Hopkinton,WASHINGTON,41.416739,-71.797617
-142,RI0006017L-05,Reservoir ,Roosevelt Pond (a Roger William Park Pond),Providence,PROVIDENCE,41.782844,-71.417313
-143,RI0001003L-01,Reservoir ,Scott Pond,Lincoln,PROVIDENCE,41.898391,-71.407028
-144,RI0002007L-05,Reservoir ,Upper Sprague Reservoir,Smithfield,PROVIDENCE,41.892947,-71.564222
-145,RI0007037L-01,Lake or Pond,Stafford Pond,Tiverton,NEWPORT,41.643428,-71.154869
-146,RI0008039R-06B,Stream or river,Chipuxet River @ Wolf Rocks Rd.,Exeter,WASHINGTON,41.505934,-71.531144
-147,RI0006013L-03,Reservoir ,Coventry Reservoir (Stump Pond),Coventry,KENT,41.692767,-71.640317
-148,RI0010043L-06,Lake or Pond,Wash Pond,South Kingstown,WASHINGTON,41.401111,-71.550853
-149,RI0005010L-01,Lake or Pond,Beach Pond,Exeter,WASHINGTON,41.577011,-71.788636
-150,RI0005011L-01,Lake or Pond,Carbuncle Pond,Coventry,KENT,41.697074,-71.771506
-151,RI0006016L-02,Reservoir ,J.L.Curran Reservoir (Fiskeville Reservoir),Cranston,PROVIDENCE,41.751282,-71.549102
-152,RI0005047L-01,Reservoir ,Wakefield Pond,Burrillville,PROVIDENCE,41.959444,-71.792458
-153,RI0002007L-08,Reservoir ,Woonasquatucket Reservoir-South end,Smithfield,PROVIDENCE,41.892444,-71.538289
-154,RI0007025L-01,Lake or Pond,Gorton Pond,Warwick,KENT,41.705233,-71.460264
-155,RI0005047L-04,Lake or Pond,Lake Washington,Glocester,PROVIDENCE,41.916622,-71.756942
-156,RI0010048E-02,Salt Pond,Quicksand Pond,Little Compton,NEWPORT,41.505196,-71.131313
-157,RI0001001L-01,Lake or Pond,Wallum Pond,Burrillville,PROVIDENCE,41.999523,-71.765950
-158,RI0001002L-09,Reservoir ,Slatersville Reservoir  - Upper,North Smithfield,PROVIDENCE,41.993045,-71.595605
-159,RI0010048E-01,Salt Pond,Briggs Marsh Pond,Little Compton,NEWPORT,41.477207,-71.166859
-160,RI0008040L-16,Lake or Pond,Eisenhower Lake,West Greenwich,KENT,41.621048,-71.715856
-161,RI0006014L-04,Lake or Pond,Upper Dam Pond (Breezy Lake),Coventry,KENT,41.705822,-71.553466
-162,,,,,,,
-163,RI0004009L-02,Stream or river,Slater Outlet-Ten Mile River,Pawtucket,PROVIDENCE,41.870377,-71.342369
-164,RI0004009L-02,Lake or Pond,Slater Trib-Boathouse,Pawtucket,PROVIDENCE,41.871434,-71.344790
-165,RI0004009L-02,Reservoir ,Slater Trib-Friendship Garden,Pawtucket,PROVIDENCE,41.870356,-71.347341
-166,,Stream or river,Keech Inlet 1,Glocester,PROVIDENCE,,
-167,,Stream or river,Keech Inlet 2,Glocester,PROVIDENCE,,
-168,,Stream or river,Keech Inlet 3,Glocester,PROVIDENCE,,
-169,RI0010043E-05,Salt Pond,Potter Pond - Mid Pond (P3),South Kingstown,WASHINGTON,41.383992,-71.531167
-170,RI0010048R-01,Stream or river,Quicksand @ Cole Bk./North Trib,Little Compton,NEWPORT,41.520448,-71.137788
-171,RI0010048R-03,Stream or river,Quicksand @ East Trib/East of Cole Brook (Pottsville Brook),Little Compton,NEWPORT,41.524173,-71.134466
-172,,Stream or river,Wakefield Trib. 1,Burrillville,PROVIDENCE,,
-173,,Stream or river,Wakefield Trib. 2,Burrillville,PROVIDENCE,,
-174,,Stream or river,Wakefield Trib. 3,Burrillville,PROVIDENCE,,
-175,,Stream or river,Wakefield Trib. 4,Burrillville,PROVIDENCE,,
-176,RI0006013R-09,Stream or river,Whaley 1,Coventry,KENT,41.721991,-71.669919
-177,RI0006013R-09,Stream or river,Whaley 2,Coventry,KENT,41.720158,-71.667154
-178,RI0006013R-09,Stream or river,Whaley 3,Coventry,KENT,41.719170,-71.664684
-179,RI0008040R-01,Stream or river,Acid Factory Brook - Eisenhower Trib. @ StubleBrook Rd,West Greenwich,KENT,41.636925,-71.702661
-180,RI0006018L-03,Reservoir ,Simmons Reservoir-Upper,Johnston,PROVIDENCE,41.797692,-71.519769
-181,RI0008040L-17,Lake or Pond,Tippencansett Pond,West Greenwich,KENT,41.598397,-71.782523
-182,RI0006015L-02,Reservoir ,Ponagansett Reservoir,Glocester,PROVIDENCE,41.872307,-71.742640
-183,RI0007029L-01,Lake or Pond,Melville Pond - Upper,Portsmouth,NEWPORT,41.583778,-71.272747
-184,RI0010048R-08,Stream or river,Briggs East Trib/Briggs Marsh Pond Tributaries,Little Compton,NEWPORT,41.480113,-71.160393
-185,RI0010048R-08,Stream or river,Briggs North Trib/Dundery Brook,Little Compton,NEWPORT,41.487430,-71.170174
-186,RI0008040R-16C,Stream or river,Wood River @ Woodville,Richmond,WASHINGTON,41.460466,-71.718215
-187,RI0008040R-16A,Stream or river,Wood River @ Route 165,Exeter,WASHINGTON,41.574001,-71.720675
-188,RI0001002R-23,Stream or river,Locustville/Dawley Brook,Hopkinton,WASHINGTON,41.530355,-71.727524
-189,RI0008038E-01B,Estuary,Tidal Pawcatuck River @ Avondale,Westerly,WASHINGTON,41.333207,-71.839866
-190,RI0007027L-01,Reservoir ,Annaquatucket Mill Pond,North Kingstown,KENT,41.550503,-71.441316
-191,RI0008039R-13,Stream or river,Meadow Brook Inlet,Richmond,WASHINGTON,41.443964,-71.690624
-192,RI0007027E-07,Lake or Pond,Wesquage Pond 2,Narragansett,WASHINGTON,41.477417,-71.426467
-193,RI0008039R-21A,Stream or river,Queen River 1/Stony Lane,Exeter,WASHINGTON,41.595036,-71.544631
-194,RI0008039R-21A,Stream or river,Queen River 2/Golf Course (0.5 miles south of Victory Hwy),Exeter,WASHINGTON,41.571489,-71.545175
-195,RI0008039R-07,Stream or river,Queen River 3/Fisherville Brook,Exeter,WASHINGTON,41.561925,-71.561933
-196,RI0008039R-21B,Stream or river,Queen River 4/Ladd School,Exeter,WASHINGTON,41.554847,-71.549417
-197,RI0010043E-06A,Salt Pond,Pt Judith Pond - Central,Narragansett,WASHINGTON,41.395896,-71.512369
-198,RI0008039R-21C,Stream or river,Queen River 6/Eppley (Audubon footbridge),Exeter,WASHINGTON,41.521264,-71.587728
-199,RI0010047L-01,Lake or Pond,Almy Pond,Newport,NEWPORT,41.459166,-71.312405
-200,RI0008039L-01,Lake or Pond,Chapman Pond,Westerly,WASHINGTON,41.380384,-71.795259
-201,RI0002007L-01,Lake or Pond,Hawkins Pond,Johnston,PROVIDENCE,41.860291,-71.544422
-202,RI0006018L-02,Reservoir ,Almy Reservoir (Jillson Reservoir),Johnston,PROVIDENCE,41.815907,-71.520183
-203,RI0010031E-02B,Estuary,Nanaquaket Pond,Tiverton,NEWPORT,41.615894,-71.204907
-204,RI0001002L-08,Lake or Pond,Tarkiln Pond,North Smithfield,PROVIDENCE,41.963897,-71.595746
-205,RI0001002R-03,Stream or river,Chepachet River,Glocester,PROVIDENCE,41.913884,-71.670323
-206,RI0008039R-21C,Stream or river,Queen River 7 @ Dugway Bridge,South Kingstown,WASHINGTON,41.517188,-71.600387
-207,RI0008039R-10,Stream or river,Queen River @ Locke Brook,Exeter,WASHINGTON,41.537401,-71.587494
-208,RI0005011L-03,Lake or Pond,Arnold Pond,Coventry,KENT,41.668914,-71.747127
-209,RI0010045L-02,Reservoir ,Asa Pond,South Kingstown,WASHINGTON,41.458954,-71.512679
-210,,Lake or Pond,Billings Lake,North Stonington,NEW LONDON,41.508526,-71.874390
-211,,Lake or Pond,Blue Lake (Anderson Pond),North Stonington,NEW LONDON,41.508230,-71.895847
-212,RI0010047L-02,Lake or Pond,Lily Pond,Newport,NEWPORT,41.462837,-71.320427
-213,RI0001002L-13,Lake or Pond,Nichols Pond,Burrillville,PROVIDENCE,41.954363,-71.600896
-214,RI0008040L-06,Lake or Pond,Wincheck Pond,Hopkinton,WASHINGTON,41.519620,-71.765968
-215,,Reservoir ,Spaulding Pond,North Stonington,NEW LONDON,41.447092,-71.830570
-216,,Lake or Pond,Wyassup Lake,North Stonington,NEW LONDON,41.487409,-71.873345
-217,RI0007035R-01,Stream or river,Bailey Brook (Clambake Club),Middletown,NEWPORT,41.510871,-71.293284
-218,RI0007024R-01,Stream or river,Buckeye Brook @ Novelty Rd,Warwick,KENT,41.711538,-71.387724
-219,RI0007024R-03,Stream or river,Buckeye Brook @ Lockwood Brk,Warwick,KENT,41.713727,-71.379332
-220,RI0007024R-04,Stream or river,Buckeye Brook @ Warner Brk,Warwick,KENT,41.706942,-71.380396
-221,RI0007024R-01,Stream or river,Buckeye Brook @ Mill Cove,Warwick,KENT,41.712130,-71.375429
-222,RI0003008R-01C,Stream or river,Moshassuck River @ Collyer Field,Providence,PROVIDENCE,41.853532,-71.406027
-223,RI0008039R-05A,Stream or river,Shickasheen @ Potter Road (Skagg's old dam),Exeter,WASHINGTON,41.521251,-71.563355
-224,RI0007028R-05,Stream or river,Sandhill Brook (Saw Mill Pond Inlet),North Kingstown,KENT,41.610530,-71.466444
-225,RI0008039R-05B,Stream or river,Shickasheen Brook @ Liberty Lane,South Kingstown,WASHINGTON,41.480370,-71.573338
-226,RI0002007R-10C,Stream or river,Woonasquatucket River @ Cricket Park,Johnston,PROVIDENCE,41.865593,-71.492459
-227,RI0002007R-10D,Stream or river,Woonasquatucket River @ Donigian Park,Providence,PROVIDENCE,41.822595,-71.440308
-228,,Lake or Pond,Asseconk Swamp,North Stonington,NEW LONDON,41.438064,-71.884998
-229,RI0007025R-03,Stream or river,GB 1 - Maskerchugg River @ Rte 1,East Greenwich,KENT,41.650125,-71.457585
-230,RI0007025R-13,Stream or river,GB 2 - Burger King (Gorton Pond Tributary),Warwick,KENT,41.698437,-71.461954
-231,RI0007025R-01,Stream or river,GB 3 - Pipe @ Rte 115,Warwick,KENT,41.699040,-71.465133
-232,RI0007025R-14,Stream or river,GB 4 - Mill Brook (75 yards upstream from Meadow Street Culvert),Warwick,KENT,41.696736,-71.459920
-233,RI0007025R-01,Stream or river,GB 5 - Hardig Brook at Nursing Home (Glen Drive),West Warwick,KENT,41.694423,-71.504975
-234,RI0007025R-05,Stream or river,GB 6 - Tuscatucket Brook (Upstream of Rte 117),Warwick,KENT,41.704162,-71.420484
-235,RI0007025R-09,Stream or river,GB 7 - Southern Creek (Upstream of culvert at White Avenue),Warwick,KENT,41.698358,-71.423013
-236,,Stream or river,Shunock River @ Babcock,North Stonington,NEW LONDON,41.440995,-71.881204
-237,,Stream or river,Shunock River @ Hewitt,North Stonington,NEW LONDON,41.446991,-71.891530
-238,RI0002007R-11,Stream or river,Waterman Tributary @ Rte 44 (Nine Foot Brook),Glocester,PROVIDENCE,41.883532,-71.582255
-239,RI0002007R-02,Stream or river,Waterman Tributary @ Saw Mill (Cutler Brook),Glocester,PROVIDENCE,41.884593,-71.599831
-240,RI0002007R-14,Stream or river,Waterman Tributary @ Golf Course,Glocester,PROVIDENCE,41.884085,-71.591567
-241,RI0002007R-14,Stream or river,Waterman Tributary @ Aldrich,Glocester,PROVIDENCE,41.872043,-71.588646
-242,RI0008039R-02A,Stream or river,Ashaway River @ Rte 216,Hopkinton,WASHINGTON,41.424960,-71.789741
-243,RI0008039R-02A,Stream or river,Ashaway River @ Wellstown Rd.,Hopkinton,WASHINGTON,41.438346,-71.790053
-244,RI0008039R-18A,Stream or river,"Pawcatuck River @ Biscuit City Rd (Charlestown, Richmond)",Charlestown,WASHINGTON,41.449681,-71.615660
-245,RI008039R-06C,Stream or river,Chipuxet River @ Rte 138,South Kingstown,WASHINGTON,41.482566,-71.551189
-246,RI0008039R-09,Stream or river,Glen Rock Brook,South Kingstown,WASHINGTON,41.516307,-71.605576
-247,,Stream or river,Lewis Pond outlet,North Stonington,NEW LONDON,41.420437,-71.821920
-248,RI0008039R-18D,Stream or river,Pawcatuck River below Bradford (Hopkinton/Westerly),Hopkinton,WASHINGTON,41.398614,-71.765793
-249,RI0008039R-18C,Stream or river,"Pawcatuck River @ Burdickville Rd (Hopkinton, Chalestown)",Hopkinton,WASHINGTON,41.416314,-71.729071
-250,RI0008039R-18D,Stream or river,"Pawcatuck River @ Chase Hill Rd. (Westerly, Hopkinton)",Westerly,WASHINGTON,41.399321,-71.799688
-251,RI0008039R-18B,Stream or river,"Pawcatuck River below Kenyon Ind. (Charlestown, Richmond)",RICHMOND,WASHINGTON,41.448538,-71.632394
-252,RI0008039R-18C,Stream or river,Pawcatuck River @ Rte 91,Richmond,WASHINGTON,41.445178,-71.681130
-253,RI0008039R-21A,Stream or river,Queen River @ Rte 102,Exeter,WASHINGTON,41.578675,-71.542936
-254,RI0008039R-23,Stream or river,Taney Brook,Richmond,WASHINGTON,41.460699,-71.647800
-255,RI0008039R-24,Stream or river,Tomaquag Brk @ Woodville Rd.,Hopkinton,WASHINGTON,41.460574,-71.775510
-256,RI0008039R-25,Stream or river,Usquepaugh River @ Rte 2,South Kingstown,WASHINGTON,41.476866,-71.604386
-257,RI0010031R-04,Stream or river,Nanaquaket Trib @ Quaket Brook,Tiverton,NEWPORT,41.601749,-71.197796
-258,RI001003R-05B,Estuary,Nanaquaket Trib @ Sin & Flesh Brook,Tiverton,NEWPORT,41.619254,-71.203351
-259,RI0010031R-06,Stream or river,Nanaquaket Trib @ White Wine Brook,Tiverton,NEWPORT,41.612636,-71.195701
-260,RI0010043E-02,Salt Pond,Green Hill Pond - In Pond (center),South Kingstown,WASHINGTON,41.370716,-71.615082
-261,RI0010043E-02,Salt Pond,Green Hill Pond - Indigo Point,South Kingstown,WASHINGTON,41.374138,-71.618774
-262,RI0010043E-02,Salt Pond,Green Hill Pond - Sea Lea (Allen Cove),Charlestown,WASHINGTON,41.369175,-71.625053
-263,RI0010043E-02,Salt Pond,Green Hill Pond - Teal Road,South Kingstown,WASHINGTON,41.377320,-71.609808
-264,RI0010043E-02,Salt Pond,Green Hill Pond - Twin Peninsula,South Kingstown,WASHINGTON,41.372615,-71.610450
-265,RI0010043E-04A,Salt Pond,Ninigret Pond - Crawford Dock,Charlestown,WASHINGTON,41.347473,-71.697365
-266,RI0010043E-04A,Salt Pond,Ninigret Pond - Ft. Neck Cove,Charlestown,WASHINGTON,41.380430,-71.647348
-267,RI0010043E-04B,Salt Pond,Ninigret Pond - Pond Street,Charlestown,WASHINGTON,41.367010,-71.629953
-268,RI0010043E-04A,Salt Pond,Ninigret Pond - Stumpy Point,Charlestown,WASHINGTON,41.378807,-71.646278
-269,RI0010043E-04B,Salt Pond,Ninigret Pond - Tockwotten Dock,Charlestown,WASHINGTON,41.370680,-71.637068
-270,RI0010043E-04A,Salt Pond,Ninigret Pond - Tom Cod,Charlestown,WASHINGTON,41.371567,-71.652470
-271,RI0010043E-04A,Salt Pond,Ninigret Pond - Vigna's Dock,Charlestown,WASHINGTON,41.369907,-71.639336
-272,RI0010046E-01B,Ocean,Great Salt Pond 1 (mid-harbor @ town can 5),New Shoreham,WASHINGTON,41.187315,-71.577951
-273,RI0010046E-01D,Ocean,Great Salt Pond 2 (Narragansett Inn),New Shoreham,WASHINGTON,41.182599,-71.576404
-274,RI0010046E-01B,Ocean,Great Salt Pond 3 (Off Champlain's Dock),New Shoreham,WASHINGTON,41.184521,-71.581060
-275,RI0010046E-01C,Ocean,Great Salt Pond 4 (Trim's Pond),New Shoreham,WASHINGTON,41.179903,-71.572263
-276,RI0010046L-02,Estuary,"Great Salt Pond Trib. 1 (Mill Tail Pond, Ocean Ave. culvert)",New Shoreham,WASHINGTON,41.174089,-71.563622
-277,RI0010046L-02,Estuary,Great Salt Pond Trib. 2 (Bridgegate Square culvert),New Shoreham,WASHINGTON,41.173901,-71.563667
-278,RI0010046L-02,Estuary,Great Salt Pond Trib. 3 (Comorant Cove salt marsh culvert),New Shoreham,WASHINGTON,41.189194,-71.588816
-279,RI0010046L-02,Stream or river,Great Salt Pond Trib. 4 (Beach Avenue),New Shoreham,WASHINGTON,41.176182,-71.573145
-280,RI0010046L-05,Stream or river,Great Salt Pond Trib. 5 (Harris Pt),New Shoreham,WASHINGTON,41.193582,-71.574265
-281,RI0010046L-05,Stream or river,Great Salt Pond Trib. 6 (Scott's),New Shoreham,WASHINGTON,41.190246,-71.570553
-282,RI0010042C-01,Ocean,Watch Hill Surfing Area,Westerly,WASHINGTON,41.305084,-71.859737
-283,RI0010042C-01,Ocean,Misquamicut DEM Surfing Area,Westerly,WASHINGTON,41.319542,-71.808052
-284,RI0010042C-01,Ocean,Weekapaug Breachway Surfing Area,Westerly,WASHINGTON,41.327098,-71.763784
-285,RI0010042C-01,Ocean,Deep Hole Surfing Area,South Kingstown,WASHINGTON,41.372293,-71.537538
-286,RI0010042C-01,Ocean,The K's Surfing Area,Narragansett,WASHINGTON,41.369188,-71.496092
-287,RI0010042C-01,Ocean,Conant  Ave. Surfing Area,Narragansett,WASHINGTON,41.372217,-71.483145
-288,RI0010042C-01,Ocean,Scarborough South Surfing Area,Narragansett,WASHINGTON,41.385285,-71.474571
-289,RI0010042C-01,Ocean,Scarborough DEM Surfing Area,Narragansett,WASHINGTON,41.392356,-71.469168
-290,RI0010042C-01,Ocean,Monahan's Surfing Area,Narragansett,WASHINGTON,41.422416,-71.454256
-291,RI0010042C-01,Ocean,Narragansett Pier @ the Steps Surfing Area,Narragansett,WASHINGTON,41.432304,-71.456079
-292,RI0010042C-01,Ocean,First Beach Surfing Area,Newport,NEWPORT,41.484913,-71.295759
-293,RI0010042C-01,Ocean,Second Beach,Middletown,NEWPORT,41.487949,-71.264144
-294,RI0010031E-01B,Ocean,Third Beach Surfing Area,Middletown,NEWPORT,41.490108,-71.246500
-295,RI0006017L-05,Reservoir ,Elm Pond,Providence,PROVIDENCE,41.774668,-71.412340
-296,RI0008039R-26,Stream or river,White Brook @ Pine Hill Rd,Richmond,WASHINGTON,41.467171,-71.670601
-297,RI0008039R-06B,Stream or river,Chipuxet River @ Yawgoo Valley Rd.,Exeter,WASHINGTON,41.517907,-71.525556
-298,RI0008040L-13,Lake or Pond,Browning Mill Pond,Exeter,WASHINGTON,41.557935,-71.690326
-299,RI0010048L-02,Lake or Pond,Round Pond,Little Compton,NEWPORT,41.463210,-71.187198
-300,RI0010048L-03,Lake or Pond,Simmons Mill Pond,Little Compton,NEWPORT,41.537585,-71.147650
-301,RI0008040L-18,Lake or Pond,Wickaboxet Pond,West Greenwich,KENT,41.629988,-71.768935
-302,,Stream or river,Green Falls River 1 (@ Green Falls Rd),North Stonington,NEW LONDON,41.542858,-71.802475
-303,,Stream or river,Green Falls River 2 (@ Putker),North Stonington,NEW LONDON,41.472412,-71.816299
-304,RI0008039R-37,Stream or river,Green Falls - Rte 184,Hopkinton,WASHINGTON,41.443211,-71.796295
-305,RI0007027R-02,Stream or river,Himes River @ Layfayette Rd,North Kingstown,KENT,41.560860,-71.494438
-306,RI0007027E-04B,Estuary,Wickford Harbor between Rabbit Is. and Cornelius Is.,North Kingstown,KENT,41.579803,-71.452198
-307,RI0010043L-18,Salt Pond,Little Maschaug Pond,Westerly,WASHINGTON,41.321333,-71.821639
-308,RI0002007R-10D,Estuary,Woonasquatucket River @ Waterplace Park,Providence,PROVIDENCE,41.826576,-71.414062
-309,RI0010043E-07,Salt Pond,Quonochontaug Pond - Judge's Rock,Westerly,WASHINGTON,41.333056,-71.747167
-310,RI0008039R-24,Stream or river,Tomaquag Brook @ Chase Hill,Hopkinton,WASHINGTON,41.410816,-71.763672
-311,,Stream or river,Asseconk Brook @ Rte 2,North Stonington,NEW LONDON,41.438511,-71.884361
-312,,Stream or river,Shunock River @ Below Parke Pond,North Stonington,NEW LONDON,41.442307,-71.877022
-313,,Stream or river,Shunock River @ Main St,North Stonington,NEW LONDON,41.441151,-71.881058
-314,RI0008039L-26,Reservoir ,White Brook Pond,Richmond,WASHINGTON,41.465080,-71.670258
-315,RI0007025E-04A,Ocean,Greenwich Bay  2 - Sally Rock,Warwick,KENT,41.672285,-71.412778
-316,RI0007025E-04B,Ocean,Greenwich Bay  3 - The Brothers,Warwick,KENT,41.680977,-71.434584
-317,RI0007025E-01,Ocean,Greenwich Bay  4 - Greenwich Bay Marina,Warwick,KENT,41.684943,-71.445853
-318,RI0007025E-01,Estuary,Greenwich Bay  6 - Ponaug Marina,Warwick,KENT,41.696269,-71.452790
-319,RI0007025E-02,Estuary,Greenwich Bay  8 - Little Rhody Boat Club,Warwick,KENT,41.690398,-71.404225
-320,RI0007025E-06A,Estuary,Greenwich Bay  9 - Warwick Cove Marina,Warwick,KENT,41.687560,-71.392835
-321,RI0007025E-04A,Ocean,Greenwich Bay  1 - Middle Ground Buoy,Warwick,KENT,41.671211,-71.397765
-322,RI0007025E-06A,Estuary,Greenwich Bay  10 - Greenwich Bay North Marina,Warwick,KENT,41.692957,-71.390351
-323,RI0007025E-05B,Ocean,Greenwich Bay  11 - Mouth of Greenwich Cove,Warwick,KENT,41.668753,-71.439929
-324,RI0007025E-05A,Estuary,Greenwich Bay  12 - Harborside,East Greenwich,KENT,41.661712,-71.444117
-325,RI0007025E-05A,Estuary,Greenwich Bay  13 - EG Town Dock,East Greenwich,KENT,41.656283,-71.448264
-326,RI0007025E-06A,Estuary,Greenwich Bay  14 - Wharf Marina,Warwick,KENT,41.696678,-71.388553
-327,RI0010044R-03,Stream or river,Narrow River 15 - Crooked Brook @ Farm,Narragansett,WASHINGTON,41.428692,-71.466441
-328,RI0010044R-03,Stream or river,Narrow River 16 - Crooked Brook @ School,Narragansett,WASHINGTON,41.433934,-71.466914
-329,RI0010046E-01B,Stream or river,Great Salt Pond Trib. 9 (Negus Park),New Shoreham,WASHINGTON,41.176046,-71.570066
-330,RI0010046E-01B,Stream or river,Great Salt Pond Trib. 10 (Island Hardware),New Shoreham,WASHINGTON,41.174802,-71.567825
-331,RI0010046E-01B,Stream or river,Great Salt Pond Trib. 11 (Sullivan's),New Shoreham,WASHINGTON,41.183856,-71.568731
-332,RI0010044E-01A,Estuary,Narrow River 13 - Near Lakeside Rd.,Narragansett,WASHINGTON,41.492231,-71.446705
-333,RI0010045L-04,Stream or river,Narrow River 14 - Lakeside Rd. Outflow,Narragansett,WASHINGTON,41.491467,-71.446527
-334,RI0005011L-02,Lake or Pond,Sisson Pond (Waterman Pond),Coventry,KENT,41.713920,-71.729553
-335,RI0010046E-01C,Estuary,Great Salt Pond Trib. 7 (Trim's Pond West),New Shoreham,WASHINGTON,41.177458,-71.576946
-336,RI0010046E-01C,Stream or river,Great Salt Pond Trib. 8 (Meyer's),New Shoreham,WASHINGTON,41.168290,-71.566970
-337,RI0007027L-04,Lake or Pond,Kettle Hole Pond,North Kingstown,KENT,41.546783,-71.490417
-338,RI0008039R-05A,Stream or river,Shickasheen Brook @ Yawgoo Inlet,Exeter,WASHINGTON,41.516232,-71.573514
-339,RI0006018L-05,Lake or Pond,Printworks Pond,Cranston,PROVIDENCE,41.794903,-71.460040
-340,RI0005047L-08,Lake or Pond,Clarkville Pond,Glocester,PROVIDENCE,41.922275,-71.788518
-341,RI0007028R-03D,Stream or river,HW6 - Hunt River (@ Forge Rd),North Kingstown,KENT,41.641357,-71.445035
-342,RI0006017L-01,Lake or Pond,Meshanticut Pond,Cranston,PROVIDENCE,41.768972,-71.475951
-343,RI0008040L-04,Lake or Pond,Ashville Pond,Hopkinton,WASHINGTON,41.500915,-71.755617
-344,RI0010043E-06A,Salt Pond,Pt Judith Pond - Gardiner Island,South Kingstown,WASHINGTON,41.407192,-71.508003
-345,RI0010043E-07,Salt Pond,Quonochontaug Pond - Harmonic Cove,Westerly,WASHINGTON,41.337776,-71.738670
-346,RI0010043E-07,Salt Pond,Quonochontaug Pond - N. of Bill's Is.,Charlestown,WASHINGTON,41.343723,-71.719360
-347,RI0010043E-07,Salt Pond,Quonochontaug Pond - Shady Harbor Bk,Charlestown,WASHINGTON,41.349083,-71.718086
-348,RI0010043E-04A,Salt Pond,Ninigret Pond - Potato Point,Charlestown,WASHINGTON,41.368599,-71.646606
-349,RI0010043E-09,Salt Pond,Winnapaug Pond - Aquaculture,Westerly,WASHINGTON,41.330276,-71.787361
-350,RI0010043E-09,Salt Pond,Winnapaug Pond - Breachway,Westerly,WASHINGTON,41.335361,-71.768028
-351,RI0010043E-09,Salt Pond,Winnapaug Pond - Golf Course Cove,Westerly,WASHINGTON,41.338402,-71.778793
-352,RI0010043E-09,Salt Pond,Winnapaug Pond - SWest Corner,Westerly,WASHINGTON,41.328362,-71.803696
-353,RI0008040R-16B,Reservoir ,Barberville Pond (Wood River impoundment adjacent to the WPWA campus),Richmond,WASHINGTON,41.540676,-71.696053
-354,RI0008039R-03,Stream or river,Beaver River 2 (Hillsdale Rd.),Richmond,WASHINGTON,41.525543,-71.639275
-355,RI0008039R-03,Stream or river,Beaver River 5 (Lewiston Rd.),Richmond,WASHINGTON,41.454723,-71.628632
-356,RI0007027E-03A,Ocean,Bonnet Beach @ Club,Narragansett,WASHINGTON,41.472299,-71.427186
-357,RI0007027E-03A,Ocean,Bonnet Beach @ Kelly,Narragansett,WASHINGTON,41.471389,-71.429644
-358,RI0007027E-03A,Ocean,Bonnet Beach @ Wesquage Outflow,Narragansett,WASHINGTON,41.472474,-71.423924
-359,RI0007024R-01,Stream or river,Buckeye Brook @ Old Warwick Ave,Warwick,KENT,41.714282,-71.398305
-360,RI0006013L-01,Reservoir ,Flat River Reservoir @ Acres of Pine,Coventry,KENT,41.697951,-71.617539
-361,RI0006013L-01,Reservoir ,Flat River Reservoir @ Colwells / Marina,Coventry,KENT,41.705141,-71.629097
-362,RI0006013L-01,Reservoir ,Flat River Reservoir @ Dam,Coventry,KENT,41.698226,-71.594956
-363,RI0006013L-01,Reservoir ,Flat River Reservoir @ Lazy Croft,Coventry,KENT,41.702329,-71.626562
-364,RI0006013L-01,Reservoir ,Flat River Reservoir @ Raymonds Pt,Coventry,KENT,41.696243,-71.607847
-365,RI0006013L-01,Reservoir ,Flat River Reservoir @ Wood Cove,Coventry,KENT,41.680227,-71.601900
-366,RI0006013L-01,Reservoir ,Flat River Reservoir @ Hall's Beach,Coventry,KENT,41.703487,-71.622982
-367,RI0007025E-02,Estuary,Greenwich Bay 15 - Brushneck Cove,Warwick,KENT,41.688066,-71.403828
-368,,Stream or river,Green Falls at Green Falls Pond,North Stonington,NEW LONDON,41.536576,-71.810181
-369,CT0007029R-02,Lake or Pond,Williams Pond,Lebanon,NEW LONDON,41.630280,-72.303826
-370,RI0007029L-01,Reservoir ,Melville Pond - Lower,Portsmouth,NEWPORT,41.591713,-71.278767
-371,RI0006014R-04A,Stream or river,Pawtuxet River @ Sandy Bottom Rd,Coventry,KENT,41.685999,-71.560653
-372,RI0008039R-31B,Stream or river,Queen's Fort Brook (at Main Street into Job Corp),Exeter,WASHINGTON,41.547001,-71.548164
-373,RI0010048E-02,Estuary,Quicksand Pond @ Gut,Little Compton,NEWPORT,41.499255,-71.125637
-374,RI0010048R-03,Stream or river,Quicksand Pond Trib - Pottsville Brook (Tribs East of Cole Brook),Little Compton,NEWPORT,41.525590,-71.130919
-375,RI0010048R-01,Stream or river,"Quicksand Pond Trib - Cole Brook, Upper (Pottsville Rd.)",Little Compton,NEWPORT,41.522889,-71.139164
-376,RI0010048R-03,Stream or river,Quicksand Pond Trib - Rock Bridge Creek (@ Rockbridge Dr.),Little Compton,NEWPORT,41.516794,-71.129251
-377,RI0010045R-05A,Stream or river,Saugatucket River @ Rte 138.  Saug 1,South Kingstown,WASHINGTON,41.490722,-71.487091
-378,RI0010045R-05A,Stream or river,Saugatucket River @ Broad Rock Rd.  Saug 1,South Kingstown,WASHINGTON,41.488339,-71.484830
-379,RI0010045R-05B,Stream or river,Saugatucket River @ Saugatucket Rd.  Saug 3,South Kingstown,WASHINGTON,41.464648,-71.490733
-380,RI0010045L-01,Stream or river,Saugatucket Inlet/Saugatucket River just upstream of Saugatucket Pond,South Kingstown,WASHINGTON,41.464688,-71.490832
-381,RI0010045R-05B,Stream or river,Saugatucket River just below Saugatucket Pond Dam.  Saug 3,South Kingstown,WASHINGTON,41.451683,-71.496144
-382,RI0010045R-05B,Stream or river,Saugatucket River @ Church Street.  Saug 4,South Kingstown,WASHINGTON,41.447760,-71.496604
-383,RI0010045R-04,Stream or river,"Saugatucket River Trib @ Kingstown Rd. (Rocky Brook), Saug5",South Kingstown,WASHINGTON,41.451725,-71.501465
-384,RI0010045R-05B,Stream or river,"Saugatucket River @ Wakefield School footbridge, Saug 5",South Kingstown,WASHINGTON,41.439114,-71.500013
-385,RI0010045R-05B,Stream or river,Saugatucket River @ Main Street Dam.  Saug  6,South Kingstown,WASHINGTON,41.437322,-71.501247
-386,RI0010045R-02,Stream or river,Saugatucket River Trib - Indian Run River @ Peace Dale Green/Guild.  Saug 4,South Kingstown,WASHINGTON,41.450004,-71.494798
-387,RI0010045R-01,Stream or river,Saugatucket River Trib - Indian Lake outflow @ Broad Rock Rd.   (Fresh Meadow Brook).  Saug  7,South Kingstown,WASHINGTON,41.479060,-71.482454
-388,,Stream or river,Schoolhouse Spring,Charlestown,WASHINGTON,,
-389,RI0008039R-05A,Stream or river,Shickasheen @ Arrow Swamp,Exeter,WASHINGTON,41.527657,-71.554436
-390,RI0008039R-05B,Stream or river,Shickasheen @ Waites Corner Rd. (Richmond Farm),South Kingstown,WASHINGTON,41.490001,-71.558620
-391,RI0008040R-16C,Stream or river,Wood River @ Switch Rd.,Hopkinton,WASHINGTON,41.491318,-71.715401
-392,RI0001002L-07,Stream or river,Smith & Sayles - Dam,Glocester,PROVIDENCE,41.902049,-71.677654
-394,RI0008040R-01,Stream or river,Acid Factory Brook at inlet to Eisenhower Lake,West Greenwich,KENT,41.624008,-71.715706
-395,,Stream or river,Asseconk Brook @ Jeremy Hill,North Stonington,NEW LONDON,41.438705,-71.910408
-396,RI0008040R-02,Stream or river,Breakheart Brook,Exeter,WASHINGTON,41.588036,-71.709351
-397,RI0008039R-04,Stream or river,Cedar Swamp Brook,Charlestown,WASHINGTON,41.427074,-71.695000
-398,,Stream or river,Glade Brook,North Stonington,NEW LONDON,41.468136,-71.808098
-399,RI0008040R-10,Stream or river,Kelley Brook,West Greenwich,KENT,41.612255,-71.753281
-400,RI0010046E-01A,Ocean,BI Beach Club,New Shoreham,WASHINGTON,41.196128,-71.574202
-401,,Stream or river,Pendelton Hill Brook @ Grindstone Rd,North Stonington,NEW LONDON,41.474796,-71.834053
-402,RI0008039R-32,Stream or river,Rake Factory Brook,South Kingstown,WASHINGTON,41.519803,-71.598270
-403,RI0008040R-15,Stream or river,Roaring Bk @ Arcadia,Exeter,WASHINGTON,41.558411,-71.685196
-404,RI0008040R-15,Stream or river,Roaring Bk @ Summit Rd,Exeter,WASHINGTON,41.556892,-71.697853
-405,,Stream or river,Shunock River @ Rte 49,North Stonington,NEW LONDON,41.410176,-71.844728
-406,RI0006014L-01,Lake or Pond,Mishnock Lake - Little,West Greenwich,KENT,41.653658,-71.594097
-407,RI0007035R-01,Stream or river,Bailey Brook (Market),Middletown,NEWPORT,41.516171,-71.295636
-408,RI0007035R-01,Stream or river,Bailey Brook (SRU - 1),Middletown,NEWPORT,41.526359,-71.293692
-409,RI0007035R-01,Stream or river,Bailey Brook (SRU - 2),Middletown,NEWPORT,41.505808,-71.290883
-410,RI0005011R-03,Stream or river,Moosup River - Deerfield Dr. (CT),Oneco,WINDHAM,41.691972,-71.799732
-411,RI0008039R-37,Stream or river,Parmentier Brk @ Clark Falls Rd.,Hopkinton,WASHINGTON,41.461674,-71.782951
-412,RI0008039R-27B,Stream or river,White Horn Brook @ Ministerial Rd.,South Kingstown,WASHINGTON,41.462859,-71.554640
-413,RI0008039R-26,Stream or river,White Brook Pond Outlet (White Brook),Richmond,WASHINGTON,41.463600,-71.671669
-414,RI0001003R-01A,Stream or river,Blackstone River @ Manville Falls,Lincoln,PROVIDENCE,41.971224,-71.471071
-415,RI0010043E-04A,Salt Pond,Ninigret Pond - Western Basin,Charlestown,WASHINGTON,41.353184,-71.681183
-416,RI0010043E-06K,Salt Pond,Pt Judith Pond - Champlin's Cove,Narragansett,WASHINGTON,41.406666,-71.491638
-417,RI0010043E-06B,Salt Pond,Pt Judith Pond - Ram Point,South Kingstown,WASHINGTON,41.425194,-71.496613
-418,RI0010043E-07,Salt Pond,Quonochontaug Pond - Harmonic Cove Buoy,Westerly,WASHINGTON,41.337334,-71.738197
-419,RI0010043E-07,Salt Pond,Quonochontaug Pond - Harmonic Cove Channel,Westerly,WASHINGTON,41.333752,-71.737358
-420,RI0010043E-07,Salt Pond,Quonochontaug Pond - Judge's Rock Buoy,Westerly,WASHINGTON,41.334290,-71.746251
-421,RI0010043E-07,Salt Pond,Quonochontaug Pond - Mud Cove,Westerly,WASHINGTON,41.330655,-71.751428
-422,RI0010043E-07,Salt Pond,Quonochontaug Pond - Yacht Basin,Westerly,WASHINGTON,41.329082,-71.749725
-423,RI0010045R-05B,Stream or river,Saugatucket River - Caleb's Dock (just upstream of the dam at the corner of Main and High Streets),South Kingstown,WASHINGTON,41.438831,-71.500168
-424,RI0008038E-02B,Ocean,Watch Hill Harbor (Buoy 4),Westerly,WASHINGTON,41.312602,-71.861690
-425,RI0010042C-01,Ocean,Napatree Point - Bayside,Westerly,WASHINGTON,41.312021,-71.870112
-426,RI0010042C-01,Ocean,Napatree Point - Oceanside,Westerly,WASHINGTON,41.305344,-71.879924
-427,RI0007028R-06,Stream or river,HW1a - Scrabbletown Brk @ Falls,North Kingstown,KENT,41.596448,-71.499287
-428,RI0007028R-06,Stream or river,HW1b - Scrabbletown Brk @ Rte 4 Bridge,North Kingstown,KENT,41.594584,-71.498784
-429,RI0007028R-03A,Stream or river,HW2 - Bear Brk @ South Rd. (Headwaters of Hunt River west of Routes 4 and 2),East Greenwich,KENT,41.607754,-71.503741
-430,RI0007028R-01,Stream or river,HW3 - Frenchtown Brk @ Frenchtown Rd.,East Greenwich,KENT,41.626819,-71.497646
-431,RI0007028R-03A,Stream or river,HW4 - Hunt River @ Davis Memorial (Refuge just upstream of Davisville Rd.),East Greenwich,KENT,41.623713,-71.481805
-432,RI0006017R-03,Stream or river,Pawtuxet River @ Ford Ln,Warwick,KENT,41.755277,-71.439591
-433,RI0006017R-03,Stream or river,Pawtuxet River @ Ross Simon Dr,Cranston,PROVIDENCE,41.737451,-71.453753
-434,RI0006018R-03B,Stream or river,Pocasset River @ CLCF Field (near confluence with Pawtuxet River near Marina Drive),Cranston,PROVIDENCE,41.758990,-71.442595
-435,RI0008039R-27B,Stream or river,White Horn Brook @ Bike Trail,South Kingstown,WASHINGTON,41.467204,-71.548941
-436,RI0010043E-07,Salt Pond,Quonochontaug Pond - East Basin Yacht Club (salt pond),Charlestown,WASHINGTON,41.348194,-71.711807
-437,RI0002007R-10C,Reservoir ,Woonasquatucket River @ Greystone Pond,Johnston,PROVIDENCE,41.866175,-71.492738
-438,RI0010045L-04,Stream or river,Wesquage Outlet (Bonnet Pt Rd.) - Pondside.  creek upstream of the culvert,Narragansett,WASHINGTON,41.474720,-71.425062
-439,RI0010045L-04,Stream or river,Wesquage Outlet (Bonnet Pt Rd.) - Oceanside,Narragansett,WASHINGTON,41.474449,-71.425098
-440,RI0010042C-01,Ocean,Block Island Sound - Outside GSP breachway - North.  GA14W,New Shoreham,WASHINGTON,41.202976,-71.588695
-441,RI0010043E-05,Salt Pond,Potter Pond - Kingman's Dock,South Kingstown,WASHINGTON,41.386072,-71.531632
-442,RI0008038E-01A,Estuary,Pawcatuck River upstream of Westerly WWTP,Westerly,WASHINGTON,41.364387,-71.837235
-443,RI0008038E-01A,Estuary,Pawcatuck River downstream of Westerly WWTP,Westerly,WASHINGTON,41.349870,-71.829899
-444,RI0008038E-01B,Estuary,Pawcatuck River - Mouth,Westerly,WASHINGTON,41.323415,-71.855493
-445,RI0008038E-02A,Estuary,Little Narragansett Bay - North of Sandy Pt,Westerly,WASHINGTON,41.323398,-71.878900
-446,RI0010043L-18,Estuary,Little Narragansett Bay - South of Barn Island Ramp,Stonington,NEW LONDON,41.334101,-71.877743
-447,,Ocean,CUSH - Dodson's Boatyard,Stonington,NEW LONDON,41.338029,-71.909146
-448,,Estuary,CUSH - Lambert Cove East (Off Don's Dock),Stonington,NEW LONDON,41.342857,-71.909470
-449,,Estuary,CUSH - Wamphassuc Neck (Stonington Harbor West - Dock at 11 East Neck Rd),Stonington,NEW LONDON,41.341183,-71.916115
-450,,Estuary,CUSH - Stonington Harbor Mid (Off Town Dock),Stonington,NEW LONDON,41.333321,-71.912643
-451,,Estuary,CUSH - Wequetequock Cove (mouth),Stonington,NEW LONDON,41.340248,-71.883545
-452,,Ocean,CUSH - Sandy Point West (East of breakwater),Stonington,NEW LONDON,41.325001,-71.896667
-453,RI0010043E-08,Lake or Pond,Trustom Pond - Otter Pt.,South Kingstown,WASHINGTON,41.374314,-71.581227
-454,RI0004009L-01A,Reservoir ,Central Pond (Turner North),East Providence,PROVIDENCE,41.847760,-71.343163
-455,RI0010042C-01,Ocean,Block Island Sound - Outside GSP breachway - South.  GA14W,New Shoreham,WASHINGTON,41.200062,-71.598448
-456,,Stream or river,Wyassup Brook @ Clark Farms Rd.,North Stonington,NEW LONDON,41.454403,-71.826080
-457,RI0008039R-03,Stream or river,Beaver River @ Richmond Schoolhouse Rd,Richmond,WASHINGTON,41.479679,-71.623604
-458,RI0010045L-04,Lake or Pond,Wesquage Pond (Little),Narragansett,WASHINGTON,41.476061,-71.429485
-459,RI0010043R-02,Lake or Pond,Trustom Pond - Osprey Pt,South Kingstown,WASHINGTON,41.370769,-71.587548
-460,RI0010043L-14,Lake or Pond,Bullhead Pond,South Kingstown,WASHINGTON,41.400184,-71.597254
-461,RI0001002L-17,Lake or Pond,Trout Brook Pond,North Smithfield,PROVIDENCE,41.989117,-71.582459
-462,RI0007026R-01,Estuary,Bristol Harbor (1) - Elks Club,Bristol,BRISTOL,41.666606,-71.278219
-463,RI0007026R-01,Estuary,Bristol Harbor (2) - Bristol Harb Inn,Bristol,BRISTOL,41.670250,-71.279834
-464,RI0007026R-01,Estuary,Bristol Harbor (3) - Silver Creek,Bristol,BRISTOL,41.677058,-71.279036
-465,RI0007026L-01,Estuary,Bristol Harbor (4) - Windmill Pt,Bristol,BRISTOL,41.679628,-71.282618
-466,RI0007026L-01,Estuary,Bristol Harbor (5) - Mill Pond,Bristol,BRISTOL,41.681837,-71.283461
-467,RI0007026L-01,Estuary,Bristol Harbor (6) - Sanroma,Bristol,BRISTOL,41.680352,-71.288161
-468,RI0007026L-01,Estuary,Bristol Harbor (7) - Bristol Yacht Club,Bristol,BRISTOL,41.675519,-71.287674
-469,RI0007026L-01,Estuary,Bristol Harbor (8) - Brito Dock,Bristol,BRISTOL,41.671151,-71.287680
-470,,Estuary,CUSH - Wequetequock Cove - Head,Stonington,NEW LONDON,41.357901,-71.879696
-471,,Ocean,CUSH - Mason's Island Ram Pt,Stonington,NEW LONDON,41.328552,-71.978386
-472,,Estuary,CUSH - Murphy's Point,Stonington,NEW LONDON,41.348400,-71.968559
-473,,Estuary,CUSH - Mystic River Park,Stonington,NEW LONDON,41.353296,-71.969383
-474,,Estuary,CUSH - Pequotsepos Cove - N of Rte 1 ,Stonington,NEW LONDON,41.350041,-71.959120
-475,RI0010043L-13,Stream or river,Trustom Pond Tributary - East,South Kingstown,WASHINGTON,41.378730,-71.583857
-476,RI0010043R-02,Stream or river,Trustom Pond Tributary - West,South Kingstown,WASHINGTON,41.373460,-71.589446
-477,RI0010043L-17,Stream or river,Harmonic Brook (Quonochontaug Trib),Westerly,WASHINGTON,41.338663,-71.738735
-478,RI0008039L-01,Salt Pond,Winnapaug Pond - Cow Cove Creek,Westerly,WASHINGTON,41.336253,-71.767187
-479,RI0008039R-18E,Stream or river,Pawcatuck River - Upstream of Boom Bridge,Westerly,WASHINGTON,41.418251,-71.822115
-480,RI0008039R-18E,Stream or river,Pawcatuck River - At Boom Bridge,Westerly,WASHINGTON,41.417396,-71.823473
-481,RI0008039R-18E,Stream or river,Pawcatuck River - Downstream of Boom Bridge,Westerly,WASHINGTON,41.417048,-71.823723
-482,RI0004009R-01A,Stream or river,Ten Mile River at Central Pond,Pawtucket,PROVIDENCE,41.862426,-71.338250
-483,RI0006015L-13,Lake or Pond,Lake Aldersgate,Glocester,PROVIDENCE,41.878375,-71.663577
-484,RI0001002R-05C,Reservoir ,Harrisville Mill Pond,Burrillville,PROVIDENCE,41.966379,-71.675089
-485,RI0007026R-01,Estuary,Bristol Harbor (9) - Silver Bridge,Bristol,BRISTOL,41.679712,-71.275947
-486,RI0007026R-01,Stream or river,Bristol Harbor (10) - Silver East,Bristol,BRISTOL,41.686853,-71.271594
-487,RI0007026R-01,Stream or river,Bristol Harbor (11) - Silver West,Bristol,BRISTOL,41.686246,-71.276377
-488,RI0007026R-01,Estuary,Bristol Harbor (12) - Herreshoff,Bristol,BRISTOL,41.662309,-71.274280
-489,RI0010043R-02,Stream or river,Factory Brook (Green Hill Pond Trib),South Kingstown,WASHINGTON,41.378348,-71.608447
-490,RI0010043R-01,Stream or river,Mill's Creek (Ninigret Pond Trib),Charlestown,WASHINGTON,41.381245,-71.643217
-491,RI0010043L-12,Salt Pond,Potter Pond - North,South Kingstown,WASHINGTON,41.395025,-71.539232
-492,RI0008039L-01,Salt Pond,Winnapaug Pond - East Basin,Westerly,WASHINGTON,41.332358,-71.780639
-493,RI0006017R-03,Stream or river,Pawtuxet River @ 250 m down from Warwick WWTP,Warwick,KENT,41.739971,-71.448633
-494,RI0010043L-18,Estuary,Napatree Point - Cove,Westerly,WASHINGTON,41.315877,-71.856659
-495,,Estuary,CUSH - Pequotsepos MID Cove - Borodell Ave.,Stonington,NEW LONDON,41.352110,-71.956570
-496,RI0010048R-03,Stream or river,Quicksand Pond Trib - Rock Bridge Creek (@ Quicksand Inlet),Little Compton,NEWPORT,41.515091,-71.128962
-497,RI0008039L-01,Ocean,Fenway Beach,Westerly,WASHINGTON,41.327937,-71.761250
-498,RI0008039R-37,Stream or river,Green Falls River 3 (Clark Falls Rd./Rte 216),North Stonington,NEW LONDON,41.456135,-71.817400
-499,,Estuary,CUSH - Mystic Shipyard,Stonington,NEW LONDON,41.348920,-71.960300
-500,RI0007027L-01,Estuary,Wickford Cove West of Loop Drive,North Kingstown,KENT,41.565704,-71.457145
-501,,Lake or Pond,CUSH - Chesebrough Pond,Stonington,NEW LONDON,41.361340,-71.874300
-502,,Estuary,CUSH - Wequetequock Cove Inlet,Stonington,NEW LONDON,41.351033,-71.883884
-503,RI0007026R-01,Estuary,Bristol Harbor (13) - Ed Mack's Dock,Bristol,BRISTOL,41.659763,-71.268856
-504,RI0006017R-03,Stream or river,Pawtuxet River @ Rhodes,Cranston,PROVIDENCE,41.767197,-71.396012
-505,,Estuary,Allen Cove - Inflow (Green Hill Pond trib),Charlestown,WASHINGTON,41.370986,-71.625745
-506,RI0010043L-11,Estuary,King Tom Pond Outflow (Ninigret Pond trib),Charlestown,WASHINGTON,41.381146,-71.652859
-507,,Stream or river,Ninigret Cove Brook,Charlestown,WASHINGTON,41.345409,-71.729012
-508,RI0002007R-10C,Stream or river,Woonasquatucket River @ Manton Ave.,Providence,PROVIDENCE,41.832995,-71.470563
-509,RI0010042L-01,Lake or Pond,Little Neck Pond,Narragansett,WASHINGTON,41.436338,-71.456227
-510,RI0010046L-01,Stream or river,Great Salt Pond Trib. (Old Town Rd),New Shoreham,WASHINGTON,41.172387,-71.564771
-511,RI0010046L-02,Ocean,Great Salt Pond 5 (Champlin's North),New Shoreham,WASHINGTON,41.185747,-71.582199
-512,RI0010043L-12,Salt Pond,Potter Pond - Segar Cove,South Kingstown,WASHINGTON,41.382572,-71.539184
-513,RI0007027L-03,Stream or river,Himes River @ 124 Hideaway Lane,North Kingstown,KENT,41.557258,-71.491840
-514,,Lake or Pond,Bobby's Pond,Portsmouth,NEWPORT,,
-515,RI0007027L-01,Estuary,Wickford Cove East of Loop Drive,North Kingstown,KENT,41.567219,-71.453854
-516,RI0010045R-05B,Salt Pond,Billington Cove Marina,South Kingstown,WASHINGTON,41.421609,-71.503292
-517,RI0010046L-05,Stream or river,Great Salt Pond Trib. (Breezy Pt Culvert),New Shoreham,WASHINGTON,41.190300,-71.570530
-518,RI0002007R-14,Stream or river,Waterman Tributary Upstream of Golf Course,Glocester,PROVIDENCE,41.887282,-71.591147
-519,RI0007028R-05,Reservoir ,Saw Mill Pond,North Kingstown,KENT,41.612866,-71.465720
-520,RI0010045L-04,Ocean,Bonnet Point,Narragansett,WASHINGTON,41.468415,-71.421502
-521,RI0007026R-01,Lake or Pond,Bristol Harbor (14) - DaPonte/Wood St,Bristol,BRISTOL,41.682495,-71.274506
-522,RI0007026R-01,Stream or river,Bristol Harbor (15) - Silver Gooding Ave,Bristol,BRISTOL,41.694033,-71.267564
-523,RI0010043L-04,Lake or Pond,Cross Mill Pond,Charlestown,WASHINGTON,41.387015,-71.635887
-524,RI0007035L-08,Estuary,Sawpowet Marsh 1,Tiverton,NEWPORT,41.578802,-71.199293
-525,RI0007035L-08,Estuary,Sawpowet Marsh 2,Tiverton,NEWPORT,41.581776,-71.208350
-526,,Estuary,CUSH - Pequotsepos Railroad,Stonington,NEW LONDON,41.349414,-71.960363
-527,,Estuary,CUSH - Pequotsepos Brook (at Mistuxet Ave.),Stonington,NEW LONDON,41.358267,-71.953356
-528,,Estuary,CUSH - Beebe Cove (private dock off Rte 215),Stonington,NEW LONDON,41.334932,-71.991400
-529,RI0006017L-05,Stream or river,Roosevelt Pond inflow (RWP 1),Providence,PROVIDENCE,41.782905,-71.418426
-530,RI0006017L-05,Reservoir ,Willow Lake (RWP 2),Providence,PROVIDENCE,41.783890,-71.414393
-531,RI0006017L-05,Reservoir ,Polo Lake (RWP 3),Providence,PROVIDENCE,41.786347,-71.414957
-532,RI0006017L-05,Reservoir ,Willow/Pleasure Bridge (RWP 4),Providence,PROVIDENCE,41.784091,-71.413870
-533,RI0006017L-05,Reservoir ,Cladrash's Ave Bridge (RWP 5),Providence,PROVIDENCE,41.784872,-71.406646
-534,RI0006017L-05,Reservoir ,Edgewood Lake (RWP 6),Providence,PROVIDENCE,41.781046,-71.406029
-535,RI0006017L-05,Reservoir ,Elm Lake Outflow (RWP 9),Providence,PROVIDENCE,41.773803,-71.412422
-536,RI0007024L-02,Lake or Pond,Spring Green Pond at Warwick Ave.,Warwick,KENT,41.735307,-71.407924
-537,RI0007024L-02,Stream or river,Buckeye Brook @ Airport Rd,Warwick,KENT,41.732846,-71.416661
-538,RI0007024L-02,Stream or river,Buckeye Brook @ Lakeshore Dr (culvert),Warwick,KENT,41.728497,-71.414397
-539,RI0007024L-02,Stream or river,Old Catch Basin (Buckeye Brk system),Warwick,KENT,41.722817,-71.414920
-540,RI0007024R-01,Estuary,Buckeye Brook @ the Bay,Warwick,KENT,41.713541,-71.365097
-541,RI0007035L-08,Estuary,Sawpowet Trib 1,Tiverton,NEWPORT,41.575442,-71.197924
-542,RI0007035L-08,Estuary,Sawpowet Trib 2,Tiverton,NEWPORT,41.575071,-71.198957
-543,,Stream or river,Pendleton Hill Brook @ Rte 49/216,North Stonington,NEW LONDON,41.455281,-71.836298
-544,RI0008039L-06,Lake or Pond,Pasquiset Pond (Ferrio Dock),Charlestown,WASHINGTON,41.423970,-71.632568
-545,,Lake or Pond,Long Pond (LC),Little Compton,NEWPORT,41.465106,-71.178960
-546,,Reservoir ,Peace Dale Reservoir,South Kingstown,WASHINGTON,41.451460,-71.512619
-547,,Stream or river,Shunock River @ Rte 184,North Stonington,NEW LONDON,41.430470,-71.851959
-548,RI0008040L-03,Lake or Pond,Blue Pond,Hopkinton,WASHINGTON,41.507670,-71.748532
-549,,Reservoir ,Wood River @ Mechanic St Dam,Richmond,WASHINGTON,41.503116,-71.716554
-550,,Stream or river,Pasquiset Tributary - Southwest,Charlestown,WASHINGTON,41.421890,-71.634865
-551,,Stream or river,Pasquiset Tributary - Southeast,Charlestown,WASHINGTON,41.421223,-71.629219
-552,RI0007020L-07,Lake or Pond,Echo Lake (Barrington),Barrington,BRISTOL,41.735171,-71.334142
-553,,Stream or river,Knowles Brook,Warwick,KENT,41.702431,-71.387213
-554,,Stream or river,Borden Brook,Tiverton,NEWPORT,41.571963,-71.183476
-555,,Estuary,Bristol Harbor (16) - Roger Williams University Dock,Bristol,BRISTOL,41.649644,-71.256072
-556,,Estuary,Bristol Harbor (18) - Annawanscutt Drive,Bristol,BRISTOL,41.688037,-71.242357
-557,,Estuary,Bristol Harbor (17) - Kickemuit,Bristol,BRISTOL,41.704403,-71.249924
-558,,Stream or river,Narrow River 17 - Mettatuxet Road,Narragansett,WASHINGTON,41.474922,-71.442446
-559,,Estuary,Narrow River 18 - SE Middlebridge,Narragansett,WASHINGTON,41.457803,-71.450602
-560,,Estuary,Narrow River 19 - NE Middlebridge,Narragansett,WASHINGTON,41.457982,-71.450552
-561,,Estuary,Narrow River 21 - SW Middlebridge,Narragansett,WASHINGTON,41.457901,-71.451217
-562,,Estuary,Narrow River 22 - mid Middlebridge,Narragansett,WASHINGTON,41.458333,-71.452500
-563,,Stream or river,Narrow River 23 - Garrison Trail,South Kingstown,WASHINGTON,41.454722,-71.455278
-564,,Estuary,Narrow River 24 - Starr Drive,Narragansett,WASHINGTON,41.444167,-71.455556
-565,,Stream or river,Narrow River 25 - Crooked Brook,Narragansett,WASHINGTON,41.438025,-71.467141
-566,,Stream or river,Narrow River 26 - Kimberly Drive,South Kingstown,WASHINGTON,41.441785,-71.470243
-567,,Stream or river,Narrow River 27 - Bike Path Culvert,Narragansett,WASHINGTON,41.437222,-71.475833
-568,CT2104-00_01,Stream or river,CUSH - Whitford Brook,Stonington,NEW LONDON,41.389709,-71.960412
-569,,Ocean,Napatree Point - Lagoon,Westerly,WASHINGTON,41.309283,-71.880407
-570,RI0010043E-08,Lake or Pond,Trustom Pond - Site 1,South Kingstown,WASHINGTON,41.376225,-71.582442
-571,RI0010043E-08,Lake or Pond,Trustom Pond - Site 2,South Kingstown,WASHINGTON,41.372648,-71.577536
-572,RI0010043E-08,Lake or Pond,Trustom Pond - Site 3,South Kingstown,WASHINGTON,41.370054,-71.581578
-573,,Estuary,Almy Creek,Tiverton,NEWPORT,41.552058,-71.197741
-574,,Estuary,Nanaquaket Pond @ Evelyn's,Tiverton,NEWPORT,41.616022,-71.200609
-575,,Ocean,Fogland Beach,Tiverton,NEWPORT,41.558551,-71.214713
-576,,Salt Pond,Quonochontaug Pond - Yacht Basin Buoy,Westerly,WASHINGTON,41.330216,-71.748040
-577,RI0006013R-09,Stream or river,Whaley Brook at Flat River,Coventry,KENT,41.716853,-71.662208
-578,RI0006013R-09,Stream or river,Turkey Meadow Brook at Flat River,Foster,KENT,41.727907,-71.708924
-579,,Estuary,CUSH - Noank Village Boatyard,Groton,NEW LONDON,41.329054,-71.983513
-580,RI0008039L-24,Lake or Pond,Saw Mill Pond,Charlestown,WASHINGTON,41.431376,-71.662063
-581,RI0006017L-10,Lake or Pond,Tongue Pond,Cranston,PROVIDENCE,41.797937,-71.442614
-582,RI0010048L-04,Lake or Pond,Tunipus Pond,Little Compton,NEWPORT,41.495285,-71.137890
-583,RI0010043L-15,Lake or Pond,Perry Pond,Charlestown,WASHINGTON,41.382159,-71.631569
-584,,Estuary,Jack's Island,Tiverton,NEWPORT,41.594136,-71.206340
-585,RI0006015R-16,Stream or river,Moswansicut @ Snake Hill Road,Scituate,PROVIDENCE,41.864989,-71.589590
-586,RI0006015R-16,Stream or river,Moswansicut @ Elmsdale Road,Scituate,PROVIDENCE,41.861892,-71.587183
-587,RI0006015R-16,Stream or river,Moswansicut @ Angell Road,Scituate,PROVIDENCE,41.854144,-71.575482
-588,,Stream or river,Moswansicut @ Kimball Outflow,Scituate,PROVIDENCE,41.838155,-71.568159
-589,RI0006015R-16,Stream or river,Moswansicut @ Hopkins Ave,Scituate,PROVIDENCE,41.838833, -71.5682342
-590,RI0006015R-16,Stream or river,Moswansicut @ Tasca Field,Scituate,PROVIDENCE,41.835460,-71.572755
-591,RI0006015R-16,Stream or river,Moswansicut @ Hartford Ave,Scituate,PROVIDENCE,41.836078,-71.577291
-592,RI0006015L-04,Stream or river,Moswansicut @ W. Greenville Rd,Scituate,PROVIDENCE,41.840838,-71.582669
-593,,Stream or river,Maidford River - Culvert at Third Beach Rd,Middletown,NEWPORT,41.490427,-71.248765
-594,,Estuary,Maidford Marsh - Water control structure,Middletown,NEWPORT,41.485250,-71.243766
-595,,Stream or river,Maskerchugg Tributary @ Green Bush Rd.,East Greenwich,KENT,41.662816,-71.479810
-596,,Stream or river,Maskerchugg River @ Cedar & Division ,East Greenwich,KENT,41.663289,-71.472236
-597,,Stream or river,Dark Entry Brook @ Brisas Circle,East Greenwich,KENT,41.659867,-71.462677
-598,,Stream or river,Maskerchugg River @ Kenyon ,East Greenwich,KENT,41.655132,-71.463918
-599,,Stream or river,Maskerchugg Tributary @ Glenwood Cemetary,East Greenwich,KENT,41.655031,-71.464399
-600,,Stream or river,Maskerchugg Tributary @ Saddle Brook,Warwick,KENT,41.667092,-71.483720
-601,,Stream or river,Maskerchugg River @ Rt 95,Warwick,KENT,41.673278,-71.477632
-602,,Stream or river,Dark Entry Brook @ Major Potter ,Warwick,KENT,41.673162,-71.468397
-603,,Stream or river,Maskerchugg Tributary @ Hemlock,East Greenwich,KENT,41.653235,-71.469831
-604,,Estuary,Maskerchugg River @ Greenwich Cove,East Greenwich,KENT,41.647603,-71.455941
-605,,Stream or river,Maidford River - Hanging Rock Rd,Middletown,NEWPORT,41.490386,-71.259375
-606,,Estuary,Warren River - Bridge Street Access,Warren,BRISTOL,41.720950,-71.285204
-607,,Estuary,Warren River - Wharf Tavern ROW,Warren,BRISTOL,41.731135,-71.286693
-608,,Estuary,Warren River - Jacobs Pt,Warren,BRISTOL,41.708944,-71.291396
-609,,Estuary,Belchers Cove - German Club,Warren,BRISTOL,41.737126,-71.283853
-610,,Estuary,Warren River - Adams Pt,Barrington,BRISTOL,41.717845,-71.291610
-611,,Stream or river,Sin and Flesh Brook - Fish Rd,Tiverton,BRISTOL,41.629549,-71.186662
-612,,Stream or river,Sin and Flesh Brook - April Lane,Tiverton,BRISTOL,41.622128,-71.201471
-613,,Estuary,Nanaquaket Beach,Tiverton,BRISTOL,41.618137,-71.206054
-614,,Stream or river,Quaket Creek - Main Rd,Tiverton,BRISTOL,41.598320,-71.194774
-615,,Stream or river,Penny Pond,Tiverton,BRISTOL,41.596928,-71.196095
-616,,Stream or river,Borden Brook - Main Rd,Tiverton,BRISTOL,41.569338,-71.186992
-617,RI0008039R-,Stream or river,Pasquiset Brook @ Rte 2,Charlestown,WASHINGTON,41.444004,-71.626934
-618,,,,,,,
-619,,Estuary,Wickford Harbor - Brown St Dock,North Kingstown,KENT,41.570067,-71.451072
-620,,Estuary,Wickford Harbor - Main St Dock,North Kingstown,KENT,41.572931,-71.444979
-621,,Stream or river,Sin and Flesh Brook - Rte 24,Tiverton,BRISTOL,41.640372,-71.187622
-622,,Ocean,Third Beach Boat Ramp,Middletown,NEWPORT,41.487150,-71.246084
-623,,Estuary,Briggs Marsh Dundery Brook Cove,Little Compton,NEWPORT,41.484225,-71.166842
-624,,Estuary,CUSH - Oxecosset Brook,Stonington,NEW LONDON,41.351377,-71.891214
-625,,Stream or river,Buckeye Brook @ Rodney Rd,Warwick,KENT,41.713020,-71.411150
-626,,Estuary,CUSH - Mystic Harbor (Red Bouy 24),Stonington,NEW LONDON,41.333017,-71.974200
-627,,Estuary,CUSH - Mystic Harbor (Green Bouy 29),Stonington,NEW LONDON,41.340183,-71.974200
-628,,Estuary,CUSH - Mystic Harbor (Red Daybeacon 4),Stonington,NEW LONDON,41.341800,-71.968200
-629,,Estuary,CUSH - Mystic Seaport South (Shipyard Pt floating dock W end),Stonington,NEW LONDON,41.361418,-71.967039
-630,,Estuary,CUSH - Mystic Seaport North (Latitude 41 floating dock N corner),Stonington,NEW LONDON,41.364146,-71.964335
-631,,Salt Pond,Green Hill Pond - Sea Lea,Charlestown,WASHINGTON,41.367909,-71.622364
-632,,Salt Pond,Ninigret Pond - Eastern Basin,Charlestown,WASHINGTON,41.368165,-71.630045
-633,,Stream or river,Spring Green Pond Outflow,Warwick,KENT,41.734561,-71.417113
-634,,Stream or river,Buckeye Trib - Commerce,Warwick,KENT,41.734492,-71.417434
-635,,Stream or river,Woonasquatucket River @ Whipple Field,Smithfield,PROVIDENCE,41.883749,-71.504435
-636,,Stream or river,Moshassuck River @ Sheridan Nature Sanctuary,Lincoln,PROVIDENCE,41.917286,-71.447367
-637,,Stream or river,Quaket Creek - Below pond,Tiverton,BRISTOL,41.600520,-71.197174
-638,,Stream or river,Industrial Way tributary to Sin and Flesh,Tiverton,BRISTOL,41.640976,-71.184393
-639,,Estuary,Tiverton Basin boat launch,Tiverton,BRISTOL,41.638012,-71.211667
-640,,Stream or river,Tributary Borden from south,Tiverton,BRISTOL,41.571349,-71.184498
-641,,Stream or river,Tributary Borden from east,Tiverton,BRISTOL,41.571788,-71.185060
-642,,Stream or river,West River,Providence,PROVIDENCE,41.855322,-71.430448
-643,,Stream or river,Moshassuck River @ Collyer Field FOTM tree field,Providence,PROVIDENCE,41.854327,-71.404502
-644,,Estuary,Warren River - Ginalski Boat Yard,Warren,BRISTOL,41.732244,-71.287527
-645,,Estuary,Pawcatuck River @ Mastuxet Brook,Westerly,WASHINGTON,41.343056,-71.824406
-646,,Stream or river,Flat River @ Midway,Exeter,WASHINGTON,41.573082,-71.720956
-647,,Stream or river,Ten Mile River - Upstream of Omega Pond,East Providence,PROVIDENCE,41.834695,-71.362111
-648,RI0007020L-04,Lake or Pond,Posnegansett Pond,Warwick,KENT,41.749570,-71.405885
-649,,Stream or river,Ten Mile River - Hunt's Mill,East Providence,PROVIDENCE,41.828073,-71.345581
-650,,Stream or river,Buckeye Trib - Upstream of airport channel,Warwick,KENT,41.729211,-71.414904
-651,,Stream or river,Buckeye Trib - Airport channel,Warwick,KENT,41.729004,-71.414788
-652,,Stream or river,Narrow River 28 - Power Line Path,Narragansett,WASHINGTON,41.43783,-71.476662
-653,,Estuary,Warwick Cove,Warwick,KENT,41.6345,-71.391167
-654,,Estuary,Greenwich Cove,East Greenwich,KENT,41.667533,-71.4435
-655,,Estuary,Providence River - Save The Bay,Cranston,PROVIDENCE,41.781333,-71.3855
-656,,Salt Pond,Maschaug Pond,Westerly,WASHINGTON,41.317788,-71.833527
-657,,,,,,,
-658,RI0007027L-01,Estuary,Wickford Cove West of Loop Drive (further),North Kingstown,WASHINGTON,41.564327,-71.458107
-659,,Stream or river,Maskerchugg River @ Rt 1,East Greenwich,KENT,41.650018,-71.457438
-660,,Ocean,Mackeral Cove Beach,Jamestown,NEWPORT,41.488844,-71.382202
-661,,Salt Pond,Pt Judith Pond - Long Cove,Narragansett,WASHINGTON,41.417218,-71.493717
-662,,Stream or river,Bristol Golf Club - North,Bristol,BRISTOL,41.704709,-71.272273
-663,,Stream or river,Bristol Golf Club - B,Bristol,BRISTOL,41.696408,-71.268258
-664,,Estuary,Hay Harbor Club,Fishers Island,SUFFOLK,41.26666,-72.022824
-665,,Estuary,West Harbor,Fishers Island,SUFFOLK,41.265622,-72.011013
-666,,Stream or river,Fisherville Trib - Hopkins Upstream,West Greenwich,KENT,41.613359,-71.570405
-667,,Stream or river,Fisherville Brook  - Henry Brown Rd,West Greenwich,KENT,41.609585,-71.589963
-668,,Estuary,Wickford Harbor - Fishing Cove,North Kingstown,WASHINGTON,41.581905,-71.442508
-669,,Stream or river,Lucy Brook,Glocester,PROVIDENCE,41.898436,-71.669729
-670,RI0010046E-01B,Estuary,Block Island Mooring (Blue 133),New Shoreham,WASHINGTON,41.185627,-71.579845
-671,,Lake or Pond,Thirty Acre Pond,South Kingstown,WASHINGTON,41.491252,-71.545342
-672,,Stream or river,Fisherville Trib - Hopkins Downstream,West Greenwich,KENT,41.613361,-71.570417
-673,,Lake or Pond,Snows Pond,Rochester,BRISTOL,41.758408,-70.852288
-674,RI0006017L-05,Reservoir ,Roosevelt Lake Outflow,Providence,PROVIDENCE,41.784692,-71.415435
-675,RI0006017L-05,Reservoir ,Cladrash's Pedestrian Bridge,Providence,PROVIDENCE,41.784221,-71.411275
-676,,Lake or Pond,Little Wash Pond,South Kingstown,WASHINGTON,41.401975,-71.545240
-677,,Lake or Pond,Snow's Pond - Cranberry Cove,Rochester,BRISTOL,41.75541,-70.855017
-678,,Stream or river,Moosup River - Barb Hill Rd,Coventry,KENT,41.720103,-71.757768
-679,,Stream or river,Geov Trib – Sweet Rd,Smithfield,PROVIDENCE,41.890414,-71.514129
-680,,Stream or river,Geoville Trib @ Below Harris,Smithfield,PROVIDENCE,41.894566,-71.507241
-681,,Reservoir ,Upper Kickemuit Impoundment,Warren,BRISTOL,41.740022,-71.259677
-682,,Reservoir ,Lower Kickemuit Reservoir,Warren,BRISTOL,41.729401,-71.264349
-683,,Estuary,Kickemuit Estuary,Warren,BRISTOL,41.729514,-71.262654
-684,,Estuary,Zeek's Creek,Jamestown,NEWPORT,41.506919,-71.374663
-685,,Ocean,South Ferry Beach Rd Beach,Narragansett,WASHINGTON,41.492807,-71.420157
-686,RI0010044E-01A,Estuary,Narrow River 05b - Upstream of Lacey Bridge  (South Kingstown/Narragansett),South Kingstown,WASHINGTON,41.488563,-71.447328
-687,,Stream or river,Mashapaug Inlet,Providence,PROVIDENCE,,
-688,,Estuary,Fox Hill Marsh,Jamestown,NEWPORT,41.491710,-71.395902
-689,,Stream or river,Simmons Brook,Johnston,PROVIDENCE,41.796480,-71.483332
-690,,Estuary,Touisset Yacht,Warren,BRISTOL,41.700887,-71.242492
-691,,Estuary,Broken Bridge,Warren,BRISTOL,41.726154,-71.263118
-692,,Stream or river,Meshanticut Brook,Cranston,PROVIDENCE,41.774125,-71.475603
-693,,Estuary,Amaral-D'Ambra Urban Estuary,East Providence,PROVIDENCE,41.80231,-71.376888
-694,RI0010047L-01,Lake or Pond,Almy Pond - Site 2,Newport,NEWPORT,41.460743,-71.312239
-695,RI0010047L-01,Stream or river,Almy Pond - Inlet,Newport,NEWPORT,41.465522,-71.311602
-696,RI0010047L-01,Stream or river,Almy Pond - Outlet,Newport,NEWPORT,41.458999,-71.314023
-697,,Stream or river,K's NA-38,Narragansett,WASHINGTON,41.369171,-71.495903
-698,,Lake or Pond,K's Pond,Narragansett,WASHINGTON,41.366394,-71.492030
-699,,Stream or river,Conant NA-49,Narragansett,WASHINGTON,41.369301,-71.483719
-700,,Lake or Pond,Conant Pond,Narragansett,WASHINGTON,41.371873,-71.484260
-701,,Ocean,Green Hill Beach,Charlestown,WASHINGTON,41.364559,-71.600061
-702,,Stream or river,Moshassuck River @ Mineral Spring,Providence,PROVIDENCE,41.872450,-71.408340
-703,RI0001002R-,Lake or Pond,Smith & Sayles @ Cleo/Trib to S &S,Glocester,PROVIDENCE,41.885577,-71.687185
-704,,Stream or river,Mastuxet Brook,Westerly,WASHINGTON,41.344694,-71.818737
-705,,Estuary,Pt Judith Pond - East 2,Narragansett,WASHINGTON,,
-706,,Lake or Pond,Polo Lake (RWP 3A),Providence,PROVIDENCE,41.787353,-71.415286
-707,,Lake or Pond,Polo Lake (RWP 3B),Providence,PROVIDENCE,41.786609,-71.415248
-708,,Lake or Pond,Polo Lake (RWP 3C),Providence,PROVIDENCE,41.786734,-71.416041
-709,,Reservoir ,Stillwater Reservoir Inlet,Smithfield,PROVIDENCE,41.899268,-71.546202
-710,,Stream or river,Wesquage Inlet - Lake Road,Narragansett,WASHINGTON,41.479962,-71.428181
-711,,Stream or river,Wesquage Culvert (NA-62),Narragansett,WASHINGTON,41.479317,-71.429398
-712,RI0007035L-08,Estuary,Sapowet Marsh - 3,Tiverton,NEWPORT,41.580800,-71.206710
-713,,Estuary,Kickemuit River @ Shore Drive,Warren,BRISTOL,41.708368,-71.241700
-714,,Reservoir ,Autumn Run - Stillwater Reservoir,Smithfield,PROVIDENCE,41.896285,-71.538598
-715,,,,,,,
-716,,,,,,,
-717,,,,,,,
-718,,,,,,,
-719,,,,,,,
+WW_Station,WBID,WB_Type,Site_DESCR,Town,COUNTY,LAT_DD,LON_DD
+WW001,RI0008040L-01,Reservoir ,Alton Pond,Hopkinton,WASHINGTON,41.438171,-71.721642
+WW002,RI0008039L-14,Lake or Pond,Barber Pond,South Kingstown,WASHINGTON,41.504129,-71.564271
+WW003,RI0007027L-02,Lake or Pond,Belleville Pond-Lower,North Kingstown,KENT,41.561453,-71.475119
+WW004,RI0007027L-02,Lake or Pond,Belleville Pond-Upper,North Kingstown,KENT,41.563136,-71.481419
+WW005,RI0006018L-06,Lake or Pond,Blackamore Pond,Cranston,PROVIDENCE,41.774109,-71.446890
+WW006,RI0008040L-14,Lake or Pond,Boone Lake,Exeter,WASHINGTON,41.581428,-71.675153
+WW007,RI0007020L-02,Lake or Pond,Brickyard Pond,Barrington,BRISTOL,41.733850,-71.319964
+WW008,RI0010044L-03,Lake or Pond,Carr Pond (North Kingstown),North Kingstown,KENT,41.523592,-71.451522
+WW009,RI0006012L-01,Lake or Pond,Carr Pond (West Greenwich),West Greenwich,KENT,41.634417,-71.556514
+WW010,RI0005011L-06,Lake or Pond,Clark Pond,Foster,PROVIDENCE,41.772414,-71.776758
+WW011,RI0006015L-08,Lake or Pond,Coomer's Lake (Reservoir),Glocester,PROVIDENCE,41.880867,-71.624909
+WW012,RI0010043L-08,Lake or Pond,Deep Pond (Charlestown),Charlestown,WASHINGTON,41.391067,-71.662250
+WW013,RI0001002L-03,Reservoir ,Echo Lake (Pascoag south),Glocester,PROVIDENCE,41.927994,-71.711037
+WW014,RI0006017L-08,Lake or Pond,Fenner Pond,Cranston,PROVIDENCE,41.771401,-71.419901
+WW015,RI0006013L-01,Reservoir ,Flat River Reservoir (Johnson Pond),Coventry,KENT,41.685454,-71.605113
+WW016,RI0002007L-02,Reservoir ,Georgiaville Pond,Smithfield,PROVIDENCE,41.892783,-71.511331
+WW017,RI0008039L-13,Reservoir ,Hundred Acre Pond,South Kingstown,WASHINGTON,41.499950,-71.542667
+WW018,RI0010045L-04,Lake or Pond,Indian Lake,South Kingstown,WASHINGTON,41.480172,-71.470544
+WW019,RI0001002L-11,Reservoir ,Keech Pond,Glocester,PROVIDENCE,41.879128,-71.688375
+WW020,RI0007024L-01,Lake or Pond,"Sandy Pond (Little Pond, south of airport)",Warwick,KENT,41.705881,-71.406332
+WW021,RI0008040L-10,Reservoir ,Locustville Pond,Hopkinton,WASHINGTON,41.510217,-71.717213
+WW022,RI0008040L-20,Lake or Pond,Long Pond (Hopkinton),Hopkinton,WASHINGTON,41.506486,-71.774108
+WW023,RI0010043L-07,Lake or Pond,Long Pond (South Kingstown),South Kingstown,WASHINGTON,41.410350,-71.553686
+WW024,RI0002007L-06,Reservoir ,Lower Sprague Reservoir,Smithfield,PROVIDENCE,41.887806,-71.548376
+WW025,RI0006017L-06,Lake or Pond,Mashapaug Pond,Providence,PROVIDENCE,41.790983,-71.432942
+WW026,RI0008039L-05,Reservoir ,Meadowbrook Pond (Sandy Pond),Richmond,WASHINGTON,41.439906,-71.691067
+WW027,RI0006014L-01,Lake or Pond,Mishnock Lake,West Greenwich,KENT,41.654058,-71.590844
+WW028,RI0006018L-01,Reservoir ,Oak Swamp Reservoir,Johnston,PROVIDENCE,41.827322,-71.541019
+WW029,RI0001002L-03,Reservoir ,Pascoag Reservoir (Echo Lake),Burrillville,PROVIDENCE,41.944583,-71.706023
+WW030,RI0008039L-06,Lake or Pond,Pasquiset Pond,Charlestown,WASHINGTON,41.426961,-71.631367
+WW031,RI0008039R-18C,Stream or river,Pawcatuck River @ Bradford.  (Westerly/Hopkinton),Hopkinton,WASHINGTON,41.406269,-71.747733
+WW032,RI0010043E-06A,Salt Pond,Pt Judith Pond - East Pond,Narragansett,WASHINGTON,41.387539,-71.500766
+WW033,RI0007020L-06,Lake or Pond,Prince's Pond (Tiffany Pond),Barrington,BRISTOL,41.743678,-71.318425
+WW034,RI0008039L-19,Reservoir ,Queen River @ Usquepaugh (Glen Rock Reservoir),South Kingstown,WASHINGTON,41.507914,-71.606189
+WW035,RI0006013L-04,Reservoir ,Quidnick Reservoir,Coventry,KENT,41.679061,-71.679369
+WW036,RI0006018L-04,Lake or Pond,Randall Pond,Cranston,PROVIDENCE,41.788765,-71.468889
+WW037,RI0006017L-05,Reservoir ,Roger Williams Park Pond (Cunliff Lake),Providence,PROVIDENCE,41.778542,-71.412970
+WW038,RI0006017L-09,Lake or Pond,Sand Pond (N. of Airport),Warwick,KENT,41.745261,-71.424635
+WW039,RI0010045L-01,Reservoir ,Saugatucket Pond,South Kingstown,WASHINGTON,41.453581,-71.494992
+WW040,RI0010043L-09,Lake or Pond,Schoolhouse Pond-Lower,Charlestown,WASHINGTON,41.395469,-71.665214
+WW041,RI0010043L-09,Lake or Pond,Schoolhouse Pond-Upper,Charlestown,WASHINGTON,41.400531,-71.667686
+WW042,RI0007027L-03,Reservoir ,Secret Lake,North Kingstown,KENT,41.555019,-71.480589
+WW043,RI0006015L-05,Lake or Pond,Shippee Sawmill Pond,Foster,PROVIDENCE,41.834822,-71.751681
+WW044,RI0010045L-05,Lake or Pond,Silver Lake,South Kingstown,WASHINGTON,41.433967,-71.488181
+WW045,RI0010044L-02,Reservoir ,Silver Spring Lake,North Kingstown,KENT,41.538511,-71.469867
+WW046,RI0002007L-03,Reservoir ,Slack's Reservoir,Johnston,PROVIDENCE,41.859528,-71.551750
+WW047,RI0004009L-02,Lake or Pond,Slater Pond,Pawtucket,PROVIDENCE,41.871036,-71.344896
+WW048,RI0001002L-07,Reservoir ,Smith and Sayles Reservoir,Glocester,PROVIDENCE,41.893469,-71.682067
+WW049,RI0006017L-07,Lake or Pond,Spectacle Pond,Cranston,PROVIDENCE,41.790244,-71.442558
+WW050,RI0001002L-06,Lake or Pond,Spring Grove Pond,Glocester,PROVIDENCE,41.908847,-71.649328
+WW051,RI0001002L-04,Lake or Pond,Spring Lake (Herring Pond),Burrillville,PROVIDENCE,41.982658,-71.664339
+WW052,RI0002007L-07,Reservoir ,Stillwater Pond,Smithfield,PROVIDENCE,41.908342,-71.527331
+WW053,RI0001002L-05,Lake or Pond,Sucker Pond,Burrillville,PROVIDENCE,41.936839,-71.668168
+WW054,RI0006012L-02,Lake or Pond,Tarbox Pond,West Greenwich,KENT,41.634431,-71.568811
+WW055,RI0006014L-02,Reservoir ,Tiogue Lake,Coventry,KENT,41.679097,-71.550853
+WW056,RI0008039L-08,Lake or Pond,Tucker Pond,South Kingstown,WASHINGTON,41.424494,-71.551047
+WW057,RI0004009L-01B,Reservoir ,Turner Reservoir (south),East Providence,PROVIDENCE,41.840031,-71.339789
+WW058,RI0001003L-02,Reservoir ,Valley Falls Pond,Central Falls,PROVIDENCE,41.895206,-71.398375
+WW059,RI0007024L-02,Lake or Pond,Warwick Pond,Warwick,KENT,41.722800,-71.412906
+WW060,RI0008039L-02,Lake or Pond,Watchaug Pond,Charlestown,WASHINGTON,41.379358,-71.690058
+WW061,RI0002007L-04,Reservoir ,Waterman Reservoir,Glocester,PROVIDENCE,41.881519,-71.589489
+WW062,RI0003008L-05,Reservoir ,Wenscott Reservoir,North Providence,PROVIDENCE,41.872736,-71.464036
+WW063,RI0001002L-01,Reservoir ,Wilson Reservoir,Burrillville,PROVIDENCE,41.967878,-71.727158
+WW064,RI0010043L-05,Lake or Pond,White Pond,South Kingstown,WASHINGTON,41.414572,-71.545928
+WW065,RI0002007L-08,Reservoir ,Woonasquatucket Reservoir (Stump Pond),Smithfield,PROVIDENCE,41.906078,-71.544722
+WW066,RI0008039L-07,Lake or Pond,Worden Pond,South Kingstown,WASHINGTON,41.437677,-71.570920
+WW067,RI0008040L-11,Reservoir ,Wyoming Pond,Hopkinton,WASHINGTON,41.516191,-71.702446
+WW068,RI0008039L-15,Lake or Pond,Yawgoo Pond,South Kingstown,WASHINGTON,41.510569,-71.571660
+WW069,RI0008039R-03,Stream or river,Beaver River 1 (Old Mt),Richmond,WASHINGTON,41.538690,-71.641044
+WW070,RI0008039R-03,Stream or river,Beaver River 3 (Rte 138),Richmond,WASHINGTON,41.492323,-71.627958
+WW071,RI0008039R-03,Stream or river,Beaver River 4 (Shannock),Richmond,WASHINGTON,41.464271,-71.627845
+WW072,RI0008040R-07,Stream or river,Falls River A - Twin Bridges,West Greenwich,KENT,41.579995,-71.720860
+WW073,RI0008040R-07,Stream or river,Falls River B - Sand Bank,Exeter,WASHINGTON,41.587169,-71.731245
+WW074,RI0008040R-07,Stream or river,Falls River C - Austin Farm Rd,Exeter,WASHINGTON,41.598177,-71.745779
+WW075,RI0008040R-07,Stream or river,Falls River D - Stepstone Falls,Exeter,WASHINGTON,41.612641,-71.760484
+WW076,RI0008040R-11,Stream or river,Locustv. Log House Brook at Grassy-Sand Pond Rd,Hopkinton,WASHINGTON,41.540673,-71.770805
+WW077,RI0008040R-03B,Stream or river,Locustv. Brushy Brook at Woody Hill,Hopkinton,WASHINGTON,41.534474,-71.748054
+WW078,RI0008040R-03B,Stream or river,Locustv. Brushy Brook at Saw Mill,Hopkinton,WASHINGTON,41.527842,-71.736243
+WW079,RI0008040R-12,Stream or river,Locustv. Moscow Brook at Saw Mill,Hopkinton,WASHINGTON,41.527008,-71.736715
+WW080,RI0008039R-13,Stream or river,Meadow Brook 1,Richmond,WASHINGTON,41.500833,-71.665080
+WW081,RI0008039R-13,Stream or river,Meadow Brook 2,Richmond,WASHINGTON,41.466504,-71.690180
+WW082,RI0008039R-13,Stream or river,Meadow Brook 3,Richmond,WASHINGTON,41.446585,-71.690148
+WW083,RI0005011R-03,Stream or river,Moosup River Upstream,Foster,PROVIDENCE,41.765449,-71.767155
+WW084,RI0005011R-03,Stream or river,Moosup River-A - Fairbanks,Coventry,KENT,41.706458,-71.761538
+WW085,RI0005011R-03,Stream or river,Moosup River-B,Coventry,KENT,41.690931,-71.763224
+WW086,RI0010044R-01,Stream or river,Narrow River 01 - Gilbert Stuart Stream,North Kingstown,KENT,41.519381,-71.445281
+WW087,RI0010044E-01A,Estuary,Narrow River 02 - Upper Pond,North Kingstown,KENT,41.514214,-71.447789
+WW088,RI0010044R-10,Stream or river,Narrow River 12 - Mumford Brook,South Kingstown,WASHINGTON,41.438846,-71.475098
+WW089,RI0010044E-01A,Estuary,Narrow River 03 - Lower Pond A,North Kingstown,KENT,41.503847,-71.451550
+WW090,RI0001003R-01A,Stream or river,Blackstone Canal at Scott Pond,Lincoln,PROVIDENCE,41.906618,-71.406206
+WW091,RI0010044E-01A,Estuary,Narrow River 04 - Lower Pond B,South Kingstown,WASHINGTON,41.494719,-71.448764
+WW092,RI0008039L-21,Reservoir ,The Reservoir (Camp Canonicus),Exeter,WASHINGTON,41.540776,-71.522073
+WW093,RI0010044E-01A,Estuary,Narrow River 05 - Lacey Bridge.  (South Kingstown/Narragansett),South Kingstown,WASHINGTON,41.488384,-71.447304
+WW094,RI0010044E-01A,Estuary,"Narrow River 06 - Mettatuxet Beach (Narragansett, South Kingstown)",Narragansett,WASHINGTON,41.475468,-71.448277
+WW095,RI0010044E-01A,Estuary,"Narrow River 07 - End of Narrows, (South Kingstown/Narragansett)",South Kingstown,WASHINGTON,41.469000,-71.448894
+WW096,RI0010044E-01A,Estuary,Narrow River 08 - Middlebridge / Narrow River 20 - NW Middlebridge,South Kingstown,WASHINGTON,41.457969,-71.450764
+WW097,RI0010044E-01A,Estuary,"Narrow River 09 - Pettaquamscutt (Narragansett, South Kingstown)",Narragansett,WASHINGTON,41.444172,-71.460867
+WW098,RI0010044E-01A,Estuary,Narrow River 10 - Sprague Bridge,Narragansett,WASHINGTON,41.448594,-71.449317
+WW099,RI0010044E-01A,Stream or river,Narrow River 11 - Mettatuxet Brook,Narragansett,WASHINGTON,41.471008,-71.443617
+WW100,RI0008039R-34,Stream or river,Queens River (Sherman Brook),South Kingstown,WASHINGTON,41.517794,-71.604454
+WW101,RI0008039R-21A,Stream or river,Queens River (Brownell's - Wm Reynold's Rd),Exeter,WASHINGTON,41.562563,-71.547991
+WW102,RI0008039R-21C,Stream or river,Queens River 5 (Sand Bridge),Exeter,WASHINGTON,41.543656,-71.564275
+WW103,RI0008039R-21C,Stream or river,Queens River (Mail Rd) 06b,Exeter,WASHINGTON,41.538969,-71.568641
+WW104,RI0008039R-39,Stream or river,Barber Pond-Mud Brook,Exeter,WASHINGTON,41.512197,-71.557174
+WW105,RI0007027R-02,Stream or river,Belleville Upper Pond Inlet @ RR Xing,North Kingstown,KENT,41.571719,-71.486458
+WW106,RI0007027R-02,Stream or river,Belleville Lower Pond Outlet @ Sluiceway,North Kingstown,KENT,41.557497,-71.472726
+WW107,RI0008040R-15,Stream or river,Boone Tributary 1/Roaring Brook,Exeter,WASHINGTON,41.587845,-71.671288
+WW108,RI0008040R-15,Stream or river,Boone Tributary 2/Roaring Brook,Exeter,WASHINGTON,41.582932,-71.672485
+WW109,RI0010044R-02,Stream or river,Carr Inlet (NK) Eastern,North Kingstown,KENT,41.525384,-71.446401
+WW110,RI0006013L-01,Reservoir ,Flat River Reservoir @ Zeke's Bridge,Coventry,KENT,41.665330,-71.618884
+WW111,RI0006013L-01,Reservoir ,Flat River Reservoir @ Isle of Capri,Coventry,KENT,41.672999,-71.607902
+WW112,RI0006013R-02,Stream or river,Flat River @ Maple Valley,Coventry,KENT,41.714721,-71.652406
+WW113,RI0002007R-10A,Reservoir ,Georgiaville @ Capron Pond/Woonasquatucket River,Smithfield,PROVIDENCE,41.902792,-71.521688
+WW114,RI0002007R-03,Stream or river,Georgiaville @ Harris/Harris Brook,Smithfield,PROVIDENCE,41.899054,-71.510030
+WW115,RI0008039R-17,Stream or river,Pasquiset Tributary/Pasquiset Brook,Charlestown,WASHINGTON,41.429549,-71.627942
+WW116,RI0007027R-07,Stream or river,Secret Lake-Oak Hill East/Oak Hill Brook,North Kingstown,KENT,41.556219,-71.481173
+WW117,RI0007027R-07,Stream or river,Secret Lake-Oak Hill West/Oak Hill Brook,North Kingstown,KENT,41.556958,-71.483160
+WW118,RI0007027L-03,Stream or river,Secret Lake-Shore Dr.,North Kingstown,KENT,41.554202,-71.476051
+WW119,RI0008039R-05A,Stream or river,Shickasheen Brook @ Rte 2,Exeter,WASHINGTON,41.523470,-71.553149
+WW120,RI0008039R-05A,Stream or river,Shickasheen Brook @ Miskiania,Exeter,WASHINGTON,41.520507,-71.571997
+WW121,RI0008039R-05B,Stream or river,Shickasheen Brook @ Barber Outlet,South Kingstown,WASHINGTON,41.498685,-71.564969
+WW122,RI0008039R-05B,Stream or river,Shickasheen Brook @ Rte 138,South Kingstown,WASHINGTON,41.486348,-71.564517
+WW123,RI0002007R-15,Stream or river,Slack's Tributary 1 (A - Northwest corner - culvert),Smithfield,PROVIDENCE,41.866375,-71.558561
+WW124,RI0002007R-15,Stream or river,"Slack's Tributary 2 (B - SW cove - drainage from 36"" H x 6' wide concrete culvert))",Johnston,PROVIDENCE,41.859348,-71.557825
+WW125,RI0002007R-15,Stream or river,"Slack's Tributary 3 (C - Outlet of stream crossing Windsor Ave., discharging into Southernmost cove)",Johnston,PROVIDENCE,41.855697,-71.556795
+WW126,RI0002007R-15,Stream or river,"Slack's Tributary 4 (D - Southeast cove - 17"" concrete pipe discharge)",Johnston,PROVIDENCE,41.855578,-71.549621
+WW127,RI0001002R-32,Stream or river,Smith & Sayles @ Keech/Trib to S & S,Glocester,PROVIDENCE,41.884496,-71.688140
+WW128,RI0001002R-33,Stream or river,Smith & Sayles @ Balcom/Trib to S & S,Glocester,PROVIDENCE,41.889509,-71.681274
+WW129,RI0001002R-33,Stream or river,Smith & Sayles @ O'Donnel/Trib to S & S,Glocester,PROVIDENCE,41.894446,-71.674377
+WW130,RI0007037R-01,Stream or river,Stafford Pond Inlet-Upstream/Sucker Brook,Tiverton,NEWPORT,41.656455,-71.161964
+WW131,RI0007037R-02,Stream or river,Stafford Pond Inlet-Downstream/Sucker Brook,Tiverton,NEWPORT,41.654926,-71.160345
+WW132,RI0007037L-01,Lake or Pond,Stafford Pond-Northeast(NE) Cove,Tiverton,NEWPORT,41.650622,-71.154700
+WW133,RI0008039R-19,Stream or river,Watchaug Pond-Perry Healy Brook,Charlestown,WASHINGTON,41.380209,-71.704082
+WW134,RI0003008L-02,Reservoir ,Barney Pond,Lincoln,PROVIDENCE,41.896956,-71.417594
+WW135,RI0005047L-03,Reservoir ,Bowdish Reservoir,Glocester,PROVIDENCE,41.922877,-71.770632
+WW136,RI0008040L-15,Reservoir ,Breakheart Pond,Exeter,WASHINGTON,41.596494,-71.701839
+WW137,RI0001003L-04,Reservoir ,Handy Pond (Rochambeau Pond),Lincoln,PROVIDENCE,41.958625,-71.472036
+WW138,RI0008039L-11,Lake or Pond,Larkin Pond,South Kingstown,WASHINGTON,41.470014,-71.557850
+WW139,RI0003008L-01,Lake or Pond,Olney Pond,Lincoln,PROVIDENCE,41.889017,-71.432644
+WW140,RI0006017L-05,Reservoir ,Pleasure Pond (a Roger William Park Pond),Providence,PROVIDENCE,41.784922,-71.411982
+WW141,RI0008039R-18E,Stream or river,Pawcatuck River @ Potter Hill,Hopkinton,WASHINGTON,41.416739,-71.797617
+WW142,RI0006017L-05,Reservoir ,Roosevelt Pond (a Roger William Park Pond),Providence,PROVIDENCE,41.782844,-71.417313
+WW143,RI0001003L-01,Reservoir ,Scott Pond,Lincoln,PROVIDENCE,41.898391,-71.407028
+WW144,RI0002007L-05,Reservoir ,Upper Sprague Reservoir,Smithfield,PROVIDENCE,41.892947,-71.564222
+WW145,RI0007037L-01,Lake or Pond,Stafford Pond,Tiverton,NEWPORT,41.643428,-71.154869
+WW146,RI0008039R-06B,Stream or river,Chipuxet River @ Wolf Rocks Rd.,Exeter,WASHINGTON,41.505934,-71.531144
+WW147,RI0006013L-03,Reservoir ,Coventry Reservoir (Stump Pond),Coventry,KENT,41.692767,-71.640317
+WW148,RI0010043L-06,Lake or Pond,Wash Pond,South Kingstown,WASHINGTON,41.401111,-71.550853
+WW149,RI0005010L-01,Lake or Pond,Beach Pond,Exeter,WASHINGTON,41.577011,-71.788636
+WW150,RI0005011L-01,Lake or Pond,Carbuncle Pond,Coventry,KENT,41.697074,-71.771506
+WW151,RI0006016L-02,Reservoir ,J.L.Curran Reservoir (Fiskeville Reservoir),Cranston,PROVIDENCE,41.751282,-71.549102
+WW152,RI0005047L-01,Reservoir ,Wakefield Pond,Burrillville,PROVIDENCE,41.959444,-71.792458
+WW153,RI0002007L-08,Reservoir ,Woonasquatucket Reservoir-South end,Smithfield,PROVIDENCE,41.892444,-71.538289
+WW154,RI0007025L-01,Lake or Pond,Gorton Pond,Warwick,KENT,41.705233,-71.460264
+WW155,RI0005047L-04,Lake or Pond,Lake Washington,Glocester,PROVIDENCE,41.916622,-71.756942
+WW156,RI0010048E-02,Salt Pond,Quicksand Pond,Little Compton,NEWPORT,41.505196,-71.131313
+WW157,RI0001001L-01,Lake or Pond,Wallum Pond,Burrillville,PROVIDENCE,41.999523,-71.765950
+WW158,RI0001002L-09,Reservoir ,Slatersville Reservoir  - Upper,North Smithfield,PROVIDENCE,41.993045,-71.595605
+WW159,RI0010048E-01,Salt Pond,Briggs Marsh Pond,Little Compton,NEWPORT,41.477207,-71.166859
+WW160,RI0008040L-16,Lake or Pond,Eisenhower Lake,West Greenwich,KENT,41.621048,-71.715856
+WW161,RI0006014L-04,Lake or Pond,Upper Dam Pond (Breezy Lake),Coventry,KENT,41.705822,-71.553466
+WW162,,,,,,,
+WW163,RI0004009L-02,Stream or river,Slater Outlet-Ten Mile River,Pawtucket,PROVIDENCE,41.870377,-71.342369
+WW164,RI0004009L-02,Lake or Pond,Slater Trib-Boathouse,Pawtucket,PROVIDENCE,41.871434,-71.344790
+WW165,RI0004009L-02,Reservoir ,Slater Trib-Friendship Garden,Pawtucket,PROVIDENCE,41.870356,-71.347341
+WW166,,Stream or river,Keech Inlet 1,Glocester,PROVIDENCE,,
+WW167,,Stream or river,Keech Inlet 2,Glocester,PROVIDENCE,,
+WW168,,Stream or river,Keech Inlet 3,Glocester,PROVIDENCE,,
+WW169,RI0010043E-05,Salt Pond,Potter Pond - Mid Pond (P3),South Kingstown,WASHINGTON,41.383992,-71.531167
+WW170,RI0010048R-01,Stream or river,Quicksand @ Cole Bk./North Trib,Little Compton,NEWPORT,41.520448,-71.137788
+WW171,RI0010048R-03,Stream or river,Quicksand @ East Trib/East of Cole Brook (Pottsville Brook),Little Compton,NEWPORT,41.524173,-71.134466
+WW172,,Stream or river,Wakefield Trib. 1,Burrillville,PROVIDENCE,,
+WW173,,Stream or river,Wakefield Trib. 2,Burrillville,PROVIDENCE,,
+WW174,,Stream or river,Wakefield Trib. 3,Burrillville,PROVIDENCE,,
+WW175,,Stream or river,Wakefield Trib. 4,Burrillville,PROVIDENCE,,
+WW176,RI0006013R-09,Stream or river,Whaley 1,Coventry,KENT,41.721991,-71.669919
+WW177,RI0006013R-09,Stream or river,Whaley 2,Coventry,KENT,41.720158,-71.667154
+WW178,RI0006013R-09,Stream or river,Whaley 3,Coventry,KENT,41.719170,-71.664684
+WW179,RI0008040R-01,Stream or river,Acid Factory Brook - Eisenhower Trib. @ StubleBrook Rd,West Greenwich,KENT,41.636925,-71.702661
+WW180,RI0006018L-03,Reservoir ,Simmons Reservoir-Upper,Johnston,PROVIDENCE,41.797692,-71.519769
+WW181,RI0008040L-17,Lake or Pond,Tippencansett Pond,West Greenwich,KENT,41.598397,-71.782523
+WW182,RI0006015L-02,Reservoir ,Ponagansett Reservoir,Glocester,PROVIDENCE,41.872307,-71.742640
+WW183,RI0007029L-01,Lake or Pond,Melville Pond - Upper,Portsmouth,NEWPORT,41.583778,-71.272747
+WW184,RI0010048R-08,Stream or river,Briggs East Trib/Briggs Marsh Pond Tributaries,Little Compton,NEWPORT,41.480113,-71.160393
+WW185,RI0010048R-08,Stream or river,Briggs North Trib/Dundery Brook,Little Compton,NEWPORT,41.487430,-71.170174
+WW186,RI0008040R-16C,Stream or river,Wood River @ Woodville,Richmond,WASHINGTON,41.460466,-71.718215
+WW187,RI0008040R-16A,Stream or river,Wood River @ Route 165,Exeter,WASHINGTON,41.574001,-71.720675
+WW188,RI0001002R-23,Stream or river,Locustville/Dawley Brook,Hopkinton,WASHINGTON,41.530355,-71.727524
+WW189,RI0008038E-01B,Estuary,Tidal Pawcatuck River @ Avondale,Westerly,WASHINGTON,41.333207,-71.839866
+WW190,RI0007027L-01,Reservoir ,Annaquatucket Mill Pond,North Kingstown,KENT,41.550503,-71.441316
+WW191,RI0008039R-13,Stream or river,Meadow Brook Inlet,Richmond,WASHINGTON,41.443964,-71.690624
+WW192,RI0007027E-07,Lake or Pond,Wesquage Pond 2,Narragansett,WASHINGTON,41.477417,-71.426467
+WW193,RI0008039R-21A,Stream or river,Queen River 1/Stony Lane,Exeter,WASHINGTON,41.595036,-71.544631
+WW194,RI0008039R-21A,Stream or river,Queen River 2/Golf Course (0.5 miles south of Victory Hwy),Exeter,WASHINGTON,41.571489,-71.545175
+WW195,RI0008039R-07,Stream or river,Queen River 3/Fisherville Brook,Exeter,WASHINGTON,41.561925,-71.561933
+WW196,RI0008039R-21B,Stream or river,Queen River 4/Ladd School,Exeter,WASHINGTON,41.554847,-71.549417
+WW197,RI0010043E-06A,Salt Pond,Pt Judith Pond - Central,Narragansett,WASHINGTON,41.395896,-71.512369
+WW198,RI0008039R-21C,Stream or river,Queen River 6/Eppley (Audubon footbridge),Exeter,WASHINGTON,41.521264,-71.587728
+WW199,RI0010047L-01,Lake or Pond,Almy Pond,Newport,NEWPORT,41.459166,-71.312405
+WW200,RI0008039L-01,Lake or Pond,Chapman Pond,Westerly,WASHINGTON,41.380384,-71.795259
+WW201,RI0002007L-01,Lake or Pond,Hawkins Pond,Johnston,PROVIDENCE,41.860291,-71.544422
+WW202,RI0006018L-02,Reservoir ,Almy Reservoir (Jillson Reservoir),Johnston,PROVIDENCE,41.815907,-71.520183
+WW203,RI0010031E-02B,Estuary,Nanaquaket Pond,Tiverton,NEWPORT,41.615894,-71.204907
+WW204,RI0001002L-08,Lake or Pond,Tarkiln Pond,North Smithfield,PROVIDENCE,41.963897,-71.595746
+WW205,RI0001002R-03,Stream or river,Chepachet River,Glocester,PROVIDENCE,41.913884,-71.670323
+WW206,RI0008039R-21C,Stream or river,Queen River 7 @ Dugway Bridge,South Kingstown,WASHINGTON,41.517188,-71.600387
+WW207,RI0008039R-10,Stream or river,Queen River @ Locke Brook,Exeter,WASHINGTON,41.537401,-71.587494
+WW208,RI0005011L-03,Lake or Pond,Arnold Pond,Coventry,KENT,41.668914,-71.747127
+WW209,RI0010045L-02,Reservoir ,Asa Pond,South Kingstown,WASHINGTON,41.458954,-71.512679
+WW210,,Lake or Pond,Billings Lake,North Stonington,NEW LONDON,41.508526,-71.874390
+WW211,,Lake or Pond,Blue Lake (Anderson Pond),North Stonington,NEW LONDON,41.508230,-71.895847
+WW212,RI0010047L-02,Lake or Pond,Lily Pond,Newport,NEWPORT,41.462837,-71.320427
+WW213,RI0001002L-13,Lake or Pond,Nichols Pond,Burrillville,PROVIDENCE,41.954363,-71.600896
+WW214,RI0008040L-06,Lake or Pond,Wincheck Pond,Hopkinton,WASHINGTON,41.519620,-71.765968
+WW215,,Reservoir ,Spaulding Pond,North Stonington,NEW LONDON,41.447092,-71.830570
+WW216,,Lake or Pond,Wyassup Lake,North Stonington,NEW LONDON,41.487409,-71.873345
+WW217,RI0007035R-01,Stream or river,Bailey Brook (Clambake Club),Middletown,NEWPORT,41.510871,-71.293284
+WW218,RI0007024R-01,Stream or river,Buckeye Brook @ Novelty Rd,Warwick,KENT,41.711538,-71.387724
+WW219,RI0007024R-03,Stream or river,Buckeye Brook @ Lockwood Brk,Warwick,KENT,41.713727,-71.379332
+WW220,RI0007024R-04,Stream or river,Buckeye Brook @ Warner Brk,Warwick,KENT,41.706942,-71.380396
+WW221,RI0007024R-01,Stream or river,Buckeye Brook @ Mill Cove,Warwick,KENT,41.712130,-71.375429
+WW222,RI0003008R-01C,Stream or river,Moshassuck River @ Collyer Field,Providence,PROVIDENCE,41.853532,-71.406027
+WW223,RI0008039R-05A,Stream or river,Shickasheen @ Potter Road (Skagg's old dam),Exeter,WASHINGTON,41.521251,-71.563355
+WW224,RI0007028R-05,Stream or river,Sandhill Brook (Saw Mill Pond Inlet),North Kingstown,KENT,41.610530,-71.466444
+WW225,RI0008039R-05B,Stream or river,Shickasheen Brook @ Liberty Lane,South Kingstown,WASHINGTON,41.480370,-71.573338
+WW226,RI0002007R-10C,Stream or river,Woonasquatucket River @ Cricket Park,Johnston,PROVIDENCE,41.865593,-71.492459
+WW227,RI0002007R-10D,Stream or river,Woonasquatucket River @ Donigian Park,Providence,PROVIDENCE,41.822595,-71.440308
+WW228,,Lake or Pond,Asseconk Swamp,North Stonington,NEW LONDON,41.438064,-71.884998
+WW229,RI0007025R-03,Stream or river,GB 1 - Maskerchugg River @ Rte 1,East Greenwich,KENT,41.650125,-71.457585
+WW230,RI0007025R-13,Stream or river,GB 2 - Burger King (Gorton Pond Tributary),Warwick,KENT,41.698437,-71.461954
+WW231,RI0007025R-01,Stream or river,GB 3 - Pipe @ Rte 115,Warwick,KENT,41.699040,-71.465133
+WW232,RI0007025R-14,Stream or river,GB 4 - Mill Brook (75 yards upstream from Meadow Street Culvert),Warwick,KENT,41.696736,-71.459920
+WW233,RI0007025R-01,Stream or river,GB 5 - Hardig Brook at Nursing Home (Glen Drive),West Warwick,KENT,41.694423,-71.504975
+WW234,RI0007025R-05,Stream or river,GB 6 - Tuscatucket Brook (Upstream of Rte 117),Warwick,KENT,41.704162,-71.420484
+WW235,RI0007025R-09,Stream or river,GB 7 - Southern Creek (Upstream of culvert at White Avenue),Warwick,KENT,41.698358,-71.423013
+WW236,,Stream or river,Shunock River @ Babcock,North Stonington,NEW LONDON,41.440995,-71.881204
+WW237,,Stream or river,Shunock River @ Hewitt,North Stonington,NEW LONDON,41.446991,-71.891530
+WW238,RI0002007R-11,Stream or river,Waterman Tributary @ Rte 44 (Nine Foot Brook),Glocester,PROVIDENCE,41.883532,-71.582255
+WW239,RI0002007R-02,Stream or river,Waterman Tributary @ Saw Mill (Cutler Brook),Glocester,PROVIDENCE,41.884593,-71.599831
+WW240,RI0002007R-14,Stream or river,Waterman Tributary @ Golf Course,Glocester,PROVIDENCE,41.884085,-71.591567
+WW241,RI0002007R-14,Stream or river,Waterman Tributary @ Aldrich,Glocester,PROVIDENCE,41.872043,-71.588646
+WW242,RI0008039R-02A,Stream or river,Ashaway River @ Rte 216,Hopkinton,WASHINGTON,41.424960,-71.789741
+WW243,RI0008039R-02A,Stream or river,Ashaway River @ Wellstown Rd.,Hopkinton,WASHINGTON,41.438346,-71.790053
+WW244,RI0008039R-18A,Stream or river,"Pawcatuck River @ Biscuit City Rd (Charlestown, Richmond)",Charlestown,WASHINGTON,41.449681,-71.615660
+WW245,RI008039R-06C,Stream or river,Chipuxet River @ Rte 138,South Kingstown,WASHINGTON,41.482566,-71.551189
+WW246,RI0008039R-09,Stream or river,Glen Rock Brook,South Kingstown,WASHINGTON,41.516307,-71.605576
+WW247,,Stream or river,Lewis Pond outlet,North Stonington,NEW LONDON,41.420437,-71.821920
+WW248,RI0008039R-18D,Stream or river,Pawcatuck River below Bradford (Hopkinton/Westerly),Hopkinton,WASHINGTON,41.398614,-71.765793
+WW249,RI0008039R-18C,Stream or river,"Pawcatuck River @ Burdickville Rd (Hopkinton, Chalestown)",Hopkinton,WASHINGTON,41.416314,-71.729071
+WW250,RI0008039R-18D,Stream or river,"Pawcatuck River @ Chase Hill Rd. (Westerly, Hopkinton)",Westerly,WASHINGTON,41.399321,-71.799688
+WW251,RI0008039R-18B,Stream or river,"Pawcatuck River below Kenyon Ind. (Charlestown, Richmond)",RICHMOND,WASHINGTON,41.448538,-71.632394
+WW252,RI0008039R-18C,Stream or river,Pawcatuck River @ Rte 91,Richmond,WASHINGTON,41.445178,-71.681130
+WW253,RI0008039R-21A,Stream or river,Queen River @ Rte 102,Exeter,WASHINGTON,41.578675,-71.542936
+WW254,RI0008039R-23,Stream or river,Taney Brook,Richmond,WASHINGTON,41.460699,-71.647800
+WW255,RI0008039R-24,Stream or river,Tomaquag Brk @ Woodville Rd.,Hopkinton,WASHINGTON,41.460574,-71.775510
+WW256,RI0008039R-25,Stream or river,Usquepaugh River @ Rte 2,South Kingstown,WASHINGTON,41.476866,-71.604386
+WW257,RI0010031R-04,Stream or river,Nanaquaket Trib @ Quaket Brook,Tiverton,NEWPORT,41.601749,-71.197796
+WW258,RI001003R-05B,Estuary,Nanaquaket Trib @ Sin & Flesh Brook,Tiverton,NEWPORT,41.619254,-71.203351
+WW259,RI0010031R-06,Stream or river,Nanaquaket Trib @ White Wine Brook,Tiverton,NEWPORT,41.612636,-71.195701
+WW260,RI0010043E-02,Salt Pond,Green Hill Pond - In Pond (center),South Kingstown,WASHINGTON,41.370716,-71.615082
+WW261,RI0010043E-02,Salt Pond,Green Hill Pond - Indigo Point,South Kingstown,WASHINGTON,41.374138,-71.618774
+WW262,RI0010043E-02,Salt Pond,Green Hill Pond - Sea Lea (Allen Cove),Charlestown,WASHINGTON,41.369175,-71.625053
+WW263,RI0010043E-02,Salt Pond,Green Hill Pond - Teal Road,South Kingstown,WASHINGTON,41.377320,-71.609808
+WW264,RI0010043E-02,Salt Pond,Green Hill Pond - Twin Peninsula,South Kingstown,WASHINGTON,41.372615,-71.610450
+WW265,RI0010043E-04A,Salt Pond,Ninigret Pond - Crawford Dock,Charlestown,WASHINGTON,41.347473,-71.697365
+WW266,RI0010043E-04A,Salt Pond,Ninigret Pond - Ft. Neck Cove,Charlestown,WASHINGTON,41.380430,-71.647348
+WW267,RI0010043E-04B,Salt Pond,Ninigret Pond - Pond Street,Charlestown,WASHINGTON,41.367010,-71.629953
+WW268,RI0010043E-04A,Salt Pond,Ninigret Pond - Stumpy Point,Charlestown,WASHINGTON,41.378807,-71.646278
+WW269,RI0010043E-04B,Salt Pond,Ninigret Pond - Tockwotten Dock,Charlestown,WASHINGTON,41.370680,-71.637068
+WW270,RI0010043E-04A,Salt Pond,Ninigret Pond - Tom Cod,Charlestown,WASHINGTON,41.371567,-71.652470
+WW271,RI0010043E-04A,Salt Pond,Ninigret Pond - Vigna's Dock,Charlestown,WASHINGTON,41.369907,-71.639336
+WW272,RI0010046E-01B,Ocean,Great Salt Pond 1 (mid-harbor @ town can 5),New Shoreham,WASHINGTON,41.187315,-71.577951
+WW273,RI0010046E-01D,Ocean,Great Salt Pond 2 (Narragansett Inn),New Shoreham,WASHINGTON,41.182599,-71.576404
+WW274,RI0010046E-01B,Ocean,Great Salt Pond 3 (Off Champlain's Dock),New Shoreham,WASHINGTON,41.184521,-71.581060
+WW275,RI0010046E-01C,Ocean,Great Salt Pond 4 (Trim's Pond),New Shoreham,WASHINGTON,41.179903,-71.572263
+WW276,RI0010046L-02,Estuary,"Great Salt Pond Trib. 1 (Mill Tail Pond, Ocean Ave. culvert)",New Shoreham,WASHINGTON,41.174089,-71.563622
+WW277,RI0010046L-02,Estuary,Great Salt Pond Trib. 2 (Bridgegate Square culvert),New Shoreham,WASHINGTON,41.173901,-71.563667
+WW278,RI0010046L-02,Estuary,Great Salt Pond Trib. 3 (Comorant Cove salt marsh culvert),New Shoreham,WASHINGTON,41.189194,-71.588816
+WW279,RI0010046L-02,Stream or river,Great Salt Pond Trib. 4 (Beach Avenue),New Shoreham,WASHINGTON,41.176182,-71.573145
+WW280,RI0010046L-05,Stream or river,Great Salt Pond Trib. 5 (Harris Pt),New Shoreham,WASHINGTON,41.193582,-71.574265
+WW281,RI0010046L-05,Stream or river,Great Salt Pond Trib. 6 (Scott's),New Shoreham,WASHINGTON,41.190246,-71.570553
+WW282,RI0010042C-01,Ocean,Watch Hill Surfing Area,Westerly,WASHINGTON,41.305084,-71.859737
+WW283,RI0010042C-01,Ocean,Misquamicut DEM Surfing Area,Westerly,WASHINGTON,41.319542,-71.808052
+WW284,RI0010042C-01,Ocean,Weekapaug Breachway Surfing Area,Westerly,WASHINGTON,41.327098,-71.763784
+WW285,RI0010042C-01,Ocean,Deep Hole Surfing Area,South Kingstown,WASHINGTON,41.372293,-71.537538
+WW286,RI0010042C-01,Ocean,The K's Surfing Area,Narragansett,WASHINGTON,41.369188,-71.496092
+WW287,RI0010042C-01,Ocean,Conant  Ave. Surfing Area,Narragansett,WASHINGTON,41.372217,-71.483145
+WW288,RI0010042C-01,Ocean,Scarborough South Surfing Area,Narragansett,WASHINGTON,41.385285,-71.474571
+WW289,RI0010042C-01,Ocean,Scarborough DEM Surfing Area,Narragansett,WASHINGTON,41.392356,-71.469168
+WW290,RI0010042C-01,Ocean,Monahan's Surfing Area,Narragansett,WASHINGTON,41.422416,-71.454256
+WW291,RI0010042C-01,Ocean,Narragansett Pier @ the Steps Surfing Area,Narragansett,WASHINGTON,41.432304,-71.456079
+WW292,RI0010042C-01,Ocean,First Beach Surfing Area,Newport,NEWPORT,41.484913,-71.295759
+WW293,RI0010042C-01,Ocean,Second Beach,Middletown,NEWPORT,41.487949,-71.264144
+WW294,RI0010031E-01B,Ocean,Third Beach Surfing Area,Middletown,NEWPORT,41.490108,-71.246500
+WW295,RI0006017L-05,Reservoir ,Elm Pond,Providence,PROVIDENCE,41.774668,-71.412340
+WW296,RI0008039R-26,Stream or river,White Brook @ Pine Hill Rd,Richmond,WASHINGTON,41.467171,-71.670601
+WW297,RI0008039R-06B,Stream or river,Chipuxet River @ Yawgoo Valley Rd.,Exeter,WASHINGTON,41.517907,-71.525556
+WW298,RI0008040L-13,Lake or Pond,Browning Mill Pond,Exeter,WASHINGTON,41.557935,-71.690326
+WW299,RI0010048L-02,Lake or Pond,Round Pond,Little Compton,NEWPORT,41.463210,-71.187198
+WW300,RI0010048L-03,Lake or Pond,Simmons Mill Pond,Little Compton,NEWPORT,41.537585,-71.147650
+WW301,RI0008040L-18,Lake or Pond,Wickaboxet Pond,West Greenwich,KENT,41.629988,-71.768935
+WW302,,Stream or river,Green Falls River 1 (@ Green Falls Rd),North Stonington,NEW LONDON,41.542858,-71.802475
+WW303,,Stream or river,Green Falls River 2 (@ Putker),North Stonington,NEW LONDON,41.472412,-71.816299
+WW304,RI0008039R-37,Stream or river,Green Falls - Rte 184,Hopkinton,WASHINGTON,41.443211,-71.796295
+WW305,RI0007027R-02,Stream or river,Himes River @ Layfayette Rd,North Kingstown,KENT,41.560860,-71.494438
+WW306,RI0007027E-04B,Estuary,Wickford Harbor between Rabbit Is. and Cornelius Is.,North Kingstown,KENT,41.579803,-71.452198
+WW307,RI0010043L-18,Salt Pond,Little Maschaug Pond,Westerly,WASHINGTON,41.321333,-71.821639
+WW308,RI0002007R-10D,Estuary,Woonasquatucket River @ Waterplace Park,Providence,PROVIDENCE,41.826576,-71.414062
+WW309,RI0010043E-07,Salt Pond,Quonochontaug Pond - Judge's Rock,Westerly,WASHINGTON,41.333056,-71.747167
+WW310,RI0008039R-24,Stream or river,Tomaquag Brook @ Chase Hill,Hopkinton,WASHINGTON,41.410816,-71.763672
+WW311,,Stream or river,Asseconk Brook @ Rte 2,North Stonington,NEW LONDON,41.438511,-71.884361
+WW312,,Stream or river,Shunock River @ Below Parke Pond,North Stonington,NEW LONDON,41.442307,-71.877022
+WW313,,Stream or river,Shunock River @ Main St,North Stonington,NEW LONDON,41.441151,-71.881058
+WW314,RI0008039L-26,Reservoir ,White Brook Pond,Richmond,WASHINGTON,41.465080,-71.670258
+WW315,RI0007025E-04A,Ocean,Greenwich Bay  2 - Sally Rock,Warwick,KENT,41.672285,-71.412778
+WW316,RI0007025E-04B,Ocean,Greenwich Bay  3 - The Brothers,Warwick,KENT,41.680977,-71.434584
+WW317,RI0007025E-01,Ocean,Greenwich Bay  4 - Greenwich Bay Marina,Warwick,KENT,41.684943,-71.445853
+WW318,RI0007025E-01,Estuary,Greenwich Bay  6 - Ponaug Marina,Warwick,KENT,41.696269,-71.452790
+WW319,RI0007025E-02,Estuary,Greenwich Bay  8 - Little Rhody Boat Club,Warwick,KENT,41.690398,-71.404225
+WW320,RI0007025E-06A,Estuary,Greenwich Bay  9 - Warwick Cove Marina,Warwick,KENT,41.687560,-71.392835
+WW321,RI0007025E-04A,Ocean,Greenwich Bay  1 - Middle Ground Buoy,Warwick,KENT,41.671211,-71.397765
+WW322,RI0007025E-06A,Estuary,Greenwich Bay  10 - Greenwich Bay North Marina,Warwick,KENT,41.692957,-71.390351
+WW323,RI0007025E-05B,Ocean,Greenwich Bay  11 - Mouth of Greenwich Cove,Warwick,KENT,41.668753,-71.439929
+WW324,RI0007025E-05A,Estuary,Greenwich Bay  12 - Harborside,East Greenwich,KENT,41.661712,-71.444117
+WW325,RI0007025E-05A,Estuary,Greenwich Bay  13 - EG Town Dock,East Greenwich,KENT,41.656283,-71.448264
+WW326,RI0007025E-06A,Estuary,Greenwich Bay  14 - Wharf Marina,Warwick,KENT,41.696678,-71.388553
+WW327,RI0010044R-03,Stream or river,Narrow River 15 - Crooked Brook @ Farm,Narragansett,WASHINGTON,41.428692,-71.466441
+WW328,RI0010044R-03,Stream or river,Narrow River 16 - Crooked Brook @ School,Narragansett,WASHINGTON,41.433934,-71.466914
+WW329,RI0010046E-01B,Stream or river,Great Salt Pond Trib. 9 (Negus Park),New Shoreham,WASHINGTON,41.176046,-71.570066
+WW330,RI0010046E-01B,Stream or river,Great Salt Pond Trib. 10 (Island Hardware),New Shoreham,WASHINGTON,41.174802,-71.567825
+WW331,RI0010046E-01B,Stream or river,Great Salt Pond Trib. 11 (Sullivan's),New Shoreham,WASHINGTON,41.183856,-71.568731
+WW332,RI0010044E-01A,Estuary,Narrow River 13 - Near Lakeside Rd.,Narragansett,WASHINGTON,41.492231,-71.446705
+WW333,RI0010045L-04,Stream or river,Narrow River 14 - Lakeside Rd. Outflow,Narragansett,WASHINGTON,41.491467,-71.446527
+WW334,RI0005011L-02,Lake or Pond,Sisson Pond (Waterman Pond),Coventry,KENT,41.713920,-71.729553
+WW335,RI0010046E-01C,Estuary,Great Salt Pond Trib. 7 (Trim's Pond West),New Shoreham,WASHINGTON,41.177458,-71.576946
+WW336,RI0010046E-01C,Stream or river,Great Salt Pond Trib. 8 (Meyer's),New Shoreham,WASHINGTON,41.168290,-71.566970
+WW337,RI0007027L-04,Lake or Pond,Kettle Hole Pond,North Kingstown,KENT,41.546783,-71.490417
+WW338,RI0008039R-05A,Stream or river,Shickasheen Brook @ Yawgoo Inlet,Exeter,WASHINGTON,41.516232,-71.573514
+WW339,RI0006018L-05,Lake or Pond,Printworks Pond,Cranston,PROVIDENCE,41.794903,-71.460040
+WW340,RI0005047L-08,Lake or Pond,Clarkville Pond,Glocester,PROVIDENCE,41.922275,-71.788518
+WW341,RI0007028R-03D,Stream or river,HW6 - Hunt River (@ Forge Rd),North Kingstown,KENT,41.641357,-71.445035
+WW342,RI0006017L-01,Lake or Pond,Meshanticut Pond,Cranston,PROVIDENCE,41.768972,-71.475951
+WW343,RI0008040L-04,Lake or Pond,Ashville Pond,Hopkinton,WASHINGTON,41.500915,-71.755617
+WW344,RI0010043E-06A,Salt Pond,Pt Judith Pond - Gardiner Island,South Kingstown,WASHINGTON,41.407192,-71.508003
+WW345,RI0010043E-07,Salt Pond,Quonochontaug Pond - Harmonic Cove,Westerly,WASHINGTON,41.337776,-71.738670
+WW346,RI0010043E-07,Salt Pond,Quonochontaug Pond - N. of Bill's Is.,Charlestown,WASHINGTON,41.343723,-71.719360
+WW347,RI0010043E-07,Salt Pond,Quonochontaug Pond - Shady Harbor Bk,Charlestown,WASHINGTON,41.349083,-71.718086
+WW348,RI0010043E-04A,Salt Pond,Ninigret Pond - Potato Point,Charlestown,WASHINGTON,41.368599,-71.646606
+WW349,RI0010043E-09,Salt Pond,Winnapaug Pond - Aquaculture,Westerly,WASHINGTON,41.330276,-71.787361
+WW350,RI0010043E-09,Salt Pond,Winnapaug Pond - Breachway,Westerly,WASHINGTON,41.335361,-71.768028
+WW351,RI0010043E-09,Salt Pond,Winnapaug Pond - Golf Course Cove,Westerly,WASHINGTON,41.338402,-71.778793
+WW352,RI0010043E-09,Salt Pond,Winnapaug Pond - SWest Corner,Westerly,WASHINGTON,41.328362,-71.803696
+WW353,RI0008040R-16B,Reservoir ,Barberville Pond (Wood River impoundment adjacent to the WPWA campus),Richmond,WASHINGTON,41.540676,-71.696053
+WW354,RI0008039R-03,Stream or river,Beaver River 2 (Hillsdale Rd.),Richmond,WASHINGTON,41.525543,-71.639275
+WW355,RI0008039R-03,Stream or river,Beaver River 5 (Lewiston Rd.),Richmond,WASHINGTON,41.454723,-71.628632
+WW356,RI0007027E-03A,Ocean,Bonnet Beach @ Club,Narragansett,WASHINGTON,41.472299,-71.427186
+WW357,RI0007027E-03A,Ocean,Bonnet Beach @ Kelly,Narragansett,WASHINGTON,41.471389,-71.429644
+WW358,RI0007027E-03A,Ocean,Bonnet Beach @ Wesquage Outflow,Narragansett,WASHINGTON,41.472474,-71.423924
+WW359,RI0007024R-01,Stream or river,Buckeye Brook @ Old Warwick Ave,Warwick,KENT,41.714282,-71.398305
+WW360,RI0006013L-01,Reservoir ,Flat River Reservoir @ Acres of Pine,Coventry,KENT,41.697951,-71.617539
+WW361,RI0006013L-01,Reservoir ,Flat River Reservoir @ Colwells / Marina,Coventry,KENT,41.705141,-71.629097
+WW362,RI0006013L-01,Reservoir ,Flat River Reservoir @ Dam,Coventry,KENT,41.698226,-71.594956
+WW363,RI0006013L-01,Reservoir ,Flat River Reservoir @ Lazy Croft,Coventry,KENT,41.702329,-71.626562
+WW364,RI0006013L-01,Reservoir ,Flat River Reservoir @ Raymonds Pt,Coventry,KENT,41.696243,-71.607847
+WW365,RI0006013L-01,Reservoir ,Flat River Reservoir @ Wood Cove,Coventry,KENT,41.680227,-71.601900
+WW366,RI0006013L-01,Reservoir ,Flat River Reservoir @ Hall's Beach,Coventry,KENT,41.703487,-71.622982
+WW367,RI0007025E-02,Estuary,Greenwich Bay 15 - Brushneck Cove,Warwick,KENT,41.688066,-71.403828
+WW368,,Stream or river,Green Falls at Green Falls Pond,North Stonington,NEW LONDON,41.536576,-71.810181
+WW369,CT0007029R-02,Lake or Pond,Williams Pond,Lebanon,NEW LONDON,41.630280,-72.303826
+WW370,RI0007029L-01,Reservoir ,Melville Pond - Lower,Portsmouth,NEWPORT,41.591713,-71.278767
+WW371,RI0006014R-04A,Stream or river,Pawtuxet River @ Sandy Bottom Rd,Coventry,KENT,41.685999,-71.560653
+WW372,RI0008039R-31B,Stream or river,Queen's Fort Brook (at Main Street into Job Corp),Exeter,WASHINGTON,41.547001,-71.548164
+WW373,RI0010048E-02,Estuary,Quicksand Pond @ Gut,Little Compton,NEWPORT,41.499255,-71.125637
+WW374,RI0010048R-03,Stream or river,Quicksand Pond Trib - Pottsville Brook (Tribs East of Cole Brook),Little Compton,NEWPORT,41.525590,-71.130919
+WW375,RI0010048R-01,Stream or river,"Quicksand Pond Trib - Cole Brook, Upper (Pottsville Rd.)",Little Compton,NEWPORT,41.522889,-71.139164
+WW376,RI0010048R-03,Stream or river,Quicksand Pond Trib - Rock Bridge Creek (@ Rockbridge Dr.),Little Compton,NEWPORT,41.516794,-71.129251
+WW377,RI0010045R-05A,Stream or river,Saugatucket River @ Rte 138.  Saug 1,South Kingstown,WASHINGTON,41.490722,-71.487091
+WW378,RI0010045R-05A,Stream or river,Saugatucket River @ Broad Rock Rd.  Saug 1,South Kingstown,WASHINGTON,41.488339,-71.484830
+WW380,RI0010045R-05B,Stream or river,Saugatucket River @ Saugatucket Rd.  Saug 3,South Kingstown,WASHINGTON,41.464648,-71.490733
+WW381,RI0010045L-01,Stream or river,Saugatucket Inlet/Saugatucket River just upstream of Saugatucket Pond,South Kingstown,WASHINGTON,41.464688,-71.490832
+WW382,RI0010045R-05B,Stream or river,Saugatucket River just below Saugatucket Pond Dam.  Saug 3,South Kingstown,WASHINGTON,41.451683,-71.496144
+WW383,RI0010045R-05B,Stream or river,Saugatucket River @ Church Street.  Saug 4,South Kingstown,WASHINGTON,41.447760,-71.496604
+WW384,RI0010045R-04,Stream or river,"Saugatucket River Trib @ Kingstown Rd. (Rocky Brook), Saug5",South Kingstown,WASHINGTON,41.451725,-71.501465
+WW385,RI0010045R-05B,Stream or river,"Saugatucket River @ Wakefield School footbridge, Saug 5",South Kingstown,WASHINGTON,41.439114,-71.500013
+WW386,RI0010045R-05B,Stream or river,Saugatucket River @ Main Street Dam.  Saug  6,South Kingstown,WASHINGTON,41.437322,-71.501247
+WW387,RI0010045R-02,Stream or river,Saugatucket River Trib - Indian Run River @ Peace Dale Green/Guild.  Saug 4,South Kingstown,WASHINGTON,41.450004,-71.494798
+WW388,RI0010045R-01,Stream or river,Saugatucket River Trib - Indian Lake outflow @ Broad Rock Rd.   (Fresh Meadow Brook).  Saug  7,South Kingstown,WASHINGTON,41.479060,-71.482454
+WW389,,Stream or river,Schoolhouse Spring,Charlestown,WASHINGTON,,
+WW390,RI0008039R-05A,Stream or river,Shickasheen @ Arrow Swamp,Exeter,WASHINGTON,41.527657,-71.554436
+WW391,RI0008039R-05B,Stream or river,Shickasheen @ Waites Corner Rd. (Richmond Farm),South Kingstown,WASHINGTON,41.490001,-71.558620
+WW392,RI0008040R-16C,Stream or river,Wood River @ Switch Rd.,Hopkinton,WASHINGTON,41.491318,-71.715401
+WW394,RI0001002L-07,Stream or river,Smith & Sayles - Dam,Glocester,PROVIDENCE,41.902049,-71.677654
+WW395,RI0008040R-01,Stream or river,Acid Factory Brook at inlet to Eisenhower Lake,West Greenwich,KENT,41.624008,-71.715706
+WW396,,Stream or river,Asseconk Brook @ Jeremy Hill,North Stonington,NEW LONDON,41.438705,-71.910408
+WW397,RI0008040R-02,Stream or river,Breakheart Brook,Exeter,WASHINGTON,41.588036,-71.709351
+WW398,RI0008039R-04,Stream or river,Cedar Swamp Brook,Charlestown,WASHINGTON,41.427074,-71.695000
+WW399,,Stream or river,Glade Brook,North Stonington,NEW LONDON,41.468136,-71.808098
+WW400,RI0008040R-10,Stream or river,Kelley Brook,West Greenwich,KENT,41.612255,-71.753281
+WW401,RI0010046E-01A,Ocean,BI Beach Club,New Shoreham,WASHINGTON,41.196128,-71.574202
+WW402,,Stream or river,Pendelton Hill Brook @ Grindstone Rd,North Stonington,NEW LONDON,41.474796,-71.834053
+WW403,RI0008039R-32,Stream or river,Rake Factory Brook,South Kingstown,WASHINGTON,41.519803,-71.598270
+WW404,RI0008040R-15,Stream or river,Roaring Bk @ Arcadia,Exeter,WASHINGTON,41.558411,-71.685196
+WW405,RI0008040R-15,Stream or river,Roaring Bk @ Summit Rd,Exeter,WASHINGTON,41.556892,-71.697853
+WW406,,Stream or river,Shunock River @ Rte 49,North Stonington,NEW LONDON,41.410176,-71.844728
+WW407,RI0006014L-01,Lake or Pond,Mishnock Lake - Little,West Greenwich,KENT,41.653658,-71.594097
+WW408,RI0007035R-01,Stream or river,Bailey Brook (Market),Middletown,NEWPORT,41.516171,-71.295636
+WW409,RI0007035R-01,Stream or river,Bailey Brook (SRU - 1),Middletown,NEWPORT,41.526359,-71.293692
+WW410,RI0007035R-01,Stream or river,Bailey Brook (SRU - 2),Middletown,NEWPORT,41.505808,-71.290883
+WW411,RI0005011R-03,Stream or river,Moosup River - Deerfield Dr. (CT),Oneco,WINDHAM,41.691972,-71.799732
+WW412,RI0008039R-37,Stream or river,Parmentier Brk @ Clark Falls Rd.,Hopkinton,WASHINGTON,41.461674,-71.782951
+WW413,RI0008039R-27B,Stream or river,White Horn Brook @ Ministerial Rd.,South Kingstown,WASHINGTON,41.462859,-71.554640
+WW414,RI0008039R-26,Stream or river,White Brook Pond Outlet (White Brook),Richmond,WASHINGTON,41.463600,-71.671669
+WW415,RI0001003R-01A,Stream or river,Blackstone River @ Manville Falls,Lincoln,PROVIDENCE,41.971224,-71.471071
+WW416,RI0010043E-04A,Salt Pond,Ninigret Pond - Western Basin,Charlestown,WASHINGTON,41.353184,-71.681183
+WW417,RI0010043E-06K,Salt Pond,Pt Judith Pond - Champlin's Cove,Narragansett,WASHINGTON,41.406666,-71.491638
+WW418,RI0010043E-06B,Salt Pond,Pt Judith Pond - Ram Point,South Kingstown,WASHINGTON,41.425194,-71.496613
+WW419,RI0010043E-07,Salt Pond,Quonochontaug Pond - Harmonic Cove Buoy,Westerly,WASHINGTON,41.337334,-71.738197
+WW420,RI0010043E-07,Salt Pond,Quonochontaug Pond - Harmonic Cove Channel,Westerly,WASHINGTON,41.333752,-71.737358
+WW421,RI0010043E-07,Salt Pond,Quonochontaug Pond - Judge's Rock Buoy,Westerly,WASHINGTON,41.334290,-71.746251
+WW422,RI0010043E-07,Salt Pond,Quonochontaug Pond - Mud Cove,Westerly,WASHINGTON,41.330655,-71.751428
+WW423,RI0010043E-07,Salt Pond,Quonochontaug Pond - Yacht Basin,Westerly,WASHINGTON,41.329082,-71.749725
+WW424,RI0010045R-05B,Stream or river,Saugatucket River - Caleb's Dock (just upstream of the dam at the corner of Main and High Streets),South Kingstown,WASHINGTON,41.438831,-71.500168
+WW425,RI0008038E-02B,Ocean,Watch Hill Harbor (Buoy 4),Westerly,WASHINGTON,41.312602,-71.861690
+WW426,RI0010042C-01,Ocean,Napatree Point - Bayside,Westerly,WASHINGTON,41.312021,-71.870112
+WW427,RI0010042C-01,Ocean,Napatree Point - Oceanside,Westerly,WASHINGTON,41.305344,-71.879924
+WW428,RI0007028R-06,Stream or river,HW1a - Scrabbletown Brk @ Falls,North Kingstown,KENT,41.596448,-71.499287
+WW429,RI0007028R-06,Stream or river,HW1b - Scrabbletown Brk @ Rte 4 Bridge,North Kingstown,KENT,41.594584,-71.498784
+WW430,RI0007028R-03A,Stream or river,HW2 - Bear Brk @ South Rd. (Headwaters of Hunt River west of Routes 4 and 2),East Greenwich,KENT,41.607754,-71.503741
+WW431,RI0007028R-01,Stream or river,HW3 - Frenchtown Brk @ Frenchtown Rd.,East Greenwich,KENT,41.626819,-71.497646
+WW432,RI0007028R-03A,Stream or river,HW4 - Hunt River @ Davis Memorial (Refuge just upstream of Davisville Rd.),East Greenwich,KENT,41.623713,-71.481805
+WW433,RI0006017R-03,Stream or river,Pawtuxet River @ Ford Ln,Warwick,KENT,41.755277,-71.439591
+WW434,RI0006017R-03,Stream or river,Pawtuxet River @ Ross Simon Dr,Cranston,PROVIDENCE,41.737451,-71.453753
+WW435,RI0006018R-03B,Stream or river,Pocasset River @ CLCF Field (near confluence with Pawtuxet River near Marina Drive),Cranston,PROVIDENCE,41.758990,-71.442595
+WW436,RI0008039R-27B,Stream or river,White Horn Brook @ Bike Trail,South Kingstown,WASHINGTON,41.467204,-71.548941
+WW437,RI0010043E-07,Salt Pond,Quonochontaug Pond - East Basin Yacht Club (salt pond),Charlestown,WASHINGTON,41.348194,-71.711807
+WW438,RI0002007R-10C,Reservoir ,Woonasquatucket River @ Greystone Pond,Johnston,PROVIDENCE,41.866175,-71.492738
+WW439,RI0010045L-04,Stream or river,Wesquage Outlet (Bonnet Pt Rd.) - Pondside.  creek upstream of the culvert,Narragansett,WASHINGTON,41.474720,-71.425062
+WW440,RI0010045L-04,Stream or river,Wesquage Outlet (Bonnet Pt Rd.) - Oceanside,Narragansett,WASHINGTON,41.474449,-71.425098
+WW441,RI0010042C-01,Ocean,Block Island Sound - Outside GSP breachway - North.  GA14W,New Shoreham,WASHINGTON,41.202976,-71.588695
+WW442,RI0010043E-05,Salt Pond,Potter Pond - Kingman's Dock,South Kingstown,WASHINGTON,41.386072,-71.531632
+WW443,RI0008038E-01A,Estuary,Pawcatuck River upstream of Westerly WWTP,Westerly,WASHINGTON,41.364387,-71.837235
+WW444,RI0008038E-01A,Estuary,Pawcatuck River downstream of Westerly WWTP,Westerly,WASHINGTON,41.349870,-71.829899
+WW445,RI0008038E-01B,Estuary,Pawcatuck River - Mouth,Westerly,WASHINGTON,41.323415,-71.855493
+WW446,RI0008038E-02A,Estuary,Little Narragansett Bay - North of Sandy Pt,Westerly,WASHINGTON,41.323398,-71.878900
+WW447,RI0010043L-18,Estuary,Little Narragansett Bay - South of Barn Island Ramp,Stonington,NEW LONDON,41.334101,-71.877743
+WW448,,Ocean,CUSH - Dodson's Boatyard,Stonington,NEW LONDON,41.338029,-71.909146
+WW449,,Estuary,CUSH - Lambert Cove East (Off Don's Dock),Stonington,NEW LONDON,41.342857,-71.909470
+WW450,,Estuary,CUSH - Wamphassuc Neck (Stonington Harbor West - Dock at 11 East Neck Rd),Stonington,NEW LONDON,41.341183,-71.916115
+WW451,,Estuary,CUSH - Stonington Harbor Mid (Off Town Dock),Stonington,NEW LONDON,41.333321,-71.912643
+WW452,,Estuary,CUSH - Wequetequock Cove (mouth),Stonington,NEW LONDON,41.340248,-71.883545
+WW453,,Ocean,CUSH - Sandy Point West (East of breakwater),Stonington,NEW LONDON,41.325001,-71.896667
+WW454,RI0010043E-08,Lake or Pond,Trustom Pond - Otter Pt.,South Kingstown,WASHINGTON,41.374314,-71.581227
+WW455,RI0004009L-01A,Reservoir ,Central Pond (Turner North),East Providence,PROVIDENCE,41.847760,-71.343163
+WW456,RI0010042C-01,Ocean,Block Island Sound - Outside GSP breachway - South.  GA14W,New Shoreham,WASHINGTON,41.200062,-71.598448
+WW457,,Stream or river,Wyassup Brook @ Clark Farms Rd.,North Stonington,NEW LONDON,41.454403,-71.826080
+WW458,RI0008039R-03,Stream or river,Beaver River @ Richmond Schoolhouse Rd,Richmond,WASHINGTON,41.479679,-71.623604
+WW459,RI0010045L-04,Lake or Pond,Wesquage Pond (Little),Narragansett,WASHINGTON,41.476061,-71.429485
+WW460,RI0010043R-02,Lake or Pond,Trustom Pond - Osprey Pt,South Kingstown,WASHINGTON,41.370769,-71.587548
+WW461,RI0010043L-14,Lake or Pond,Bullhead Pond,South Kingstown,WASHINGTON,41.400184,-71.597254
+WW462,RI0001002L-17,Lake or Pond,Trout Brook Pond,North Smithfield,PROVIDENCE,41.989117,-71.582459
+WW463,RI0007026R-01,Estuary,Bristol Harbor (1) - Elks Club,Bristol,BRISTOL,41.666606,-71.278219
+WW464,RI0007026R-01,Estuary,Bristol Harbor (2) - Bristol Harb Inn,Bristol,BRISTOL,41.670250,-71.279834
+WW465,RI0007026R-01,Estuary,Bristol Harbor (3) - Silver Creek,Bristol,BRISTOL,41.677058,-71.279036
+WW466,RI0007026L-01,Estuary,Bristol Harbor (4) - Windmill Pt,Bristol,BRISTOL,41.679628,-71.282618
+WW467,RI0007026L-01,Estuary,Bristol Harbor (5) - Mill Pond,Bristol,BRISTOL,41.681837,-71.283461
+WW468,RI0007026L-01,Estuary,Bristol Harbor (6) - Sanroma,Bristol,BRISTOL,41.680352,-71.288161
+WW469,RI0007026L-01,Estuary,Bristol Harbor (7) - Bristol Yacht Club,Bristol,BRISTOL,41.675519,-71.287674
+WW470,RI0007026L-01,Estuary,Bristol Harbor (8) - Brito Dock,Bristol,BRISTOL,41.671151,-71.287680
+WW471,,Estuary,CUSH - Wequetequock Cove - Head,Stonington,NEW LONDON,41.357901,-71.879696
+WW472,,Ocean,CUSH - Mason's Island Ram Pt,Stonington,NEW LONDON,41.328552,-71.978386
+WW473,,Estuary,CUSH - Murphy's Point,Stonington,NEW LONDON,41.348400,-71.968559
+WW474,,Estuary,CUSH - Mystic River Park,Stonington,NEW LONDON,41.353296,-71.969383
+WW475,,Estuary,CUSH - Pequotsepos Cove - N of Rte 1 ,Stonington,NEW LONDON,41.350041,-71.959120
+WW476,RI0010043L-13,Stream or river,Trustom Pond Tributary - East,South Kingstown,WASHINGTON,41.378730,-71.583857
+WW477,RI0010043R-02,Stream or river,Trustom Pond Tributary - West,South Kingstown,WASHINGTON,41.373460,-71.589446
+WW478,RI0010043L-17,Stream or river,Harmonic Brook (Quonochontaug Trib),Westerly,WASHINGTON,41.338663,-71.738735
+WW479,RI0008039L-01,Salt Pond,Winnapaug Pond - Cow Cove Creek,Westerly,WASHINGTON,41.336253,-71.767187
+WW480,RI0008039R-18E,Stream or river,Pawcatuck River - Upstream of Boom Bridge,Westerly,WASHINGTON,41.418251,-71.822115
+WW481,RI0008039R-18E,Stream or river,Pawcatuck River - At Boom Bridge,Westerly,WASHINGTON,41.417396,-71.823473
+WW482,RI0008039R-18E,Stream or river,Pawcatuck River - Downstream of Boom Bridge,Westerly,WASHINGTON,41.417048,-71.823723
+WW483,RI0004009R-01A,Stream or river,Ten Mile River at Central Pond,Pawtucket,PROVIDENCE,41.862426,-71.338250
+WW484,RI0006015L-13,Lake or Pond,Lake Aldersgate,Glocester,PROVIDENCE,41.878375,-71.663577
+WW485,RI0001002R-05C,Reservoir ,Harrisville Mill Pond,Burrillville,PROVIDENCE,41.966379,-71.675089
+WW486,RI0007026R-01,Estuary,Bristol Harbor (9) - Silver Bridge,Bristol,BRISTOL,41.679712,-71.275947
+WW487,RI0007026R-01,Stream or river,Bristol Harbor (10) - Silver East,Bristol,BRISTOL,41.686853,-71.271594
+WW488,RI0007026R-01,Stream or river,Bristol Harbor (11) - Silver West,Bristol,BRISTOL,41.686246,-71.276377
+WW489,RI0007026R-01,Estuary,Bristol Harbor (12) - Herreshoff,Bristol,BRISTOL,41.662309,-71.274280
+WW490,RI0010043R-02,Stream or river,Factory Brook (Green Hill Pond Trib),South Kingstown,WASHINGTON,41.378348,-71.608447
+WW491,RI0010043R-01,Stream or river,Mill's Creek (Ninigret Pond Trib),Charlestown,WASHINGTON,41.381245,-71.643217
+WW492,RI0010043L-12,Salt Pond,Potter Pond - North,South Kingstown,WASHINGTON,41.395025,-71.539232
+WW493,RI0008039L-01,Salt Pond,Winnapaug Pond - East Basin,Westerly,WASHINGTON,41.332358,-71.780639
+WW494,RI0006017R-03,Stream or river,Pawtuxet River @ 250 m down from Warwick WWTP,Warwick,KENT,41.739971,-71.448633
+WW495,RI0010043L-18,Estuary,Napatree Point - Cove,Westerly,WASHINGTON,41.315877,-71.856659
+WW496,,Estuary,CUSH - Pequotsepos MID Cove - Borodell Ave.,Stonington,NEW LONDON,41.352110,-71.956570
+WW497,RI0010048R-03,Stream or river,Quicksand Pond Trib - Rock Bridge Creek (@ Quicksand Inlet),Little Compton,NEWPORT,41.515091,-71.128962
+WW498,RI0008039L-01,Ocean,Fenway Beach,Westerly,WASHINGTON,41.327937,-71.761250
+WW499,RI0008039R-37,Stream or river,Green Falls River 3 (Clark Falls Rd./Rte 216),North Stonington,NEW LONDON,41.456135,-71.817400
+WW500,,Estuary,CUSH - Mystic Shipyard,Stonington,NEW LONDON,41.348920,-71.960300
+WW501,RI0007027L-01,Estuary,Wickford Cove West of Loop Drive,North Kingstown,KENT,41.565704,-71.457145
+WW502,,Lake or Pond,CUSH - Chesebrough Pond,Stonington,NEW LONDON,41.361340,-71.874300
+WW503,,Estuary,CUSH - Wequetequock Cove Inlet,Stonington,NEW LONDON,41.351033,-71.883884
+WW504,RI0007026R-01,Estuary,Bristol Harbor (13) - Ed Mack's Dock,Bristol,BRISTOL,41.659763,-71.268856
+WW505,RI0006017R-03,Stream or river,Pawtuxet River @ Rhodes,Cranston,PROVIDENCE,41.767197,-71.396012
+WW506,,Estuary,Allen Cove - Inflow (Green Hill Pond trib),Charlestown,WASHINGTON,41.370986,-71.625745
+WW507,RI0010043L-11,Estuary,King Tom Pond Outflow (Ninigret Pond trib),Charlestown,WASHINGTON,41.381146,-71.652859
+WW508,,Stream or river,Ninigret Cove Brook,Charlestown,WASHINGTON,41.345409,-71.729012
+WW509,RI0002007R-10C,Stream or river,Woonasquatucket River @ Manton Ave.,Providence,PROVIDENCE,41.832995,-71.470563
+WW510,RI0010042L-01,Lake or Pond,Little Neck Pond,Narragansett,WASHINGTON,41.436338,-71.456227
+WW511,RI0010046L-01,Stream or river,Great Salt Pond Trib. (Old Town Rd),New Shoreham,WASHINGTON,41.172387,-71.564771
+WW512,RI0010046L-02,Ocean,Great Salt Pond 5 (Champlin's North),New Shoreham,WASHINGTON,41.185747,-71.582199
+WW513,RI0010043L-12,Salt Pond,Potter Pond - Segar Cove,South Kingstown,WASHINGTON,41.382572,-71.539184
+WW514,RI0007027L-03,Stream or river,Himes River @ 124 Hideaway Lane,North Kingstown,KENT,41.557258,-71.491840
+WW515,,Lake or Pond,Bobby's Pond,Portsmouth,NEWPORT,,
+WW516,RI0007027L-01,Estuary,Wickford Cove East of Loop Drive,North Kingstown,KENT,41.567219,-71.453854
+WW517,RI0010045R-05B,Salt Pond,Billington Cove Marina,South Kingstown,WASHINGTON,41.421609,-71.503292
+WW518,RI0010046L-05,Stream or river,Great Salt Pond Trib. (Breezy Pt Culvert),New Shoreham,WASHINGTON,41.190300,-71.570530
+WW519,RI0002007R-14,Stream or river,Waterman Tributary Upstream of Golf Course,Glocester,PROVIDENCE,41.887282,-71.591147
+WW520,RI0007028R-05,Reservoir ,Saw Mill Pond,North Kingstown,KENT,41.612866,-71.465720
+WW521,RI0010045L-04,Ocean,Bonnet Point,Narragansett,WASHINGTON,41.468415,-71.421502
+WW522,RI0007026R-01,Lake or Pond,Bristol Harbor (14) - DaPonte/Wood St,Bristol,BRISTOL,41.682495,-71.274506
+WW523,RI0007026R-01,Stream or river,Bristol Harbor (15) - Silver Gooding Ave,Bristol,BRISTOL,41.694033,-71.267564
+WW524,RI0010043L-04,Lake or Pond,Cross Mill Pond,Charlestown,WASHINGTON,41.387015,-71.635887
+WW525,RI0007035L-08,Estuary,Sawpowet Marsh 1,Tiverton,NEWPORT,41.578802,-71.199293
+WW526,RI0007035L-08,Estuary,Sawpowet Marsh 2,Tiverton,NEWPORT,41.581776,-71.208350
+WW527,,Estuary,CUSH - Pequotsepos Railroad,Stonington,NEW LONDON,41.349414,-71.960363
+WW528,,Estuary,CUSH - Pequotsepos Brook (at Mistuxet Ave.),Stonington,NEW LONDON,41.358267,-71.953356
+WW529,,Estuary,CUSH - Beebe Cove (private dock off Rte 215),Stonington,NEW LONDON,41.334932,-71.991400
+WW530,RI0006017L-05,Stream or river,Roosevelt Pond inflow (RWP 1),Providence,PROVIDENCE,41.782905,-71.418426
+WW531,RI0006017L-05,Reservoir ,Willow Lake (RWP 2),Providence,PROVIDENCE,41.783890,-71.414393
+WW532,RI0006017L-05,Reservoir ,Polo Lake (RWP 3),Providence,PROVIDENCE,41.786347,-71.414957
+WW533,RI0006017L-05,Reservoir ,Willow/Pleasure Bridge (RWP 4),Providence,PROVIDENCE,41.784091,-71.413870
+WW534,RI0006017L-05,Reservoir ,Cladrash's Ave Bridge (RWP 5),Providence,PROVIDENCE,41.784872,-71.406646
+WW535,RI0006017L-05,Reservoir ,Edgewood Lake (RWP 6),Providence,PROVIDENCE,41.781046,-71.406029
+WW536,RI0006017L-05,Reservoir ,Elm Lake Outflow (RWP 9),Providence,PROVIDENCE,41.773803,-71.412422
+WW537,RI0007024L-02,Lake or Pond,Spring Green Pond at Warwick Ave.,Warwick,KENT,41.735307,-71.407924
+WW538,RI0007024L-02,Stream or river,Buckeye Brook @ Airport Rd,Warwick,KENT,41.732846,-71.416661
+WW539,RI0007024L-02,Stream or river,Buckeye Brook @ Lakeshore Dr (culvert),Warwick,KENT,41.728497,-71.414397
+WW540,RI0007024L-02,Stream or river,Old Catch Basin (Buckeye Brk system),Warwick,KENT,41.722817,-71.414920
+WW541,RI0007024R-01,Estuary,Buckeye Brook @ the Bay,Warwick,KENT,41.713541,-71.365097
+WW542,RI0007035L-08,Estuary,Sawpowet Trib 1,Tiverton,NEWPORT,41.575442,-71.197924
+WW543,RI0007035L-08,Estuary,Sawpowet Trib 2,Tiverton,NEWPORT,41.575071,-71.198957
+WW544,,Stream or river,Pendleton Hill Brook @ Rte 49/216,North Stonington,NEW LONDON,41.455281,-71.836298
+WW545,RI0008039L-06,Lake or Pond,Pasquiset Pond (Ferrio Dock),Charlestown,WASHINGTON,41.423970,-71.632568
+WW546,,Lake or Pond,Long Pond (LC),Little Compton,NEWPORT,41.465106,-71.178960
+WW547,,Reservoir ,Peace Dale Reservoir,South Kingstown,WASHINGTON,41.451460,-71.512619
+WW548,,Stream or river,Shunock River @ Rte 184,North Stonington,NEW LONDON,41.430470,-71.851959
+WW549,RI0008040L-03,Lake or Pond,Blue Pond,Hopkinton,WASHINGTON,41.507670,-71.748532
+WW550,,Reservoir ,Wood River @ Mechanic St Dam,Richmond,WASHINGTON,41.503116,-71.716554
+WW551,,Stream or river,Pasquiset Tributary - Southwest,Charlestown,WASHINGTON,41.421890,-71.634865
+WW552,,Stream or river,Pasquiset Tributary - Southeast,Charlestown,WASHINGTON,41.421223,-71.629219
+WW553,RI0007020L-07,Lake or Pond,Echo Lake (Barrington),Barrington,BRISTOL,41.735171,-71.334142
+WW554,,Stream or river,Knowles Brook,Warwick,KENT,41.702431,-71.387213
+WW555,,Stream or river,Borden Brook,Tiverton,NEWPORT,41.571963,-71.183476
+WW556,,Estuary,Bristol Harbor (16) - Roger Williams University Dock,Bristol,BRISTOL,41.649644,-71.256072
+WW557,,Estuary,Bristol Harbor (18) - Annawanscutt Drive,Bristol,BRISTOL,41.688037,-71.242357
+WW558,,Estuary,Bristol Harbor (17) - Kickemuit,Bristol,BRISTOL,41.704403,-71.249924
+WW559,,Stream or river,Narrow River 17 - Mettatuxet Road,Narragansett,WASHINGTON,41.474922,-71.442446
+WW560,,Estuary,Narrow River 18 - SE Middlebridge,Narragansett,WASHINGTON,41.457803,-71.450602
+WW561,,Estuary,Narrow River 19 - NE Middlebridge,Narragansett,WASHINGTON,41.457982,-71.450552
+WW562,,Estuary,Narrow River 21 - SW Middlebridge,Narragansett,WASHINGTON,41.457901,-71.451217
+WW563,,Estuary,Narrow River 22 - mid Middlebridge,Narragansett,WASHINGTON,41.458333,-71.452500
+WW564,,Stream or river,Narrow River 23 - Garrison Trail,South Kingstown,WASHINGTON,41.454722,-71.455278
+WW565,,Estuary,Narrow River 24 - Starr Drive,Narragansett,WASHINGTON,41.444167,-71.455556
+WW566,,Stream or river,Narrow River 25 - Crooked Brook,Narragansett,WASHINGTON,41.438025,-71.467141
+WW567,,Stream or river,Narrow River 26 - Kimberly Drive,South Kingstown,WASHINGTON,41.441785,-71.470243
+WW568,,Stream or river,Narrow River 27 - Bike Path Culvert,Narragansett,WASHINGTON,41.437222,-71.475833
+WW569,CT2104-00_01,Stream or river,CUSH - Whitford Brook,Stonington,NEW LONDON,41.389709,-71.960412
+WW570,,Ocean,Napatree Point - Lagoon,Westerly,WASHINGTON,41.309283,-71.880407
+WW571,RI0010043E-08,Lake or Pond,Trustom Pond - Site 1,South Kingstown,WASHINGTON,41.376225,-71.582442
+WW572,RI0010043E-08,Lake or Pond,Trustom Pond - Site 2,South Kingstown,WASHINGTON,41.372648,-71.577536
+WW573,RI0010043E-08,Lake or Pond,Trustom Pond - Site 3,South Kingstown,WASHINGTON,41.370054,-71.581578
+WW574,,Estuary,Almy Creek,Tiverton,NEWPORT,41.552058,-71.197741
+WW575,,Estuary,Nanaquaket Pond @ Evelyn's,Tiverton,NEWPORT,41.616022,-71.200609
+WW576,,Ocean,Fogland Beach,Tiverton,NEWPORT,41.558551,-71.214713
+WW577,,Salt Pond,Quonochontaug Pond - Yacht Basin Buoy,Westerly,WASHINGTON,41.330216,-71.748040
+WW578,RI0006013R-09,Stream or river,Whaley Brook at Flat River,Coventry,KENT,41.716853,-71.662208
+WW579,RI0006013R-09,Stream or river,Turkey Meadow Brook at Flat River,Foster,KENT,41.727907,-71.708924
+WW580,,Estuary,CUSH - Noank Village Boatyard,Groton,NEW LONDON,41.329054,-71.983513
+WW581,RI0008039L-24,Lake or Pond,Saw Mill Pond,Charlestown,WASHINGTON,41.431376,-71.662063
+WW582,RI0006017L-10,Lake or Pond,Tongue Pond,Cranston,PROVIDENCE,41.797937,-71.442614
+WW583,RI0010048L-04,Lake or Pond,Tunipus Pond,Little Compton,NEWPORT,41.495285,-71.137890
+WW584,RI0010043L-15,Lake or Pond,Perry Pond,Charlestown,WASHINGTON,41.382159,-71.631569
+WW585,,Estuary,Jack's Island,Tiverton,NEWPORT,41.594136,-71.206340
+WW586,RI0006015R-16,Stream or river,Moswansicut @ Snake Hill Road,Scituate,PROVIDENCE,41.864989,-71.589590
+WW587,RI0006015R-16,Stream or river,Moswansicut @ Elmsdale Road,Scituate,PROVIDENCE,41.861892,-71.587183
+WW588,RI0006015R-16,Stream or river,Moswansicut @ Angell Road,Scituate,PROVIDENCE,41.854144,-71.575482
+WW589,,Stream or river,Moswansicut @ Kimball Outflow,Scituate,PROVIDENCE,41.838155,-71.568159
+WW590,RI0006015R-16,Stream or river,Moswansicut @ Hopkins Ave,Scituate,PROVIDENCE,41.838833, -71.5682342
+WW591,RI0006015R-16,Stream or river,Moswansicut @ Tasca Field,Scituate,PROVIDENCE,41.835460,-71.572755
+WW592,RI0006015R-16,Stream or river,Moswansicut @ Hartford Ave,Scituate,PROVIDENCE,41.836078,-71.577291
+WW593,RI0006015L-04,Stream or river,Moswansicut @ W. Greenville Rd,Scituate,PROVIDENCE,41.840838,-71.582669
+WW594,,Stream or river,Maidford River - Culvert at Third Beach Rd,Middletown,NEWPORT,41.490427,-71.248765
+WW595,,Estuary,Maidford Marsh - Water control structure,Middletown,NEWPORT,41.485250,-71.243766
+WW596,,Stream or river,Maskerchugg Tributary @ Green Bush Rd.,East Greenwich,KENT,41.662816,-71.479810
+WW597,,Stream or river,Maskerchugg River @ Cedar & Division ,East Greenwich,KENT,41.663289,-71.472236
+WW598,,Stream or river,Dark Entry Brook @ Brisas Circle,East Greenwich,KENT,41.659867,-71.462677
+WW599,,Stream or river,Maskerchugg River @ Kenyon ,East Greenwich,KENT,41.655132,-71.463918
+WW600,,Stream or river,Maskerchugg Tributary @ Glenwood Cemetary,East Greenwich,KENT,41.655031,-71.464399
+WW601,,Stream or river,Maskerchugg Tributary @ Saddle Brook,Warwick,KENT,41.667092,-71.483720
+WW602,,Stream or river,Maskerchugg River @ Rt 95,Warwick,KENT,41.673278,-71.477632
+WW603,,Stream or river,Dark Entry Brook @ Major Potter ,Warwick,KENT,41.673162,-71.468397
+WW604,,Stream or river,Maskerchugg Tributary @ Hemlock,East Greenwich,KENT,41.653235,-71.469831
+WW605,,Estuary,Maskerchugg River @ Greenwich Cove,East Greenwich,KENT,41.647603,-71.455941
+WW606,,Stream or river,Maidford River - Hanging Rock Rd,Middletown,NEWPORT,41.490386,-71.259375
+WW607,,Estuary,Warren River - Bridge Street Access,Warren,BRISTOL,41.720950,-71.285204
+WW608,,Estuary,Warren River - Wharf Tavern ROW,Warren,BRISTOL,41.731135,-71.286693
+WW609,,Estuary,Warren River - Jacobs Pt,Warren,BRISTOL,41.708944,-71.291396
+WW610,,Estuary,Belchers Cove - German Club,Warren,BRISTOL,41.737126,-71.283853
+WW611,,Estuary,Warren River - Adams Pt,Barrington,BRISTOL,41.717845,-71.291610
+WW612,,Stream or river,Sin and Flesh Brook - Fish Rd,Tiverton,BRISTOL,41.629549,-71.186662
+WW613,,Stream or river,Sin and Flesh Brook - April Lane,Tiverton,BRISTOL,41.622128,-71.201471
+WW614,,Estuary,Nanaquaket Beach,Tiverton,BRISTOL,41.618137,-71.206054
+WW615,,Stream or river,Quaket Creek - Main Rd,Tiverton,BRISTOL,41.598320,-71.194774
+WW616,,Stream or river,Penny Pond,Tiverton,BRISTOL,41.596928,-71.196095
+WW617,,Stream or river,Borden Brook - Main Rd,Tiverton,BRISTOL,41.569338,-71.186992
+WW618,RI0008039R-,Stream or river,Pasquiset Brook @ Rte 2,Charlestown,WASHINGTON,41.444004,-71.626934
+WW619,,,,,,,
+WW620,,Estuary,Wickford Harbor - Brown St Dock,North Kingstown,KENT,41.570067,-71.451072
+WW621,,Estuary,Wickford Harbor - Main St Dock,North Kingstown,KENT,41.572931,-71.444979
+WW622,,Stream or river,Sin and Flesh Brook - Rte 24,Tiverton,BRISTOL,41.640372,-71.187622
+WW623,,Ocean,Third Beach Boat Ramp,Middletown,NEWPORT,41.487150,-71.246084
+WW624,,Estuary,Briggs Marsh Dundery Brook Cove,Little Compton,NEWPORT,41.484225,-71.166842
+WW625,,Estuary,CUSH - Oxecosset Brook,Stonington,NEW LONDON,41.351377,-71.891214
+WW626,,Stream or river,Buckeye Brook @ Rodney Rd,Warwick,KENT,41.713020,-71.411150
+WW627,,Estuary,CUSH - Mystic Harbor (Red Bouy 24),Stonington,NEW LONDON,41.333017,-71.974200
+WW628,,Estuary,CUSH - Mystic Harbor (Green Bouy 29),Stonington,NEW LONDON,41.340183,-71.974200
+WW629,,Estuary,CUSH - Mystic Harbor (Red Daybeacon 4),Stonington,NEW LONDON,41.341800,-71.968200
+WW630,,Estuary,CUSH - Mystic Seaport South (Shipyard Pt floating dock W end),Stonington,NEW LONDON,41.361418,-71.967039
+WW631,,Estuary,CUSH - Mystic Seaport North (Latitude 41 floating dock N corner),Stonington,NEW LONDON,41.364146,-71.964335
+WW632,,Salt Pond,Green Hill Pond - Sea Lea,Charlestown,WASHINGTON,41.367909,-71.622364
+WW633,,Salt Pond,Ninigret Pond - Eastern Basin,Charlestown,WASHINGTON,41.368165,-71.630045
+WW634,,Stream or river,Spring Green Pond Outflow,Warwick,KENT,41.734561,-71.417113
+WW635,,Stream or river,Buckeye Trib - Commerce,Warwick,KENT,41.734492,-71.417434
+WW636,,Stream or river,Woonasquatucket River @ Whipple Field,Smithfield,PROVIDENCE,41.883749,-71.504435
+WW637,,Stream or river,Moshassuck River @ Sheridan Nature Sanctuary,Lincoln,PROVIDENCE,41.917286,-71.447367
+WW638,,Stream or river,Quaket Creek - Below pond,Tiverton,BRISTOL,41.600520,-71.197174
+WW639,,Stream or river,Industrial Way tributary to Sin and Flesh,Tiverton,BRISTOL,41.640976,-71.184393
+WW640,,Estuary,Tiverton Basin boat launch,Tiverton,BRISTOL,41.638012,-71.211667
+WW641,,Stream or river,Tributary Borden from south,Tiverton,BRISTOL,41.571349,-71.184498
+WW642,,Stream or river,Tributary Borden from east,Tiverton,BRISTOL,41.571788,-71.185060
+WW643,,Stream or river,West River,Providence,PROVIDENCE,41.855322,-71.430448
+WW644,,Stream or river,Moshassuck River @ Collyer Field FOTM tree field,Providence,PROVIDENCE,41.854327,-71.404502
+WW645,,Estuary,Warren River - Ginalski Boat Yard,Warren,BRISTOL,41.732244,-71.287527
+WW646,,Estuary,Pawcatuck River @ Mastuxet Brook,Westerly,WASHINGTON,41.343056,-71.824406
+WW647,,Stream or river,Flat River @ Midway,Exeter,WASHINGTON,41.573082,-71.720956
+WW648,,Stream or river,Ten Mile River - Upstream of Omega Pond,East Providence,PROVIDENCE,41.834695,-71.362111
+WW649,RI0007020L-04,Lake or Pond,Posnegansett Pond,Warwick,KENT,41.749570,-71.405885
+WW650,,Stream or river,Ten Mile River - Hunt's Mill,East Providence,PROVIDENCE,41.828073,-71.345581
+WW651,,Stream or river,Buckeye Trib - Upstream of airport channel,Warwick,KENT,41.729211,-71.414904
+WW652,,Stream or river,Buckeye Trib - Airport channel,Warwick,KENT,41.729004,-71.414788
+WW653,,Stream or river,Narrow River 28 - Power Line Path,Narragansett,WASHINGTON,41.43783,-71.476662
+WW654,,Estuary,Warwick Cove,Warwick,KENT,41.6345,-71.391167
+WW655,,Estuary,Greenwich Cove,East Greenwich,KENT,41.667533,-71.4435
+WW656,,Estuary,Providence River - Save The Bay,Cranston,PROVIDENCE,41.781333,-71.3855
+WW657,,Salt Pond,Maschaug Pond,Westerly,WASHINGTON,41.317788,-71.833527
+WW658,,,,,,,
+WW659,RI0007027L-01,Estuary,Wickford Cove West of Loop Drive (further),North Kingstown,WASHINGTON,41.564327,-71.458107
+WW660,,Stream or river,Maskerchugg River @ Rt 1,East Greenwich,KENT,41.650018,-71.457438
+WW661,,Ocean,Mackeral Cove Beach,Jamestown,NEWPORT,41.488844,-71.382202
+WW662,,Salt Pond,Pt Judith Pond - Long Cove,Narragansett,WASHINGTON,41.417218,-71.493717
+WW663,,Stream or river,Bristol Golf Club - North,Bristol,BRISTOL,41.704709,-71.272273
+WW664,,Stream or river,Bristol Golf Club - B,Bristol,BRISTOL,41.696408,-71.268258
+WW665,,Estuary,Hay Harbor Club,Fishers Island,SUFFOLK,41.26666,-72.022824
+WW666,,Estuary,West Harbor,Fishers Island,SUFFOLK,41.265622,-72.011013
+WW667,,Stream or river,Fisherville Trib - Hopkins Upstream,West Greenwich,KENT,41.613359,-71.570405
+WW668,,Stream or river,Fisherville Brook  - Henry Brown Rd,West Greenwich,KENT,41.609585,-71.589963
+WW669,,Estuary,Wickford Harbor - Fishing Cove,North Kingstown,WASHINGTON,41.581905,-71.442508
+WW670,,Stream or river,Lucy Brook,Glocester,PROVIDENCE,41.898436,-71.669729
+WW671,RI0010046E-01B,Estuary,Block Island Mooring (Blue 133),New Shoreham,WASHINGTON,41.185627,-71.579845
+WW672,,Lake or Pond,Thirty Acre Pond,South Kingstown,WASHINGTON,41.491252,-71.545342
+WW673,,Stream or river,Fisherville Trib - Hopkins Downstream,West Greenwich,KENT,41.613361,-71.570417
+WW674,,Lake or Pond,Snows Pond,Rochester,BRISTOL,41.758408,-70.852288
+WW675,RI0006017L-05,Reservoir ,Roosevelt Lake Outflow,Providence,PROVIDENCE,41.784692,-71.415435
+WW676,RI0006017L-05,Reservoir ,Cladrash's Pedestrian Bridge,Providence,PROVIDENCE,41.784221,-71.411275
+WW677,,Lake or Pond,Little Wash Pond,South Kingstown,WASHINGTON,41.401975,-71.545240
+WW678,,Lake or Pond,Snow's Pond - Cranberry Cove,Rochester,BRISTOL,41.75541,-70.855017
+WW679,,Stream or river,Moosup River - Barb Hill Rd,Coventry,KENT,41.720103,-71.757768
+WW680,,Stream or river,Geov Trib – Sweet Rd,Smithfield,PROVIDENCE,41.890414,-71.514129
+WW681,,Stream or river,Geoville Trib @ Below Harris,Smithfield,PROVIDENCE,41.894566,-71.507241
+WW682,,Reservoir ,Upper Kickemuit Impoundment,Warren,BRISTOL,41.740022,-71.259677
+WW683,,Reservoir ,Lower Kickemuit Reservoir,Warren,BRISTOL,41.729401,-71.264349
+WW684,,Estuary,Kickemuit Estuary,Warren,BRISTOL,41.729514,-71.262654
+WW685,,Estuary,Zeek's Creek,Jamestown,NEWPORT,41.506919,-71.374663
+WW686,,Ocean,South Ferry Beach Rd Beach,Narragansett,WASHINGTON,41.492807,-71.420157
+WW687,RI0010044E-01A,Estuary,Narrow River 05b - Upstream of Lacey Bridge  (South Kingstown/Narragansett),South Kingstown,WASHINGTON,41.488563,-71.447328
+WW688,,Stream or river,Mashapaug Inlet,Providence,PROVIDENCE,,
+WW689,,Estuary,Fox Hill Marsh,Jamestown,NEWPORT,41.491710,-71.395902
+WW690,,Stream or river,Simmons Brook,Johnston,PROVIDENCE,41.796480,-71.483332
+WW691,,Estuary,Touisset Yacht,Warren,BRISTOL,41.700887,-71.242492
+WW692,,Estuary,Broken Bridge,Warren,BRISTOL,41.726154,-71.263118
+WW693,,Stream or river,Meshanticut Brook,Cranston,PROVIDENCE,41.774125,-71.475603
+WW694,,Estuary,Amaral-D'Ambra Urban Estuary,East Providence,PROVIDENCE,41.80231,-71.376888
+WW695,RI0010047L-01,Lake or Pond,Almy Pond - Site 2,Newport,NEWPORT,41.460743,-71.312239
+WW696,RI0010047L-01,Stream or river,Almy Pond - Inlet,Newport,NEWPORT,41.465522,-71.311602
+WW697,RI0010047L-01,Stream or river,Almy Pond - Outlet,Newport,NEWPORT,41.458999,-71.314023
+WW698,,Stream or river,K's NA-38,Narragansett,WASHINGTON,41.369171,-71.495903
+WW699,,Lake or Pond,K's Pond,Narragansett,WASHINGTON,41.366394,-71.492030
+WW700,,Stream or river,Conant NA-49,Narragansett,WASHINGTON,41.369301,-71.483719
+WW701,,Lake or Pond,Conant Pond,Narragansett,WASHINGTON,41.371873,-71.484260
+WW702,,Ocean,Green Hill Beach,Charlestown,WASHINGTON,41.364559,-71.600061
+WW703,,Stream or river,Moshassuck River @ Mineral Spring,Providence,PROVIDENCE,41.872450,-71.408340
+WW704,RI0001002R-,Lake or Pond,Smith & Sayles @ Cleo/Trib to S &S,Glocester,PROVIDENCE,41.885577,-71.687185
+WW705,,Stream or river,Mastuxet Brook,Westerly,WASHINGTON,41.344694,-71.818737
+WW706,,Estuary,Pt Judith Pond - East 2,Narragansett,WASHINGTON,,
+WW707,,Lake or Pond,Polo Lake (RWP 3A),Providence,PROVIDENCE,41.787353,-71.415286
+WW708,,Lake or Pond,Polo Lake (RWP 3B),Providence,PROVIDENCE,41.786609,-71.415248
+WW709,,Lake or Pond,Polo Lake (RWP 3C),Providence,PROVIDENCE,41.786734,-71.416041
+WW710,,Reservoir ,Stillwater Reservoir Inlet,Smithfield,PROVIDENCE,41.899268,-71.546202
+WW711,,Stream or river,Wesquage Inlet - Lake Road,Narragansett,WASHINGTON,41.479962,-71.428181
+WW712,,Stream or river,Wesquage Culvert (NA-62),Narragansett,WASHINGTON,41.479317,-71.429398
+WW713,RI0007035L-08,Estuary,Sapowet Marsh - 3,Tiverton,NEWPORT,41.580800,-71.206710
+,,Estuary,Kickemuit River @ Shore Drive,Warren,BRISTOL,41.708368,-71.241700
+,,Reservoir ,Autumn Run - Stillwater Reservoir,Smithfield,PROVIDENCE,41.896285,-71.538598

@@ -9,10 +9,9 @@ Description:
 # import tkinter as tk
 # from tkinter import filedialog
 import pandas as pd
-import csv
 
 file_paths = []     # Initialize list to store selected file paths
-num_files = int(2)  # Define the number of files to be read
+# num_files = int(2)  # Define the number of files to be read
 
 file1 = r"C:\Users\Elliot\Documents\University\Internships\AV\av_waterQuality\Datasets\CSV\RIDEM_Cyanobacteria_Advisories_thru23.csv"
 file2 = r"C:\Users\Elliot\Documents\University\Internships\AV\av_waterQuality\Datasets\CSV\WW_Test_Sites.csv"
@@ -59,12 +58,12 @@ if len(file_paths) == num_files:
     # print(matches_set)
     
     '''
-    
     In the case of the RIDEM alerts and WW test sites, the following waterbodies
     have one or more overlaps:
     
-    ['Almy Pond', 'Barber Pond', 'Barney Pond', 'Blackamore Pond', 'Boone Lake', 'Brickyard Pond', 'Carbuncle Pond', 'Georgiaville Pond', 'Indian Lake', 'Larkin Pond', 'Mashapaug Pond', 'Scott Pond', 'Spectacle Pond', 'Stafford Pond', 'Tarkiln Pond', 'Tiogue Lake', 'Warwick Pond', 'Wenscott Reservoir', 'Worden Pond']
-    
+    ['Almy Pond', 'Barber Pond', 'Barney Pond', 'Blackamore Pond', 'Boone Lake', 'Brickyard Pond', 'Carbuncle Pond', 
+    'Georgiaville Pond', 'Indian Lake', 'Larkin Pond', 'Mashapaug Pond', 'Scott Pond', 'Spectacle Pond', 'Stafford Pond', 
+    'Tarkiln Pond', 'Tiogue Lake', 'Warwick Pond', 'Wenscott Reservoir', 'Worden Pond']
     '''
 
 else:
@@ -78,10 +77,11 @@ sql_selection = "NAME IN ({})".format(', '.join(["'{}'".format(i) for i in match
 # print(sql_selection)
 
 '''
-
 Output:
 
-NAME IN ('Almy Pond', 'Barber Pond', 'Barney Pond', 'Blackamore Pond', 'Boone Lake', 'Brickyard Pond', 'Carbuncle Pond', 'Georgiaville Pond', 'Indian Lake', 'Larkin Pond', 'Mashapaug Pond', 'Scott Pond', 'Spectacle Pond', 'Stafford Pond', 'Tarkiln Pond', 'Tiogue Lake', 'Warwick Pond', 'Wenscott Reservoir', 'Worden Pond')
+NAME IN ('Almy Pond', 'Barber Pond', 'Barney Pond', 'Blackamore Pond', 'Boone Lake', 'Brickyard Pond', 'Carbuncle Pond', 
+         'Georgiaville Pond', 'Indian Lake', 'Larkin Pond', 'Mashapaug Pond', 'Scott Pond', 'Spectacle Pond', 'Stafford Pond', 
+         'Tarkiln Pond', 'Tiogue Lake', 'Warwick Pond', 'Wenscott Reservoir', 'Worden Pond')
 
 MISSING FROM RIGIS PONDS AND LAKES SHAPEFILE: 'Boone Lake', 'Tarkiln Pond'
 
@@ -103,7 +103,6 @@ names_dict = dict(zip(filtered_df['WW_Station'], filtered_df['Site_DESCR']))
 # print(names_dict)
 
 '''
-
 Output:
 
 {'WW002': 'Barber Pond', 'WW005': 'Blackamore Pond', 'WW006': 'Boone Lake', 
@@ -112,7 +111,6 @@ Output:
 'WW059': 'Warwick Pond', 'WW062': 'Wenscott Reservoir', 'WW066': 'Worden Pond', 
 'WW134': 'Barney Pond', 'WW138': 'Larkin Pond', 'WW143': 'Scott Pond', 'WW145': 'Stafford Pond', 
 'WW150': 'Carbuncle Pond', 'WW199': 'Almy Pond', 'WW204': 'Tarkiln Pond'}
-
 '''
 
 dict_df = pd.DataFrame.from_dict(names_dict, orient="index")

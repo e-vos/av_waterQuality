@@ -66,9 +66,9 @@ if len(file_paths) == num_files:
     'Tarkiln Pond', 'Tiogue Lake', 'Warwick Pond', 'Wenscott Reservoir', 'Worden Pond']
     '''
 
-else:
-
-    print("An error has occurred: the number of files selected does not equal " + num_files)
+# else:
+#
+#    print("An error has occurred: the number of files selected does not equal " + num_files)
     
 # Create SQL expression from matches_set to make a selection in ArcGIS Pro
 

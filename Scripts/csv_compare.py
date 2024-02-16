@@ -114,4 +114,10 @@ Output:
 '''
 
 dict_df = pd.DataFrame.from_dict(names_dict, orient="index")
-dict_df.to_csv(r"C:\Users\Elliot\Documents\University\Internships\AV\av_waterQuality\Datasets\CSV\Filtered_Alert_WW_Stations.csv")
+# dict_df.to_csv(r"C:\Users\Elliot\Documents\University\Internships\AV\av_waterQuality\Datasets\CSV\Filtered_Alert_WW_Stations.csv")
+
+filtered_df = dict_df.rename(columns={'': 'Station_name', '0': 'Waterbody_name'})
+
+print(filtered_df)
+
+filtered_df.insert(2, "Alert_date

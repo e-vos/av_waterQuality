@@ -11,7 +11,7 @@ Description:
 import pandas as pd
 
 file_paths = []     # Initialize list to store selected file paths
-# num_files = int(2)  # Define the number of files to be read
+num_files = int(2)  # Define the number of files to be read
 
 file1 = r"C:\Users\Elliot\Documents\University\Internships\AV\av_waterQuality\Datasets\CSV\RIDEM_Cyanobacteria_Advisories_thru23.csv"
 file2 = r"C:\Users\Elliot\Documents\University\Internships\AV\av_waterQuality\Datasets\CSV\WW_Test_Sites.csv"
@@ -98,26 +98,26 @@ names_dict = {}
 
 filtered_df = df2[df2['Site_DESCR'].isin(matches_set)]
 
-names_dict = dict(zip(filtered_df['WW_Station'], filtered_df['Site_DESCR']))
+names_dict = dict(zip(filtered_df['Site_DESCR'], filtered_df['WW_Station']))
 
 # print(names_dict)
 
 '''
 Output:
 
-{'WW002': 'Barber Pond', 'WW005': 'Blackamore Pond', 'WW006': 'Boone Lake', 
-'WW007': 'Brickyard Pond', 'WW016': 'Georgiaville Pond', 'WW018': 'Indian Lake', 
-'WW025': 'Mashapaug Pond', 'WW049': 'Spectacle Pond', 'WW055': 'Tiogue Lake', 
-'WW059': 'Warwick Pond', 'WW062': 'Wenscott Reservoir', 'WW066': 'Worden Pond', 
-'WW134': 'Barney Pond', 'WW138': 'Larkin Pond', 'WW143': 'Scott Pond', 'WW145': 'Stafford Pond', 
-'WW150': 'Carbuncle Pond', 'WW199': 'Almy Pond', 'WW204': 'Tarkiln Pond'}
+{'Barber Pond': 'WW002', 'Blackamore Pond': 'WW005', 'Boone Lake': 'WW006', 'Brickyard Pond': 'WW007', 
+'Georgiaville Pond': 'WW016', 'Indian Lake': 'WW018', 'Mashapaug Pond': 'WW025', 'Spectacle Pond': 'WW049', 
+'Tiogue Lake': 'WW055', 'Warwick Pond': 'WW059', 'Wenscott Reservoir': 'WW062', 'Worden Pond': 'WW066', 
+'Barney Pond': 'WW134', 'Larkin Pond': 'WW138', 'Scott Pond': 'WW143', 'Stafford Pond': 'WW145', 
+'Carbuncle Pond': 'WW150', 'Almy Pond': 'WW199', 'Tarkiln Pond': 'WW204'}
 '''
 
-dict_df = pd.DataFrame.from_dict(names_dict, orient="index")
-# dict_df.to_csv(r"C:\Users\Elliot\Documents\University\Internships\AV\av_waterQuality\Datasets\CSV\Filtered_Alert_WW_Stations.csv")
+dict_df = pd.DataFrame(list(names_dict.items()), columns=['Station_name', 'Waterbody_name'])
 
-filtered_df = dict_df.rename(columns={'': 'Station_name', '0': 'Waterbody_name'})
+alert_df = pd.read_csv(file1)
 
-print(filtered_df)
+alert_df['Station_name'] = alert_df['Waterbody'].map(names_dict)
 
-filtered_df.insert(2, "Alert_date
+alert_df = alert_df.dropna()
+
+alert_df.to_csv(r"C:\Users\Elliot\Documents\University\Internships\AV\av_waterQuality\Datasets\CSV\Filtered_Alert_WW_Stations.csv")

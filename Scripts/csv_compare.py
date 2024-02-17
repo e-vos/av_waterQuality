@@ -120,4 +120,4 @@ alert_df['Station_name'] = alert_df['Waterbody'].map(names_dict)
 
 alert_df = alert_df.dropna()
 
-alert_df.to_csv(r"C:\Users\Elliot\Documents\University\Internships\AV\av_waterQuality\Datasets\CSV\Filtered_Alert_WW_Stations.csv")
+alert_df.to_csv(r"C:\Users\Elliot\Documents\University\Internships\AV\av_waterQuality\Datasets\CSV\Filtered_Alert_WW_Stations.csv", index=False)

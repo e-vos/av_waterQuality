@@ -116,8 +116,8 @@ dict_df = pd.DataFrame(list(names_dict.items()), columns=['Station_name', 'Water
 
 alert_df = pd.read_csv(file1)
 
-alert_df['Station_name'] = alert_df['Waterbody'].map(names_dict)
+alert_df['Station_name'] = alert_df['Waterbody'].map(names_dict)        # Populate stations column from names_dict values
 
-alert_df = alert_df.dropna()
+alert_df = alert_df.dropna()        # Remove alerts for waterbodies that aren't tested by Watershed Watch
 
 alert_df.to_csv(r"C:\Users\Elliot\Documents\University\Internships\AV\av_waterQuality\Datasets\CSV\Filtered_Alert_WW_Stations.csv", index=False)

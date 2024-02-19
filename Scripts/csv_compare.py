@@ -9,6 +9,11 @@ Description:
 # import tkinter as tk
 # from tkinter import filedialog
 import pandas as pd
+import datetime
+
+########################
+# I. Initial comparisons
+########################
 
 file_paths = []     # Initialize list to store selected file paths
 num_files = int(2)  # Define the number of files to be read
@@ -121,3 +126,17 @@ alert_df['Station_name'] = alert_df['Waterbody'].map(names_dict)        # Popula
 alert_df = alert_df.dropna()        # Remove alerts for waterbodies that aren't tested by Watershed Watch
 
 alert_df.to_csv(r"C:\Users\Elliot\Documents\University\Internships\AV\av_waterQuality\Datasets\CSV\Filtered_Alert_WW_Stations.csv", index=False)
+
+############################################
+# II. Examine alert dates with testing dates
+############################################
+
+# Note: dates in MM/DD/YYYY format in second column for all WW datasets
+#       dates in MM/DD/YYYY format in third column for filtered dataset
+
+def dateCompare(file1: str, file2: str):    # Function for later iteration
+
+    df1 = pd.read_csv(file1)
+    df2 = pd.read_csv(file2)
+    
+    

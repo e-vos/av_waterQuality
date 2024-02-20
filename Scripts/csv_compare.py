@@ -183,4 +183,8 @@ for filename in os.listdir(datasets_dir):
             sampling_date = row[1]
             
             samples_yearly[year][sampling_date] = station_id    # Access via print(samples_yearly['YYYY_filtered'])
-
+                                                                # Dictionaries are useful in this use case because
+                                                                # they do not allow duplicates. There are multiple
+                                                                # samples per Station ID per sample date, but filing
+                                                                # them in a dictionary constrains our data to only one
+                                                                # sample.

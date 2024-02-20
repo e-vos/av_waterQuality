@@ -138,11 +138,11 @@ datasets_dir = r"C:\Users\Elliot\Documents\University\Internships\AV\av_waterQua
 
 # Iterate through all files in datasets_dir
 
-for csv in os.listdir(datasets_dir):
+for filename in os.listdir(datasets_dir):
 
-    if csv.endswith(".csv"):
+    if filename.endswith(".csv"):
     
-        path = os.path.join(datasets_dir, csv)
+        path = os.path.join(datasets_dir, filename)
     
         df = pd.read_csv(path, encoding='latin1')               # Encountered encoding problem with UTF-8, using ISO-8859-1 instead
     
@@ -156,11 +156,31 @@ for csv in os.listdir(datasets_dir):
 
 # Note: dates in MM/DD/YYYY format in second column for all WW datasets
 #       dates in MM/DD/YYYY format in third column for filtered dataset
-    
-for csv in os.listdir(datasets_dir):
 
-    if "_filtered" in csv and csv.endswith(".csv"):
+df_alerts = pd.read_csv(r"C:\Users\Elliot\Documents\University\Internships\AV\av_waterQuality\Datasets\CSV\Filtered_Alert_WW_Stations.csv")
+
+samples_yearly = {}     # Primary dictionary used to house yearly nested dictionaries
+
+# Iterate again, like before
+
+for filename in os.listdir(datasets_dir):
+
+    if "_filtered" in filename and filename.endswith(".csv"):
     
-        for station in stnames:
+        path = os.path.join(datasets_dir, filename)
         
+        df_samples = pd.read_csv(path, encoding='latin1')       # "" encoding problem with UTF-8, happens with 2021 dataset
+        
+        year = filename.split('-')[1].split('.')[0]             # Grab year from filename (WW-YYYY.csv format)
+        
+        if year not in samples_yearly:                          # New nested dictionary for each year
             
+            samples_yearly[year] = {}
+            
+        for index_row in df_samples.iterrows():
+            
+            station_id = row[0]
+            sampling_date = row[1]
+            
+            samples_yearly[year][sampling_date] = station_id    # Access via print(samples_yearly['YYYY_filtered'])
+

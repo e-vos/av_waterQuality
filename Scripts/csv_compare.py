@@ -136,28 +136,31 @@ stnames = list(names_dict.values())     # Get station names (WWXXX) in list form
 
 datasets_dir = r"C:\Users\Elliot\Documents\University\Internships\AV\av_waterQuality\Datasets\CSV\WW_SamplingDatasets"
 
-# Iterate through all files in datasets_dir (didn't add check for filetype, please just run on .csv)
+# Iterate through all files in datasets_dir
 
 for csv in os.listdir(datasets_dir):
+
+    if csv.endswith(".csv"):
     
-    path = os.path.join(datasets_dir, csv)
+        path = os.path.join(datasets_dir, csv)
     
-    df = pd.read_csv(path, encoding='latin1')        # Encountered encoding problem with UTF-8, using ISO-8859-1 instead
+        df = pd.read_csv(path, encoding='latin1')               # Encountered encoding problem with UTF-8, using ISO-8859-1 instead
     
-    check_stmatches = df.iloc[:, 0].isin(stnames)    # WW varies in their column names but the index is consistent for every year
+        check_stmatches = df.iloc[:, 0].isin(stnames)           # WW varies in their column names but the index is consistent for every year
     
-    df_filtered = df[check_stmatches]
+        df_filtered = df[check_stmatches]
     
-    new_csv = os.path.splitext(csv)[0] + "_filtered.csv"    # Don't overwrite, instead make a new CSV we can search through
-    new_path = os.path.join(datasets_dir, new_csv)
-    df_filtered.to_csv(new_path, index=False)
+        new_csv = os.path.splitext(csv)[0] + "_filtered.csv"    # Don't overwrite, instead make a new CSV we can search through
+        new_path = os.path.join(datasets_dir, new_csv)
+        df_filtered.to_csv(new_path, index=False)
 
 # Note: dates in MM/DD/YYYY format in second column for all WW datasets
 #       dates in MM/DD/YYYY format in third column for filtered dataset
-
-def dateCompare(file1: str, file2: str):    # Function for later iteration
-
-    df1 = pd.read_csv(file1)
-    df2 = pd.read_csv(file2)
     
+for csv in os.listdir(datasets_dir):
+
+    if "_filtered" in csv and csv.endswith(".csv"):
     
+        for station in stnames:
+        
+            

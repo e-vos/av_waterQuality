@@ -1,0 +1,159 @@
+WW ID,Date of Sample,Time,Sample Type,Sample Media,Depth,Parameter #,Concentration,Unit,Qualifier Code,Detection Limit,Detection Limit Unit,Quantitation Level,Quantitation Level Unit,Lab Name,Analytical Method Number,Sediment Particle Size,Particle Size Unit,Fish Sample Type,Fish Taxa,Comments,Monitoring location,MONITOR 1,MONITOR 2,Watershed
+WW145,5/4/2018,10:30 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",7.0,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,5/4/2018,10:30 AM,Grab,Water,1.0,Dissolved Oxygen - 00300,8.6,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,5/4/2018,10:30 AM,Grab,Water,7.0,Dissolved Oxygen - 00300,7.1,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,5/4/2018,10:30 AM,Composite,Water,,Secchi Depth - 00069,4.55,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,5/4/2018,10:30 AM,Grab,Water,0.1,Temperature - 00011,18.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,5/4/2018,10:30 AM,Grab,Water,1.0,Temperature - 00011,18.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,5/4/2018,10:30 AM,Grab,Water,7.0,Temperature - 00011,17.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,5/28/2018,10:30 AM,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",5.3,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,,,,,Trilogy,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,5/28/2018,10:30 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",7.0,m,,0.1,m,0.1,m,,,,,,,Unable to proof. Do not have postcard,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,5/28/2018,10:30 AM,Grab,Water,1.0,Dissolved Oxygen - 00300,8.6,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,Unable to proof. Do not have postcard,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,5/28/2018,10:30 AM,Grab,Water,7.0,Dissolved Oxygen - 00300,7.2,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,Unable to proof. Do not have postcard,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,5/28/2018,10:30 AM,Composite,Water,,Secchi Depth - 00069,4.55,m,,0.1,m,0.1,m,,,,,,,Unable to proof. Do not have postcard,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,5/28/2018,10:30 AM,Grab,Water,0.1,Temperature - 00011,18.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,Unable to proof. Do not have postcard,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,5/28/2018,10:30 AM,Grab,Water,1.0,Temperature - 00011,18.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,Unable to proof. Do not have postcard,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,5/28/2018,10:30 AM,Grab,Water,7.0,Temperature - 00011,17.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,Unable to proof. Do not have postcard,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/3/2018,1:15 PM,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",8.8,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,,,,,Trilogy,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/3/2018,1:15 PM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",7.0,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/3/2018,1:15 PM,Grab,Water,1.0,Dissolved Oxygen - 00300,8.4,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/3/2018,1:15 PM,Grab,Water,6.5,Dissolved Oxygen - 00300,5.2,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/3/2018,1:15 PM,Composite,Water,,Secchi Depth - 00069,3.85,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/3/2018,1:15 PM,Grab,Water,0.1,Temperature - 00011,21.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/3/2018,1:15 PM,Grab,Water,1.0,Temperature - 00011,21.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/3/2018,1:15 PM,Grab,Water,6.5,Temperature - 00011,18.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,1.0,Alkalinity - 00410,9.3,mg/l,,0.1,mg/l,0.1,mg/l,URIWW,2320: Alkalinity in Water by Titration,,,,,,Stafford Pond,,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,1.0,Chloride - 00940,29.0,mg/l,,1.0,mg/l,1.0,mg/l,,,,,,,,Stafford Pond,,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,6.8,Chloride - 00940,29.0,mg/l,,1.0,mg/l,1.0,mg/l,,,,,,,,Stafford Pond,,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",8.4,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,,,,,Trilogy,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/9/2018,10:00 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",7.0,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,1.0,Dissolved Oxygen - 00300,8.6,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,6.8,Dissolved Oxygen - 00300,5.2,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,0.5,Enterococci - 31639,0.1,MPN/100,U,1.0,MPN/100,1.0,MPN/100,URIWW,,,,,,,Stafford Pond,,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,1.0,"Nitrate + Nitrite, Dissolved - 00631",0.035,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NO3(F): Nitrate in Water- Automated Cadmium Reduction,,,,,,Stafford Pond,,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,6.8,"Nitrate + Nitrite, Dissolved - 00631",0.06,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NO3(F): Nitrate in Water- Automated Cadmium Reduction,,,,,,Stafford Pond,,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,1.0,"Nitrogen, Ammonia Dissolved as N - 00608",0.065,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NH3(G): Ammonia in Water Using Automated Phenate Method,,,,,,Stafford Pond,,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,6.8,"Nitrogen, Ammonia Dissolved as N - 00608",0.075,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NH3(G): Ammonia in Water Using Automated Phenate Method,,,,,,Stafford Pond,,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,1.0,"Nitrogen, Total (unfiltered) - 00600",0.535,mg/l,,0.02,mg/l,0.02,mg/l,URIWW,,,,,,,Stafford Pond,,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,7.0,"Nitrogen, Total (unfiltered) - 00600",0.535,mg/l,,0.02,mg/l,0.02,mg/l,URIWW,,,,,,,Stafford Pond,,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,1.0,pH - 00400,6.8,S.U.,,1.0,S.U.,1.0,S.U.,URIWW,4500-H: pH in Water,,,,,,Stafford Pond,,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,6.8,pH - 00400,6.5,S.U.,,1.0,S.U.,1.0,S.U.,URIWW,4500-H: pH in Water,,,,,,Stafford Pond,,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,1.0,"Phosphorus, Dissolved - 00666",11.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,4500-P-F: Phosphorus in Water by Colorimetry- Automated Ascorbic Acid Method,,,,,,Stafford Pond,,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,6.8,"Phosphorus, Dissolved - 00666",9.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,4500-P-F: Phosphorus in Water by Colorimetry- Automated Ascorbic Acid Method,,,,,,Stafford Pond,,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,1.0,"Phosphorus, Total - 00665",17.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,4500-P-F: Phosphorus in Water by Colorimetry- Automated Ascorbic Acid Method,,,,,,Stafford Pond,,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,6.8,"Phosphorus, Total - 00665",17.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,4500-P-F: Phosphorus in Water by Colorimetry- Automated Ascorbic Acid Method,,,,,,Stafford Pond,,,TA
+WW145,6/9/2018,10:00 AM,Composite,Water,,Secchi Depth - 00069,3.25,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,0.1,Temperature - 00011,20.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,1.0,Temperature - 00011,20.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/9/2018,10:00 AM,Grab,Water,6.8,Temperature - 00011,18.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/24/2018,11:00 AM,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",8.2,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,,,,,Trilogy,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/24/2018,11:00 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",7.1,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/24/2018,11:00 AM,Grab,Water,1.0,Dissolved Oxygen - 00300,7.4,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/24/2018,11:00 AM,Grab,Water,7.0,Dissolved Oxygen - 00300,5.0,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/24/2018,11:00 AM,Composite,Water,,Secchi Depth - 00069,2.32,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/24/2018,11:00 AM,Grab,Water,0.1,Temperature - 00011,21.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/24/2018,11:00 AM,Grab,Water,1.0,Temperature - 00011,21.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,6/24/2018,11:00 AM,Grab,Water,7.0,Temperature - 00011,20.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/7/2018,10:30 AM,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",6.3,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,,,,,Trilogy,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/7/2018,10:30 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.8,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/7/2018,10:30 AM,Grab,Water,1.0,Dissolved Oxygen - 00300,7.0,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/7/2018,10:30 AM,Grab,Water,6.5,Dissolved Oxygen - 00300,2.0,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/7/2018,10:30 AM,Composite,Water,,Secchi Depth - 00069,2.55,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/7/2018,10:30 AM,Grab,Water,0.1,Temperature - 00011,25.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/7/2018,10:30 AM,Grab,Water,1.0,Temperature - 00011,25.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/7/2018,10:30 AM,Grab,Water,6.5,Temperature - 00011,22.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/14/2018,9:00 AM,Grab,Water,1.0,Alkalinity - 00410,9.6,mg/l,,0.1,mg/l,0.1,mg/l,URIWW,2320: Alkalinity in Water by Titration,,,,,,Stafford Pond,,,TA
+WW145,7/14/2018,9:00 AM,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",6.3,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,,,,,Trilogy,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/14/2018,9:00 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.5,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/14/2018,9:00 AM,Grab,Water,6.5,Dissolved Oxygen - 00300,0.9,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/14/2018,9:00 AM,Grab,Water,0.5,Enterococci - 31639,0.1,MPN/100,U,1.0,MPN/100,1.0,MPN/100,URIWW,,,,,,,Stafford Pond,,,TA
+WW145,7/14/2018,9:00 AM,Grab,Water,1.0,"Nitrate + Nitrite, Dissolved - 00631",0.015,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NO3(F): Nitrate in Water- Automated Cadmium Reduction,,,,,,Stafford Pond,,,TA
+WW145,7/14/2018,9:00 AM,Grab,Water,7.0,"Nitrate + Nitrite, Dissolved - 00631",0.015,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NO3(F): Nitrate in Water- Automated Cadmium Reduction,,,,,,Stafford Pond,,,TA
+WW145,7/14/2018,9:00 AM,Grab,Water,1.0,"Nitrogen, Ammonia Dissolved as N - 00608",0.09,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NH3(G): Ammonia in Water Using Automated Phenate Method,,,,,,Stafford Pond,,,TA
+WW145,7/14/2018,9:00 AM,Grab,Water,6.5,"Nitrogen, Ammonia Dissolved as N - 00608",0.25,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NH3(G): Ammonia in Water Using Automated Phenate Method,,,,,,Stafford Pond,,,TA
+WW145,7/14/2018,9:00 AM,Grab,Water,1.0,"Nitrogen, Total (unfiltered) - 00600",0.405,mg/l,,0.02,mg/l,0.02,mg/l,URIWW,,,,,,,Stafford Pond,,,TA
+WW145,7/14/2018,9:00 AM,Grab,Water,6.5,"Nitrogen, Total (unfiltered) - 00600",0.78,mg/l,,0.02,mg/l,0.02,mg/l,URIWW,,,,,,,Stafford Pond,,,TA
+WW145,7/14/2018,9:00 AM,Grab,Water,1.0,pH - 00400,6.9,S.U.,,1.0,S.U.,1.0,S.U.,URIWW,4500-H: pH in Water,,,,,,Stafford Pond,,,TA
+WW145,7/14/2018,9:00 AM,Grab,Water,7.0,pH - 00400,6.5,S.U.,,1.0,S.U.,1.0,S.U.,URIWW,4500-H: pH in Water,,,,,,Stafford Pond,,,TA
+WW145,7/14/2018,9:00 AM,Grab,Water,1.0,"Phosphorus, Dissolved - 00666",9.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,4500-P-F: Phosphorus in Water by Colorimetry- Automated Ascorbic Acid Method,,,,,,Stafford Pond,,,TA
+WW145,7/14/2018,9:00 AM,Grab,Water,7.0,"Phosphorus, Dissolved - 00666",11.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,4500-P-F: Phosphorus in Water by Colorimetry- Automated Ascorbic Acid Method,,,,,,Stafford Pond,,,TA
+WW145,7/14/2018,9:00 AM,Grab,Water,1.0,"Phosphorus, Total - 00665",21.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,4500-P-F: Phosphorus in Water by Colorimetry- Automated Ascorbic Acid Method,,,,,,Stafford Pond,,,TA
+WW145,7/14/2018,9:00 AM,Grab,Water,7.0,"Phosphorus, Total - 00665",47.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,4500-P-F: Phosphorus in Water by Colorimetry- Automated Ascorbic Acid Method,,,,,,Stafford Pond,,,TA
+WW145,7/14/2018,9:00 AM,Composite,Water,,Secchi Depth - 00069,2.55,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/14/2018,9:00 AM,Grab,Water,0.1,Temperature - 00011,24.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/14/2018,9:00 AM,Grab,Water,1.0,Temperature - 00011,24.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/14/2018,9:00 AM,Grab,Water,6.5,Temperature - 00011,22.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/27/2018,10:30 AM,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",10.8,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,,,,,Trilogy,Stafford Pond,,,TA
+WW145,7/27/2018,10:30 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.5,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/27/2018,10:30 AM,Grab,Water,1.0,Dissolved Oxygen - 00300,7.4,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/27/2018,10:30 AM,Grab,Water,6.3,Dissolved Oxygen - 00300,3.7,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/27/2018,10:30 AM,Composite,Water,,Secchi Depth - 00069,2.35,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/27/2018,10:30 AM,Grab,Water,0.1,Temperature - 00011,26.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/27/2018,10:30 AM,Grab,Water,1.0,Temperature - 00011,26.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,7/27/2018,10:30 AM,Grab,Water,6.3,Temperature - 00011,25.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,8/19/2018,11:30 AM,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",14.0,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,,,,,Trilogy,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,8/19/2018,11:30 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.8,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,8/19/2018,11:30 AM,Grab,Water,1.0,Dissolved Oxygen - 00300,6.4,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,8/19/2018,11:30 AM,Grab,Water,6.5,Dissolved Oxygen - 00300,3.4,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,8/19/2018,11:30 AM,Composite,Water,,Secchi Depth - 00069,2.0,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,8/19/2018,11:30 AM,Grab,Water,0.1,Temperature - 00011,26.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,8/19/2018,11:30 AM,Grab,Water,1.0,Temperature - 00011,26.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,8/19/2018,11:30 AM,Grab,Water,6.5,Temperature - 00011,25.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,8/26/2018,11:00 AM,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",14.8,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,,,,,Trilogy,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,8/26/2018,11:00 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.4,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,8/26/2018,11:00 AM,Grab,Water,1.0,Dissolved Oxygen - 00300,7.6,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,8/26/2018,11:00 AM,Grab,Water,6.2,Dissolved Oxygen - 00300,5.8,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,8/26/2018,11:00 AM,Composite,Water,,Secchi Depth - 00069,1.9,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,8/26/2018,11:00 AM,Grab,Water,0.1,Temperature - 00011,24.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,8/26/2018,11:00 AM,Grab,Water,1.0,Temperature - 00011,24.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,8/26/2018,11:00 AM,Grab,Water,6.2,Temperature - 00011,24.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/8/2018,2:00 PM,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",21.2,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,,,,,Trilogy,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/8/2018,2:00 PM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.5,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/8/2018,2:00 PM,Grab,Water,1.0,Dissolved Oxygen - 00300,6.4,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/8/2018,2:00 PM,Grab,Water,6.2,Dissolved Oxygen - 00300,1.0,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/8/2018,2:00 PM,Composite,Water,,Secchi Depth - 00069,1.55,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/8/2018,2:00 PM,Grab,Water,0.1,Temperature - 00011,24.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/8/2018,2:00 PM,Grab,Water,1.0,Temperature - 00011,24.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/8/2018,2:00 PM,Grab,Water,6.2,Temperature - 00011,24.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/15/2018,9:00 AM,Grab,Water,1.0,Alkalinity - 00410,13.5,mg/l,,0.1,mg/l,0.1,mg/l,URIWW,2320: Alkalinity in Water by Titration,,,,,,Stafford Pond,,,TA
+WW145,9/15/2018,9:00 AM,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",26.7,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,,,,,Trilogy,Stafford Pond,,,TA
+WW145,9/15/2018,9:00 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.6,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/15/2018,9:00 AM,Grab,Water,1.0,Dissolved Oxygen - 00300,7.2,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/15/2018,9:00 AM,Grab,Water,6.3,Dissolved Oxygen - 00300,6.5,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/15/2018,9:00 AM,Grab,Water,1.0,"Nitrate + Nitrite, Dissolved - 00631",0.045,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NO3(F): Nitrate in Water- Automated Cadmium Reduction,,,,,,Stafford Pond,,,TA
+WW145,9/15/2018,9:00 AM,Grab,Water,6.5,"Nitrate + Nitrite, Dissolved - 00631",0.05,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NO3(F): Nitrate in Water- Automated Cadmium Reduction,,,,,,Stafford Pond,,,TA
+WW145,9/15/2018,9:00 AM,Grab,Water,1.0,"Nitrogen, Ammonia Dissolved as N - 00608",0.175,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NH3(G): Ammonia in Water Using Automated Phenate Method,,,,,,Stafford Pond,,,TA
+WW145,9/15/2018,9:00 AM,Grab,Water,6.5,"Nitrogen, Ammonia Dissolved as N - 00608",0.205,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NH3(G): Ammonia in Water Using Automated Phenate Method,,,,,,Stafford Pond,,,TA
+WW145,9/15/2018,9:00 AM,Grab,Water,1.0,"Nitrogen, Total (unfiltered) - 00600",0.56,mg/l,,0.02,mg/l,0.02,mg/l,URIWW,,,,,,,Stafford Pond,,,TA
+WW145,9/15/2018,9:00 AM,Grab,Water,6.5,"Nitrogen, Total (unfiltered) - 00600",0.755,mg/l,,0.02,mg/l,0.02,mg/l,URIWW,,,,,,,Stafford Pond,,,TA
+WW145,9/15/2018,9:00 AM,Grab,Water,1.0,pH - 00400,7.3,S.U.,,1.0,S.U.,1.0,S.U.,URIWW,4500-H: pH in Water,,,,,,Stafford Pond,,,TA
+WW145,9/15/2018,9:00 AM,Grab,Water,7.0,pH - 00400,6.9,S.U.,,1.0,S.U.,1.0,S.U.,URIWW,4500-H: pH in Water,,,,,,Stafford Pond,,,TA
+WW145,9/15/2018,9:00 AM,Grab,Water,1.0,"Phosphorus, Dissolved - 00666",6.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,4500-P-F: Phosphorus in Water by Colorimetry- Automated Ascorbic Acid Method,,,,,,Stafford Pond,,,TA
+WW145,9/15/2018,9:00 AM,Grab,Water,6.5,"Phosphorus, Dissolved - 00666",4.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,4500-P-F: Phosphorus in Water by Colorimetry- Automated Ascorbic Acid Method,,,,,,Stafford Pond,,,TA
+WW145,9/15/2018,9:00 AM,Grab,Water,1.0,"Phosphorus, Total - 00665",26.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,4500-P-F: Phosphorus in Water by Colorimetry- Automated Ascorbic Acid Method,,,,,,Stafford Pond,,,TA
+WW145,9/15/2018,9:00 AM,Grab,Water,6.5,"Phosphorus, Total - 00665",32.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,4500-P-F: Phosphorus in Water by Colorimetry- Automated Ascorbic Acid Method,,,,,,Stafford Pond,,,TA
+WW145,9/15/2018,9:00 AM,Composite,Water,,Secchi Depth - 00069,2.25,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/15/2018,9:00 AM,Grab,Water,0.1,Temperature - 00011,22.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/15/2018,9:00 AM,Grab,Water,1.0,Temperature - 00011,22.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/15/2018,9:00 AM,Grab,Water,6.3,Temperature - 00011,21.5,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/23/2018,10:30 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.5,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/23/2018,10:30 AM,Composite,Water,,Secchi Depth - 00069,2.05,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/23/2018,10:30 AM,Grab,Water,0.1,Temperature - 00011,20.5,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/23/2018,10:30 AM,Grab,Water,1.0,Temperature - 00011,20.5,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/23/2018,10:30 AM,Grab,Water,6.3,Temperature - 00011,20.5,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/30/2018,2:00 PM,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",30.1,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,,,,,Trilogy,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/30/2018,2:00 PM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",7.0,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/30/2018,2:00 PM,Grab,Water,1.0,Dissolved Oxygen - 00300,9.2,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/30/2018,2:00 PM,Grab,Water,6.8,Dissolved Oxygen - 00300,8.2,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/30/2018,2:00 PM,Composite,Water,,Secchi Depth - 00069,1.65,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/30/2018,2:00 PM,Grab,Water,0.1,Temperature - 00011,19.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/30/2018,2:00 PM,Grab,Water,1.0,Temperature - 00011,19.5,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,9/30/2018,2:00 PM,Grab,Water,6.8,Temperature - 00011,19.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,10/14/2018,12:00 PM,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",2.3,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,,,,,Trilogy,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,10/14/2018,12:00 PM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.9,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,10/14/2018,12:00 PM,Grab,Water,1.0,Dissolved Oxygen - 00300,7.2,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,10/14/2018,12:00 PM,Grab,Water,6.7,Dissolved Oxygen - 00300,7.0,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,10/14/2018,12:00 PM,Composite,Water,,Secchi Depth - 00069,4.3,m,,0.1,m,0.1,m,,,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,10/14/2018,12:00 PM,Grab,Water,0.1,Temperature - 00011,17.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,10/14/2018,12:00 PM,Grab,Water,1.0,Temperature - 00011,17.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA
+WW145,10/14/2018,12:00 PM,Grab,Water,6.7,Temperature - 00011,17.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,,,,,Stafford Pond,ED ADAMOWSKI,,TA

@@ -1,0 +1,153 @@
+Station Name,Date,Time,Sample Type,Sample Media,Depth,Parameter,Concentration,Unit,Qualifier Code,Detection Limit,Detection Limit Unit,Quantitation Level,Quantitation Level Unit,Lab Name,Analytical Method Number,Comments,Location
+WW145,6/1/2015,10:00:00 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.5,m,,0.1,m,0.1,m,,,Normal,Stafford Pond
+WW145,6/1/2015,10:00:00 AM,Grab,Water,1.0,Dissolved Oxygen - 00300,8.2,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,Stafford Pond
+WW145,6/1/2015,10:00:00 AM,Grab,Water,6.0,Dissolved Oxygen - 00300,6.3,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,Stafford Pond
+WW145,6/1/2015,10:00:00 AM,Composite,Water,,Secchi Depth - 00069,3.43,m,,0.1,m,0.1,m,,,,Stafford Pond
+WW145,6/1/2015,10:00:00 AM,Grab,Water,0.1,Temperature - 00011,19.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,6/1/2015,10:00:00 AM,Grab,Water,1.0,Temperature - 00011,19.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,6/1/2015,10:00:00 AM,Grab,Water,6.0,Temperature - 00011,18.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,6/6/2015,,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",4.5,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,Trilogy,Stafford Pond
+WW145,6/13/2015,9:30:00 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.5,m,,0.1,m,0.1,m,,,Normal,Stafford Pond
+WW145,6/13/2015,9:30:00 AM,Composite,Water,,Secchi Depth - 00069,3.75,m,,0.1,m,0.1,m,,,,Stafford Pond
+WW145,6/13/2015,9:30:00 AM,Grab,Water,0.1,Temperature - 00011,23.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,6/13/2015,9:30:00 AM,Grab,Water,1.0,Temperature - 00011,23.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,6/13/2015,9:30:00 AM,Grab,Water,6.0,Temperature - 00011,20.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,6/20/2015,,Grab,Water,1.0,Alkalinity - 00410,8.9,mg/l,,0.1,mg/l,0.1,mg/l,URIWW,2320: Alkalinity in Water by Titration,,Stafford Pond
+WW145,6/20/2015,,Grab,Water ,1.0,Chloride - 00940,29.0,mg/l,,1.0,mg/l,1.0,mg/l,URIWW,4500-CL-(E): Chloride in Water by Colorimetry- Automated Ferricyanide Method,,Stafford Pond
+WW145,6/20/2015,,Grab,Water ,6.0,Chloride - 00940,26.0,mg/l,,1.0,mg/l,1.0,mg/l,URIWW,4500-CL-(E): Chloride in Water by Colorimetry- Automated Ferricyanide Method,,Stafford Pond
+WW145,6/20/2015,,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",6.0,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,Trilogy,Stafford Pond
+WW145,6/20/2015,9:30:00 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.2,m,,0.1,m,0.1,m,,,Normal,Stafford Pond
+WW145,6/20/2015,9:30:00 AM,Grab,Water,1.0,Dissolved Oxygen - 00300,7.8,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,Stafford Pond
+WW145,6/20/2015,9:30:00 AM,Grab,Water,6.0,Dissolved Oxygen - 00300,5.05,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,Stafford Pond
+WW145,6/20/2015,,Grab,Water ,0.5,Enterococci - 31639,0.1,MPN/100ml,U,1.0,MPN/100ml,1.0,MPN/100ml,URIWW,,,Stafford Pond
+WW145,6/20/2015,,Grab,Water,1.0,"Nitrate + Nitrite, Dissolved - 00631",0.015,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NO3(F): Nitrate in Water- Automated Cadmium Reduction,,Stafford Pond
+WW145,6/20/2015,,Grab,Water,6.0,"Nitrate + Nitrite, Dissolved - 00631",0.0075,mg/l,U,0.015,mg/l,0.015,mg/l,URIWW,4500-NO3(F): Nitrate in Water- Automated Cadmium Reduction,,Stafford Pond
+WW145,6/20/2015,,Grab,Water,1.0,"Nitrogen, Ammonia Dissolved as N - 00608",0.008,mg/l,U,0.015,mg/l,0.015,mg/l,URIWW,4500-NH3(G): Ammonia in Water Using Automated Phenate Method,,Stafford Pond
+WW145,6/20/2015,,Grab,Water,6.0,"Nitrogen, Ammonia Dissolved as N - 00608",0.008,mg/l,U,0.015,mg/l,0.015,mg/l,URIWW,4500-NH3(G): Ammonia in Water Using Automated Phenate Method,,Stafford Pond
+WW145,6/20/2015,,Grab,Water,1.0,"Nitrogen, Total (unfiltered) - 00600",0.385,mg/l,,0.02,mg/l,0.02,mg/l,URIWW,,,Stafford Pond
+WW145,6/20/2015,,Grab,Water,6.0,"Nitrogen, Total (unfiltered) - 00600",0.37,mg/l,,0.02,mg/l,0.02,mg/l,URIWW,,,Stafford Pond
+WW145,6/20/2015,,Grab,Water,1.0,pH - 00400,6.9,S.U.,,1.0,S.U.,1.0,S.U.,URIWW,4500-H: pH in Water,,Stafford Pond
+WW145,6/20/2015,,Grab,Water,6.0,pH - 00400,6.9,S.U.,,1.0,S.U.,1.0,S.U.,URIWW,4500-H: pH in Water,,Stafford Pond
+WW145,6/20/2015,,Grab,Water ,1.0,"Phosphorus, Dissolved - 00666",7.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,4500-P-F: Phosphorus in Water by Colorimetry- Automated Ascorbic Acid Method,,Stafford Pond
+WW145,6/20/2015,,Grab,Water ,6.0,"Phosphorus, Dissolved - 00666",5.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,4500-P-F: Phosphorus in Water by Colorimetry- Automated Ascorbic Acid Method,,Stafford Pond
+WW145,6/20/2015,,Grab,Water,1.0,"Phosphorus, Total - 00665",16.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,,,Stafford Pond
+WW145,6/20/2015,,Grab,Water,6.0,"Phosphorus, Total - 00665",19.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,,,Stafford Pond
+WW145,6/20/2015,9:30:00 AM,Composite,Water,,Secchi Depth - 00069,3.4,m,,0.1,m,0.1,m,,,,Stafford Pond
+WW145,6/20/2015,9:30:00 AM,Grab,Water,0.1,Temperature - 00011,23.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,6/20/2015,9:30:00 AM,Grab,Water,1.0,Temperature - 00011,22.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,6/20/2015,9:30:00 AM,Grab,Water,6.0,Temperature - 00011,21.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,7/5/2015,,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",13.7,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,Trilogy,Stafford Pond
+WW145,7/5/2015,11:30:00 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",7.2,m,,0.1,m,0.1,m,,,Normal,Stafford Pond
+WW145,7/5/2015,11:30:00 AM,Grab,Water,1.0,Dissolved Oxygen - 00300,6.8,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,Stafford Pond
+WW145,7/5/2015,11:30:00 AM,Grab,Water,7.0,Dissolved Oxygen - 00300,4.1,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,Stafford Pond
+WW145,7/5/2015,11:30:00 AM,Composite,Water,,Secchi Depth - 00069,2.7,m,,0.1,m,0.1,m,,,,Stafford Pond
+WW145,7/5/2015,11:30:00 AM,Grab,Water,0.1,Temperature - 00011,24.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,7/5/2015,11:30:00 AM,Grab,Water,1.0,Temperature - 00011,24.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,7/5/2015,11:30:00 AM,Grab,Water,7.0,Temperature - 00011,23.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,7/12/2015,9:30:00 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.5,m,,0.1,m,0.1,m,,,Normal,Stafford Pond
+WW145,7/12/2015,9:30:00 AM,Composite,Water,,Secchi Depth - 00069,3.4,m,,0.1,m,0.1,m,,,,Stafford Pond
+WW145,7/12/2015,9:30:00 AM,Grab,Water,0.1,Temperature - 00011,26.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,7/12/2015,9:30:00 AM,Grab,Water,1.0,Temperature - 00011,26.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,7/12/2015,9:30:00 AM,Grab,Water,6.0,Temperature - 00011,24.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,7/18/2015,,Grab,Water,1.0,Alkalinity - 00410,9.3,mg/l,,0.1,mg/l,0.1,mg/l,URIWW,2320: Alkalinity in Water by Titration,,Stafford Pond
+WW145,7/18/2015,,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",11.5,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,Trilogy,Stafford Pond
+WW145,7/18/2015,10:00:00 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.5,m,,0.1,m,0.1,m,,,Normal,Stafford Pond
+WW145,7/18/2015,10:00:00 AM,Grab,Water,1.0,Dissolved Oxygen - 00300,6.2,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,Stafford Pond
+WW145,7/18/2015,10:00:00 AM,Grab,Water,6.0,Dissolved Oxygen - 00300,1.2,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,Stafford Pond
+WW145,7/18/2015,,Grab,Water ,0.5,Enterococci - 31639,5.3,MPN/100ml,,1.0,MPN/100ml,1.0,MPN/100ml,URIWW,,,Stafford Pond
+WW145,7/18/2015,,Grab,Water,1.0,"Nitrate + Nitrite, Dissolved - 00631",0.03,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NO3(F): Nitrate in Water- Automated Cadmium Reduction,,Stafford Pond
+WW145,7/18/2015,,Grab,Water,6.0,"Nitrate + Nitrite, Dissolved - 00631",0.025,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NO3(F): Nitrate in Water- Automated Cadmium Reduction,,Stafford Pond
+WW145,7/18/2015,,Grab,Water,1.0,"Nitrogen, Ammonia Dissolved as N - 00608",0.08,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NH3(G): Ammonia in Water Using Automated Phenate Method,,Stafford Pond
+WW145,7/18/2015,,Grab,Water,6.0,"Nitrogen, Ammonia Dissolved as N - 00608",0.225,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NH3(G): Ammonia in Water Using Automated Phenate Method,,Stafford Pond
+WW145,7/18/2015,,Grab,Water,1.0,"Nitrogen, Total (unfiltered) - 00600",0.42,mg/l,,0.02,mg/l,0.02,mg/l,URIWW,,,Stafford Pond
+WW145,7/18/2015,,Grab,Water,6.0,"Nitrogen, Total (unfiltered) - 00600",0.525,mg/l,,0.02,mg/l,0.02,mg/l,URIWW,,,Stafford Pond
+WW145,7/18/2015,,Grab,Water,1.0,pH - 00400,7.6,S.U.,,1.0,S.U.,1.0,S.U.,URIWW,4500-H: pH in Water,,Stafford Pond
+WW145,7/18/2015,,Grab,Water,6.0,pH - 00400,6.3,S.U.,,1.0,S.U.,1.0,S.U.,URIWW,4500-H: pH in Water,,Stafford Pond
+WW145,7/18/2015,,Grab,Water ,1.0,"Phosphorus, Dissolved - 00666",4.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,4500-P-F: Phosphorus in Water by Colorimetry- Automated Ascorbic Acid Method,,Stafford Pond
+WW145,7/18/2015,,Grab,Water ,6.0,"Phosphorus, Dissolved - 00666",6.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,4500-P-F: Phosphorus in Water by Colorimetry- Automated Ascorbic Acid Method,,Stafford Pond
+WW145,7/18/2015,,Grab,Water,1.0,"Phosphorus, Total - 00665",16.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,,,Stafford Pond
+WW145,7/18/2015,,Grab,Water,6.0,"Phosphorus, Total - 00665",19.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,,,Stafford Pond
+WW145,7/18/2015,10:00:00 AM,Composite,Water,,Secchi Depth - 00069,4.45,m,,0.1,m,0.1,m,,,,Stafford Pond
+WW145,7/18/2015,10:00:00 AM,Grab,Water,0.1,Temperature - 00011,25.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,7/18/2015,10:00:00 AM,Grab,Water,1.0,Temperature - 00011,25.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,7/18/2015,10:00:00 AM,Grab,Water,6.0,Temperature - 00011,24.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,7/26/2015,11:00:00 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.5,m,,0.1,m,0.1,m,,,Normal,Stafford Pond
+WW145,7/26/2015,11:00:00 AM,Grab,Water,6.0,Dissolved Oxygen - 00300,0.8,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,Stafford Pond
+WW145,7/26/2015,11:00:00 AM,Composite,Water,,Secchi Depth - 00069,4.43,m,,0.1,m,0.1,m,,,,Stafford Pond
+WW145,7/26/2015,11:00:00 AM,Grab,Water,0.1,Temperature - 00011,26.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,7/26/2015,11:00:00 AM,Grab,Water,1.0,Temperature - 00011,26.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,7/26/2015,11:00:00 AM,Grab,Water,6.0,Temperature - 00011,25.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,8/1/2015,,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",8.8,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,Trilogy,Stafford Pond
+WW145,8/1/2015,10:30:00 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.5,m,,0.1,m,0.1,m,,,Normal,Stafford Pond
+WW145,8/1/2015,10:30:00 AM,Grab,Water,1.0,Dissolved Oxygen - 00300,6.6,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,Stafford Pond
+WW145,8/1/2015,10:30:00 AM,Grab,Water,6.0,Dissolved Oxygen - 00300,2.15,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,Stafford Pond
+WW145,8/1/2015,10:30:00 AM,Composite,Water,,Secchi Depth - 00069,4.28,m,,0.1,m,0.1,m,,,,Stafford Pond
+WW145,8/1/2015,10:30:00 AM,Grab,Water,0.1,Temperature - 00011,27.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,8/1/2015,10:30:00 AM,Grab,Water,1.0,Temperature - 00011,27.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,8/1/2015,10:30:00 AM,Grab,Water,6.0,Temperature - 00011,26.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,8/16/2015,,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",12.5,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,Trilogy,Stafford Pond
+WW145,8/16/2015,11:00:00 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.8,m,,0.1,m,0.1,m,,,Normal; heavy rain on Tuesday,Stafford Pond
+WW145,8/16/2015,11:00:00 AM,Grab,Water,1.0,Dissolved Oxygen - 00300,7.4,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,Stafford Pond
+WW145,8/16/2015,11:00:00 AM,Grab,Water,6.0,Dissolved Oxygen - 00300,4.55,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,Stafford Pond
+WW145,8/16/2015,11:00:00 AM,Composite,Water,,Secchi Depth - 00069,3.6,m,,0.1,m,0.1,m,,,,Stafford Pond
+WW145,8/16/2015,11:00:00 AM,Grab,Water,0.1,Temperature - 00011,27.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,8/16/2015,11:00:00 AM,Grab,Water,1.0,Temperature - 00011,27.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,8/16/2015,11:00:00 AM,Grab,Water,6.0,Temperature - 00011,25.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,9/5/2015,,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",17.6,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,Trilogy,Stafford Pond
+WW145,9/5/2015,11:30:00 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.5,m,,0.1,m,0.1,m,,,Normal,Stafford Pond
+WW145,9/5/2015,11:30:00 AM,Grab,Water,1.0,Dissolved Oxygen - 00300,5.0,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,Stafford Pond
+WW145,9/5/2015,11:30:00 AM,Grab,Water,6.0,Dissolved Oxygen - 00300,2.5,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,Stafford Pond
+WW145,9/5/2015,11:30:00 AM,Composite,Water,,Secchi Depth - 00069,2.6,m,,0.1,m,0.1,m,,,,Stafford Pond
+WW145,9/5/2015,11:30:00 AM,Grab,Water,0.1,Temperature - 00011,26.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,9/5/2015,11:30:00 AM,Grab,Water,1.0,Temperature - 00011,26.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,9/5/2015,11:30:00 AM,Grab,Water,6.0,Temperature - 00011,25.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,9/13/2015,10:00:00 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.5,m,,0.1,m,0.1,m,,,Higher than Normal,Stafford Pond
+WW145,9/13/2015,10:00:00 AM,Composite,Water,,Secchi Depth - 00069,2.6,m,,0.1,m,0.1,m,,,,Stafford Pond
+WW145,9/13/2015,10:00:00 AM,Grab,Water,0.1,Temperature - 00011,25.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,9/13/2015,10:00:00 AM,Grab,Water,1.0,Temperature - 00011,24.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,9/13/2015,10:00:00 AM,Grab,Water,6.0,Temperature - 00011,24.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,9/19/2015,,Grab,Water,1.0,Alkalinity - 00410,11.3,mg/l,,0.1,mg/l,0.1,mg/l,URIWW,2320: Alkalinity in Water by Titration,,Stafford Pond
+WW145,9/19/2015,,Grab,Water,1.0,"Chlorophyll a, water, fluorometric method, corrected for pheophytin - 32209",22.5,ug/l,,0.1,ug/l,0.1,ug/l,URIWW,445: In-Vitro Determination of Chlorophyll,Trilogy,Stafford Pond
+WW145,9/19/2015,10:30:00 AM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.8,m,,0.1,m,0.1,m,,,Higher than Normal,Stafford Pond
+WW145,9/19/2015,10:30:00 AM,Grab,Water,1.0,Dissolved Oxygen - 00300,5.4,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,Stafford Pond
+WW145,9/19/2015,10:30:00 AM,Grab,Water,6.0,Dissolved Oxygen - 00300,3.8,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,Stafford Pond
+WW145,9/19/2015,,Grab,Water ,0.5,Enterococci - 31639,0.1,MPN/100ml,U,1.0,MPN/100ml,1.0,MPN/100ml,URIWW,,,Stafford Pond
+WW145,9/19/2015,,Grab,Water,1.0,"Nitrate + Nitrite, Dissolved - 00631",0.02,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NO3(F): Nitrate in Water- Automated Cadmium Reduction,,Stafford Pond
+WW145,9/19/2015,,Grab,Water,6.0,"Nitrate + Nitrite, Dissolved - 00631",0.02,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NO3(F): Nitrate in Water- Automated Cadmium Reduction,,Stafford Pond
+WW145,9/19/2015,,Grab,Water,1.0,"Nitrogen, Ammonia Dissolved as N - 00608",0.025,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NH3(G): Ammonia in Water Using Automated Phenate Method,,Stafford Pond
+WW145,9/19/2015,,Grab,Water,6.0,"Nitrogen, Ammonia Dissolved as N - 00608",0.06,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NH3(G): Ammonia in Water Using Automated Phenate Method,,Stafford Pond
+WW145,9/19/2015,,Grab,Water,1.0,"Nitrogen, Total (unfiltered) - 00600",0.525,mg/l,,0.02,mg/l,0.02,mg/l,URIWW,,,Stafford Pond
+WW145,9/19/2015,,Grab,Water,6.0,"Nitrogen, Total (unfiltered) - 00600",0.695,mg/l,,0.02,mg/l,0.02,mg/l,URIWW,,,Stafford Pond
+WW145,9/19/2015,,Grab,Water,1.0,pH - 00400,7.6,S.U.,,1.0,S.U.,1.0,S.U.,URIWW,4500-H: pH in Water,,Stafford Pond
+WW145,9/19/2015,,Grab,Water,6.0,pH - 00400,7.1,S.U.,,1.0,S.U.,1.0,S.U.,URIWW,4500-H: pH in Water,,Stafford Pond
+WW145,9/19/2015,,Grab,Water ,1.0,"Phosphorus, Dissolved - 00666",5.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,4500-P-F: Phosphorus in Water by Colorimetry- Automated Ascorbic Acid Method,,Stafford Pond
+WW145,9/19/2015,,Grab,Water ,6.0,"Phosphorus, Dissolved - 00666",6.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,4500-P-F: Phosphorus in Water by Colorimetry- Automated Ascorbic Acid Method,,Stafford Pond
+WW145,9/19/2015,,Grab,Water,1.0,"Phosphorus, Total - 00665",26.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,,,Stafford Pond
+WW145,9/19/2015,,Grab,Water,6.0,"Phosphorus, Total - 00665",33.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,,,Stafford Pond
+WW145,9/19/2015,10:30:00 AM,Composite,Water,,Secchi Depth - 00069,2.4,m,,0.1,m,0.1,m,,,,Stafford Pond
+WW145,9/19/2015,10:30:00 AM,Grab,Water,0.1,Temperature - 00011,25.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,9/19/2015,10:30:00 AM,Grab,Water,1.0,Temperature - 00011,24.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,9/19/2015,10:30:00 AM,Grab,Water,6.0,Temperature - 00011,24.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,10/12/2015,9:00:00 PM,Composite,Water,,"Depth to bottom from water surface at sampling location, meters - 82903",6.8,m,,0.1,m,0.1,m,,,Higher than Normal,Stafford Pond
+WW145,10/12/2015,9:00:00 PM,Grab,Water,1.0,Dissolved Oxygen - 00300,8.2,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,Stafford Pond
+WW145,10/12/2015,9:00:00 PM,Grab,Water,6.0,Dissolved Oxygen - 00300,8.0,mg/l,,0.0,mg/l,0.0,mg/l,URIWW,4500-O-C: Total Dissolved Oxygen by Titration- Azide Modification,,Stafford Pond
+WW145,10/12/2015,9:00:00 PM,Composite,Water,,Secchi Depth - 00069,2.35,m,,0.1,m,0.1,m,,,,Stafford Pond
+WW145,10/12/2015,9:00:00 PM,Grab,Water,0.1,Temperature - 00011,16.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,10/12/2015,9:00:00 PM,Grab,Water,1.0,Temperature - 00011,16.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,10/12/2015,9:00:00 PM,Grab,Water,6.0,Temperature - 00011,16.0,C,,-35.0,C,-35.0,C,URIWW,2550: Temperature of Water by Thermometer,,Stafford Pond
+WW145,10/17/2015,,Grab,Water,1.0,Alkalinity - 00410,10.6,mg/l,,0.1,mg/l,0.1,mg/l,URIWW,2320: Alkalinity in Water by Titration,,Stafford Pond
+WW145,10/17/2015,,Grab,Water ,1.0,Chloride - 00940,30.0,mg/l,,1.0,mg/l,1.0,mg/l,URIWW,4500-CL-(E): Chloride in Water by Colorimetry- Automated Ferricyanide Method,,Stafford Pond
+WW145,10/17/2015,,Grab,Water ,6.0,Chloride - 00940,31.0,mg/l,,1.0,mg/l,1.0,mg/l,URIWW,4500-CL-(E): Chloride in Water by Colorimetry- Automated Ferricyanide Method,,Stafford Pond
+WW145,10/17/2015,,Grab,Water,0.5,Enterococci - 31639,3.1,MPN/100ml,,1.0,MPN/100ml,1.0,MPN/100ml,URIWW,,,Stafford Pond
+WW145,10/17/2015,,Grab,Water,1.0,"Nitrate + Nitrite, Dissolved - 00631",0.045,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NO3(F): Nitrate in Water- Automated Cadmium Reduction,,Stafford Pond
+WW145,10/17/2015,,Grab,Water,6.0,"Nitrate + Nitrite, Dissolved - 00631",0.045,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NO3(F): Nitrate in Water- Automated Cadmium Reduction,,Stafford Pond
+WW145,10/17/2015,,Grab,Water,1.0,"Nitrogen, Ammonia Dissolved as N - 00608",0.008,mg/l,U,0.015,mg/l,0.015,mg/l,URIWW,4500-NH3(G): Ammonia in Water Using Automated Phenate Method,,Stafford Pond
+WW145,10/17/2015,,Grab,Water,6.0,"Nitrogen, Ammonia Dissolved as N - 00608",0.02,mg/l,,0.015,mg/l,0.015,mg/l,URIWW,4500-NH3(G): Ammonia in Water Using Automated Phenate Method,,Stafford Pond
+WW145,10/17/2015,,Grab,Water,1.0,"Nitrogen, Total (unfiltered) - 00600",0.51,mg/l,,0.02,mg/l,0.02,mg/l,URIWW,,,Stafford Pond
+WW145,10/17/2015,,Grab,Water,6.0,"Nitrogen, Total (unfiltered) - 00600",0.66,mg/l,,0.02,mg/l,0.02,mg/l,URIWW,,,Stafford Pond
+WW145,10/17/2015,,Grab,Water,1.0,pH - 00400,5.7,S.U.,,1.0,S.U.,1.0,S.U.,URIWW,4500-H: pH in Water,,Stafford Pond
+WW145,10/17/2015,,Grab,Water,6.0,pH - 00400,6.5,S.U.,,1.0,S.U.,1.0,S.U.,URIWW,4500-H: pH in Water,,Stafford Pond
+WW145,10/17/2015,,Grab,Water ,1.0,"Phosphorus, Dissolved - 00666",5.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,4500-P-F: Phosphorus in Water by Colorimetry- Automated Ascorbic Acid Method,,Stafford Pond
+WW145,10/17/2015,,Grab,Water ,6.0,"Phosphorus, Dissolved - 00666",6.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,4500-P-F: Phosphorus in Water by Colorimetry- Automated Ascorbic Acid Method,,Stafford Pond
+WW145,10/17/2015,,Grab,Water,1.0,"Phosphorus, Total - 00665",31.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,,,Stafford Pond
+WW145,10/17/2015,,Grab,Water,6.0,"Phosphorus, Total - 00665",37.0,ug/l,,4.0,ug/l,4.0,ug/l,URIWW,,,Stafford Pond

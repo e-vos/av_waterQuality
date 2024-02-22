@@ -150,7 +150,7 @@ for filename in os.listdir(datasets_dir):
     
         df_filtered = df[check_stmatches]
     
-        new_csv = os.path.splitext(csv)[0] + "_filtered.csv"    # Don't overwrite, instead make a new CSV we can search through
+        new_csv = os.path.splitext(filename)[0] + "_filtered.csv"    # Don't overwrite, instead make a new CSV we can search through
         new_path = os.path.join(datasets_dir, new_csv)
         df_filtered.to_csv(new_path, index=False)
 
@@ -214,11 +214,11 @@ Output:
 
 matches_yearly = {}
 
-for year, year_dict in samples_yearly.items():
+for date, year_dict in samples_yearly.items():
     
     matches = {key: value for key, value in alerts_dict.items() if key in year_dict and alerts_dict[key] == year_dict[key]}
     
-    matches_yearly[year] = matches
+    matches_yearly[date] = matches
 
 # for key, inner_dict in matches_yearly.items():
 #   
@@ -239,3 +239,40 @@ Output:
 2020_filtered, {}
 2021_filtered, {}
 '''
+
+matches_keys = []
+matches_values = []
+
+for i in samples_yearly:                            # Iterate through all nested dictionaries (i.e. 2011_filtered...)
+
+    KeysList = list(samples_yearly[i].keys())       # Store keys (dates) of samples that match alert dates
+    ValuesList = list(samples_yearly[i].values())   # Store values (station IDs) of waterbodies that have had alerts and have been sampled
+    
+    for j in KeysList:
+    
+        if j in alerts_dict.keys():
+        
+            matches_keys.append(j)
+            
+    for v in ValuesList:
+    
+        if v in alerts_dict.keys():
+        
+            matches_values.append(v)
+
+'''
+Output:
+
+print(matches_keys)
+['9/14/2012', '8/9/2019', '8/16/2019', '10/19/2020', '8/21/2020', '9/4/2020']
+
+print(set(matches_values))
+{'WW025', 'WW049', 'WW055', 'WW145', 'WW143', 'WW007', 'WW059', 'WW066', 'WW016', 'WW018', 'WW150', 'WW005', 'WW006', 'WW199'}
+
+Takeaway:
+
+For exact matches of dates across all years, regardless of station ID, 6 sample dates were taken at some waterbody.
+
+For all station IDs across all years, regardless of date, 14 unique waterbodies were sampled that had an alert at some point in time.
+'''
+

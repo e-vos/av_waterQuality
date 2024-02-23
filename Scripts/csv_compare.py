@@ -212,13 +212,13 @@ Output:
 '7/30/2013': 'WW025', '9/14/2012': 'WW143', '9/5/2012': 'WW002', '8/28/2012': 'WW199', '8/15/2012': 'WW025', '9/23/2011': 'WW049'}
 '''
 
-matches_yearly = {}
+# matches_yearly = {}
 
-for date, year_dict in samples_yearly.items():
+# for date, year_dict in samples_yearly.items():
     
-    matches = {key: value for key, value in alerts_dict.items() if key in year_dict and alerts_dict[key] == year_dict[key]}
+    # matches = {key: value for key, value in alerts_dict.items() if key in year_dict and alerts_dict[key] == year_dict[key]}
     
-    matches_yearly[date] = matches
+    # matches_yearly[date] = matches
 
 # for key, inner_dict in matches_yearly.items():
 #   
@@ -240,25 +240,25 @@ Output:
 2021_filtered, {}
 '''
 
-matches_keys = []
-matches_values = []
+# matches_keys = []
+# matches_values = []
 
-for i in samples_yearly:                            # Iterate through all nested dictionaries (i.e. 2011_filtered...)
+# for i in samples_yearly:                            # Iterate through all nested dictionaries (i.e. 2011_filtered...)
 
-    KeysList = list(samples_yearly[i].keys())       # Store keys (dates) of samples that match alert dates
-    ValuesList = list(samples_yearly[i].values())   # Store values (station IDs) of waterbodies that have had alerts and have been sampled
+    # KeysList = list(samples_yearly[i].keys())       # Store keys (dates) of samples that match alert dates
+    # ValuesList = list(samples_yearly[i].values())   # Store values (station IDs) of waterbodies that have had alerts and have been sampled
     
-    for j in KeysList:
+    # for j in KeysList:
     
-        if j in alerts_dict.keys():
+        # if j in alerts_dict.keys():
         
-            matches_keys.append(j)
+            # matches_keys.append(j)
             
-    for v in ValuesList:
+    # for v in ValuesList:
     
-        if v in alerts_dict.keys():
+        # if v in alerts_dict.keys():
         
-            matches_values.append(v)
+            # matches_values.append(v)
 
 '''
 Output:
@@ -276,3 +276,28 @@ For exact matches of dates across all years, regardless of station ID, 6 sample 
 For all station IDs across all years, regardless of date, 14 unique waterbodies were sampled that had an alert at some point in time.
 '''
 
+'''
+TESTING
+
+alerts = {'2/06/2011': 'WW099', '2/08/2013': 'WW099', '7/07/2013': 'WW002'}
+
+main_dict = {
+    '2011_filtered': {'2/06/2011': 'WW099', '2/08/2011': 'WW006'},
+    '2012_filtered': {'7/07/2012': 'WW002', '8/08/2012': 'WW099'},
+    '2013_filtered': {'7/07/2013': 'WW002', '2/08/2013': 'WW099'}
+}
+
+matches = {}
+
+for alert_date, alert_code in alerts.items():
+    
+    for year, filtered_dict in main_dict.items():
+        
+        if alert_date in filtered_dict and alert_code == filtered_dict[alert_date]:
+            
+            matches[alert_date] = alert_code
+
+print(matches)
+
+# {'2/06/2011': 'WW099', '2/08/2013': 'WW099', '7/07/2013': 'WW002'}
+'''

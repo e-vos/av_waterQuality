@@ -37,7 +37,13 @@ advisory_dates = ridem_df['Advisory Posted']
 def dateRange(advisory_date):
     i_date = advisory_date - timedelta(days=5)
     f_date = advisory_date + timedelta(days=5)
-    return i_date.strftime('%Y-%m-%d'), f_date.strftime('%Y-%m-%d')
+    # return i_date.strftime('%Y-%m-%d'), f_date.strftime('%Y-%m-%d')
+    return i_date, f_date
+
+# Add a +/- 5 day range to the filtered dataset using dateRange
+ridem_df[['i_date', 'f_date']] = ridem_df['Advisory Posted'].apply(lambda x: pd.Series(dateRange(x)))
+
+ridem_df.to_csv(r'C:\Users\Elliot\Documents\University\Internships\AV\av_waterQuality\Datasets\CSV\Filtered_Alert_WW_Stations.csv', index=False)
 
 # for advisory_date in ridem_df['Advisory Posted']:
 #     i_date, f_date = dateRange(advisory_date)

@@ -8,9 +8,9 @@ Description:
 
 # Set variables
 
-i_date = '2023-11-15'
-f_date = '2023-11-25'
-cloud_cover_max = 30
+i_date = '2023-10-07'
+f_date = '2023-10-17'
+cloud_cover_max = 50
 
 # URLs
 

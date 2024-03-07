@@ -1,5 +1,6 @@
 import requests
 import os
+from config import EARTHDATA_USERNAME, EARTHDATA_PASSWORD
 
 class SessionWithHeaderRedirection(requests.Session):
     AUTH_HOST = 'urs.earthdata.nasa.gov'
@@ -19,8 +20,8 @@ class SessionWithHeaderRedirection(requests.Session):
                 del headers['Authorization']
         return
 
-username = ""
-password= ""
+username = EARTHDATA_USERNAME
+password= EARTHDATA_PASSWORD
 session = SessionWithHeaderRedirection(username, password)
 
 url_string = """
@@ -30,7 +31,7 @@ url_string = """
 url_lines = url_string.strip().splitlines()
 urls = url_lines
 
-storage_path = r"D:\University\AmericaView_HLS\WW150_20231007_20231017"
+storage_path = r""
 
 with requests.Session() as session:
     for url in urls:

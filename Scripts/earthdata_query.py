@@ -1,3 +1,15 @@
+''' 
+Filename: earthdata_query.py
+Author: Elliot Vosburgh
+Date: 7 March 2024
+Description:
+    Modified version available from EarthData documentation site.
+    Designed to download multiple files from the newline separated
+    file URLs that EarthData provides at the download page.
+    
+    Requires valid Earthdata login credentials.
+'''
+
 import requests
 import os
 from config import EARTHDATA_USERNAME, EARTHDATA_PASSWORD
@@ -25,7 +37,6 @@ password= EARTHDATA_PASSWORD
 session = SessionWithHeaderRedirection(username, password)
 
 url_string = """
-
 """
 
 url_lines = url_string.strip().splitlines()

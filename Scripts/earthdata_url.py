@@ -1,5 +1,5 @@
 ''' 
-Filename: earthdata.py
+Filename: earthdata_url.py
 Author: Elliot Vosburgh
 Date: 5 March 2024
 Description:
@@ -8,9 +8,9 @@ Description:
 
 # Set variables
 
-i_date = '2023-10-07'
-f_date = '2023-10-17'
-cloud_cover_max = 50
+i_date = '2022-10-09'
+f_date = '2022-10-19'
+cloud_cover_max = 30
 
 # URLs
 

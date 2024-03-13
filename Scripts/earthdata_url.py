@@ -8,15 +8,15 @@ Description:
 
 # Set variables
 
-i_date = '2022-10-09'
-f_date = '2022-10-19'
+i_date = '2022-01-01'
+f_date = '2022-12-31'
 cloud_cover_max = 30
 
 # URLs
 
 landsat_url = (
     "https://search.earthdata.nasa.gov/search/granules?p=C2021957657-LPCLOUD&"
-    f"pg[0][v]=f&pg[0][qt]={i_date}%2C{i_date}&pg[0][cc][max]={cloud_cover_max}&"
+    f"pg[0][v]=f&pg[0][qt]={i_date}%2C{f_date}&pg[0][cc][max]={cloud_cover_max}&"
     "pg[0][gsk]=-start_date&q=hls&sp[0]=-71.52539%2C41.66843&tl=1709691525!3!!&"
     "base=landWaterMap&lat=41.81784160090278&long=-71.81982421875"
 )

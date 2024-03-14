@@ -35,7 +35,11 @@ for date, files in files_by_date.items():
 #     ep.plot_bands(ndvi, cmap="RdYlGn", cols=1, title=title, vmin=-1, vmax=1)
     print(f"Successfully saved average NDVI value for {date} in dictionary.")
 
-# for date, avg_ndvi_value in avg_ndvi_dict.items():
-#     print(f"{date}: {avg_ndvi_value}")
+avg_keys = list(avg_ndvi_dict.keys())
+avg_keys.sort()
+sorted_ndvi_dict = {i: avg_ndvi_dict[i] for i in avg_keys}
 
-print("All capture dates processed.")
+for date, avg_ndvi_value in sorted_ndvi_dict.items():
+    print(f"{date}: {avg_ndvi_value}")
+
+# print("All capture dates processed.")

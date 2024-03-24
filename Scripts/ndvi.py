@@ -30,7 +30,7 @@ print("Organized files by timestamp. Proceeding...")
 
 for date, files in files_by_date.items():
     arr_st, meta = es.stack(files, nodata=256)
-    ndvi = es.normalized_diff(arr_st[4], arr_st[3])
+    ndvi = es.normalized_diff(arr_st[5], arr_st[4])
     avg_ndvi_dict[date] = np.mean(ndvi)
 #     output_filename = os.path.join(data_path, f"{date}_NDVI.png")
 #     title = f"HLS NDVI for {os.path.basename(data_path)} - Date {date}"

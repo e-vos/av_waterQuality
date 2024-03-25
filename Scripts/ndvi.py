@@ -11,6 +11,7 @@ import re
 from glob import glob
 import numpy as np
 import rasterio
+from rasterio.crs import CRS
 import earthpy.spatial as es
 
 data_path = r"D:\University\AmericaView_HLS\WW006_test_dir"
@@ -46,13 +47,22 @@ for date, files in files_by_date.items():
     ndvi = es.normalized_diff(arr_st[5], arr_st[4]) # B5 = NIR, B4 = Red in HLS datasets...
 
     output_filename = os.path.join(ndvi_path, f"{date}_NDVI.tif")
+    
+    profile = {
+        'driver': 'GTiff',
+        'width': arr_st.shape[2],
+        'height': arr_st.shape[1],
+        'count': 1,
+        'dtype': 'float32',
+        'crs': CRS.from_epsg(32618),
+        'transform': meta['transform'],
+        'compress': 'lzw',
+        'nodata': -9999
+        }
+    
 
-    with rasterio.open(files[0]) as src:
-        profile = src.profile
-        profile.update(dtype=rasterio.float32, count=1, compress='lzw')
-        profile.update({'crs': src.crs, 'transform': src.transform})
-        with rasterio.open(output_filename, 'w', **profile) as dst:
-            dst.write(ndvi.astype(rasterio.float32), 1)
+    with rasterio.open(output_filename, 'w', **profile) as dst:
+        dst.write(ndvi, 1)
 
     print(f"Successfully saved NDVI for {date} as {output_filename}.")
 

@@ -32,7 +32,7 @@ for tif_file in band_raster_files:
 print("Organized files by timestamp. Proceeding...")
 
 # Check the nodata value for a band
-# band_path = band_path = r"D:\University\AmericaView_HLS\WW006_test_dir\HLS.L30.T18TYM.2022171T152651.v2.0.B07.tif"
+# band_path = r"D:\University\AmericaView_HLS\WW006_test_dir\HLS.L30.T18TYM.2022171T152651.v2.0.B07.tif"
 # with rasterio.open(band_path) as src1:
 #     nodata_value = src1.nodata
 #     print("Nodata value: ", nodata_value)

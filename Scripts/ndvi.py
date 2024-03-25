@@ -15,13 +15,13 @@ from rasterio.crs import CRS
 import earthpy.spatial as es
 
 data_path = r"D:\University\AmericaView_HLS\WW006_test_dir" # Source directory
-ndvi_path = r"D:\University\AmericaView_HLS\ndvi"			# Output directory
+ndvi_path = r"D:\University\AmericaView_HLS\ndvi" # Output directory
 
 # Not all files are in tif format; filtering steps
 tif_files = glob(os.path.join(data_path, "*.tif"))
 tif_files.sort()
 
-files_by_date = {}	# Storage for timestamps and filenames
+files_by_date = {} # Storage for timestamps and filenames
 
 # Just band tifs
 band_pattern = re.compile(r"\.B\d{2}\.tif$")
@@ -46,8 +46,9 @@ print("Organized files by timestamp. Proceeding...")
 #         print(f"ALERT: {date} dataset has only {len(files)} associated files!!")
 
 for date, files in files_by_date.items():
-    arr_st, meta = es.stack(files, nodata=-9999)	# See above debugging test
-    ndvi = es.normalized_diff(arr_st[5], arr_st[4]) # B5 = NIR, B4 = Red in HLS datasets...
+    arr_st, meta = es.stack(files, nodata=-9999) # See above debugging test
+    ndvi = es.normalized_diff(arr_st[4], arr_st[3]) # B5 = NIR, B4 = Red in HLS datasets...
+    ndvi_masked = np.where((ndvi >= -1) & (ndvi <= 1), ndvi, -9999)
 
     output_filename = os.path.join(ndvi_path, f"{date}_NDVI.tif")
     
@@ -58,7 +59,7 @@ for date, files in files_by_date.items():
         'height': arr_st.shape[1],
         'count': 1,
         'dtype': 'float32',
-        'crs': CRS.from_epsg(32618),	# WGS1984 UTM 18N **IMPORTANT**
+        'crs': CRS.from_epsg(32618), # WGS1984 UTM 18N **IMPORTANT**
         'transform': meta['transform'],
         'compress': 'lzw',
         'nodata': -9999
@@ -66,8 +67,18 @@ for date, files in files_by_date.items():
     
     # Write to our output directory
     with rasterio.open(output_filename, 'w', **profile) as dst:
-        dst.write(ndvi, 1)	# '1' is the position, it's also the only band
+        dst.write(ndvi_masked, 1) # '1' is the position, it's also the only band
 
     print(f"Successfully saved NDVI for {date} as {output_filename}.")
 
 print("All capture dates processed.")
+
+# TEST FILTERING FOR OUT-OF-BOUNDS VALUES!!
+# test_raster = r"D:\University\AmericaView_HLS\ndvi\2022171T152651_NDVI.tif"
+# 
+# with rasterio.open(test_raster) as src:
+#     preproc_data = src.read(1, masked=True) # nodata = -9999, will affect stats if included
+#     mask = preproc_data.mask
+#     raster_data = preproc_data[~mask] # Mask out nodata
+#     print(raster_data.min())
+#     print(raster_data.max())

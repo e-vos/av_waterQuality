@@ -30,7 +30,8 @@ band_raster_files = [file for file in tif_files if band_pattern.search(file)]
 # Populating files_by_date
 for tif_file in band_raster_files:
     date_part = tif_file.split(".")[3]
-    files_by_date.setdefault(date_part, []).append(tif_file)
+    new_name = date_part.split("T")[0]
+    files_by_date.setdefault(new_name, []).append(tif_file)
 
 print("Organized files by timestamp. Proceeding...")
 

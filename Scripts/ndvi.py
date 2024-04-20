@@ -6,6 +6,8 @@ Description:
     Calculate NDVI for input datasets and save the rasters for future analysis.
 '''
 
+# import arcpy
+# from arcpy.sa import *
 import os
 import re
 from glob import glob
@@ -14,8 +16,8 @@ import rasterio
 from rasterio.crs import CRS
 import earthpy.spatial as es
 
-data_path = r"D:\University\AmericaView_HLS\WW006_test_dir" # Source directory
-ndvi_path = r"D:\University\AmericaView_HLS\ndvi" # Output directory
+data_path = r"D:\University\NRS516_HLS\type1_raw" # Source directory
+ndvi_path = r"D:\University\NRS516_HLS\type1 _ndvi" # Output directory
 
 # Not all files are in tif format; filtering steps
 tif_files = glob(os.path.join(data_path, "*.tif"))
@@ -46,9 +48,14 @@ print("Organized files by timestamp. Proceeding...")
 #     if len(files) < 10:
 #         print(f"ALERT: {date} dataset has only {len(files)} associated files!!")
 
+# def applyCloudMask(input_raster, cloud_mask):
+#     cloud_values = "VALUE > 100 OR VALUE = 76 OR VALUE = 72"
+#     output_raster = arcpy.sa.Con(cloud_mask, -9999, input_raster, cloud_values)
+#     return output_raster
+
 for date, files in files_by_date.items():
     arr_st, meta = es.stack(files, nodata=-9999) # See above debugging test
-    ndvi = es.normalized_diff(arr_st[4], arr_st[3]) # B5 = NIR, B4 = Red in HLS datasets...
+    ndvi = es.normalized_diff(arr_st[1], arr_st[0]) # B5 = NIR, B4 = Red in HLS datasets...
     ndvi_masked = np.where((ndvi >= -1) & (ndvi <= 1), ndvi, -9999)
 
     output_filename = os.path.join(ndvi_path, f"{date}_NDVI.tif")
@@ -60,7 +67,7 @@ for date, files in files_by_date.items():
         'height': arr_st.shape[1],
         'count': 1,
         'dtype': 'float32',
-        'crs': CRS.from_epsg(32618), # WGS1984 UTM 18N **IMPORTANT**
+        'crs': CRS.from_epsg(32610),
         'transform': meta['transform'],
         'compress': 'lzw',
         'nodata': -9999
@@ -71,6 +78,7 @@ for date, files in files_by_date.items():
         dst.write(ndvi_masked, 1) # '1' is the position, it's also the only band
 
     print(f"Successfully saved NDVI for {date} as {output_filename}.")
+
 
 print("All capture dates processed.")
 

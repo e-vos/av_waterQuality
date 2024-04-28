@@ -17,7 +17,7 @@ from rasterio.crs import CRS
 import earthpy.spatial as es
 
 data_path = r"D:\University\NRS516_HLS\type1_raw" # Source directory
-ndvi_path = r"D:\University\NRS516_HLS\type1 _ndvi" # Output directory
+ndvi_path = r"D:\University\NRS516_HLS\type1_ndvi" # Output directory
 
 # Not all files are in tif format; filtering steps
 tif_files = glob(os.path.join(data_path, "*.tif"))

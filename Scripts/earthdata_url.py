@@ -8,9 +8,9 @@ Description:
 
 # Set variables
 
-i_date = '2015-01-01'
-f_date = '2021-12-31'
-cloud_cover_max = 30
+i_date = '2019-01-01'
+f_date = '2019-12-31'
+cloud_cover_max = 20
 
 # URLs
 

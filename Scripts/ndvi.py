@@ -14,10 +14,11 @@ from glob import glob
 import numpy as np
 import rasterio
 from rasterio.crs import CRS
+from rasterio.warp import reproject, Resampling
 import earthpy.spatial as es
 
-data_path = r"D:\University\NRS516_HLS\type1_raw" # Source directory
-ndvi_path = r"D:\University\NRS516_HLS\type1_ndvi" # Output directory
+data_path = r"D:\University\AmericaView_HLS\2021_HLS_data" # Source directory
+ndvi_path = r"D:\University\AmericaView_HLS\2021_HLS_data\ndvi" # Output directory
 
 # Not all files are in tif format; filtering steps
 tif_files = glob(os.path.join(data_path, "*.tif"))
@@ -54,12 +55,37 @@ print("Organized files by timestamp. Proceeding...")
 #     return output_raster
 
 for date, files in files_by_date.items():
-    arr_st, meta = es.stack(files, nodata=-9999) # See above debugging test
-    ndvi = es.normalized_diff(arr_st[1], arr_st[0]) # B5 = NIR, B4 = Red in HLS datasets...
-    ndvi_masked = np.where((ndvi >= -1) & (ndvi <= 1), ndvi, -9999)
+    # Get the common affine transform
+    common_transform = None
+    reprojected_files = []
+    for file in files:
+        with rasterio.open(file) as src:
+            dst_crs = CRS.from_epsg(32618)  # Reproject to EPSG:32618 (WGS1984 UTM 18N)
+            arr, transform = reproject(
+                source=rasterio.band(src, 1),
+                destination=np.zeros_like(src.read(1)),
+                src_transform=src.transform,
+                src_crs=src.crs,
+                dst_transform=common_transform if common_transform else src.transform,
+                dst_crs=dst_crs,
+                resampling=Resampling.nearest)
+            if common_transform is None:
+                common_transform = transform
+            reprojected_file = os.path.join(ndvi_path, f"{os.path.basename(file)}_reprojected.tif")
+            profile = src.profile
+            profile.update({
+                'crs': dst_crs,
+                'transform': common_transform
+            })
+            with rasterio.open(reprojected_file, 'w', **profile) as dst:
+                dst.write(arr, 1)
+            reprojected_files.append(reprojected_file)
 
+    arr_st, meta = es.stack(reprojected_files, nodata=-9999)  # See above debugging test
+    ndvi = es.normalized_diff(arr_st[1], arr_st[0])  # B5 = NIR, B4 = Red in HLS datasets...
+    ndvi_masked = np.where((ndvi >= -1) & (ndvi <= 1), ndvi, -9999)
     output_filename = os.path.join(ndvi_path, f"{date}_NDVI.tif")
-    
+
     # Settings for our NDVI output raster
     profile = {
         'driver': 'GTiff',
@@ -67,18 +93,16 @@ for date, files in files_by_date.items():
         'height': arr_st.shape[1],
         'count': 1,
         'dtype': 'float32',
-        'crs': CRS.from_epsg(32610),
+        'crs': CRS.from_epsg(32618),  # WGS1984 UTM 18N **IMPORTANT**
         'transform': meta['transform'],
         'compress': 'lzw',
         'nodata': -9999
-        }
-    
+    }
+
     # Write to our output directory
     with rasterio.open(output_filename, 'w', **profile) as dst:
-        dst.write(ndvi_masked, 1) # '1' is the position, it's also the only band
-
+        dst.write(ndvi_masked, 1)  # '1' is the position, it's also the only band
     print(f"Successfully saved NDVI for {date} as {output_filename}.")
-
 
 print("All capture dates processed.")
 

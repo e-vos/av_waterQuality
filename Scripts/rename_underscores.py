@@ -11,6 +11,6 @@ def rename(directory):
             os.rename(old_path, new_path)
             print(f"Renamed {file} to {new_name} in {directory}.")
 
-directory_path = r"D:\University\AmericaView_HLS\hlsdata"
+directory_path = r"D:\University\AmericaView_HLS\2021_HLS_data\ndvi"
 
 rename(directory_path)

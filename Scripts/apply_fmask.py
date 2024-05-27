@@ -11,7 +11,7 @@ Description:
 import arcpy
 import os
 
-workspace = r"D:\University\AmericaView_HLS\hlsdata" # Make sure NDVI and Fmask files are in same directory
+workspace = r"D:\University\AmericaView_HLS\2019_HLS_data\ndvi" # Make sure NDVI and reprojected Fmask files are in same directory
 
 ndvi_rasters = [raster for raster in os.listdir(workspace) if "NDVI" in raster]
 fmask_rasters = [raster for raster in os.listdir(workspace) if "Fmask" in raster]

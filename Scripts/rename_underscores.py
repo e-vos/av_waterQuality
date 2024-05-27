@@ -1,3 +1,15 @@
+''' 
+Filename: ndvi.py
+Author: Elliot Vosburgh
+Date: 13 April 2024
+Description:
+    Quick script to replace periods in a filename with underscores. ArcPro doesn't play nicely with '.' in filenames.
+    IMPORTANT: MAKE SURE TO RUN THIS SCRIPT ON ALL FILES YOU INTEND TO USE WITH ARCPY!! AN ERROR LIKE THIS WILL
+               BE THROWN OTHERWISE:
+               
+                ERROR 000354: The name contains invalid characters
+'''
+
 import os
 
 def rename(directory):
@@ -11,6 +23,6 @@ def rename(directory):
             os.rename(old_path, new_path)
             print(f"Renamed {file} to {new_name} in {directory}.")
 
-directory_path = r"D:\University\AmericaView_HLS\2021_HLS_data\ndvi"
+directory_path = r"D:\University\AmericaView_HLS\2019_HLS_data\ndvi"
 
 rename(directory_path)

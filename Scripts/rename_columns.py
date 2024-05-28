@@ -1,5 +1,5 @@
 ''' 
-Filename: ndvi.py
+Filename: rename_columns.py
 Author: Elliot Vosburgh
 Date: 19 April 2024
 Description:

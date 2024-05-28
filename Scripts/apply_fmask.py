@@ -11,7 +11,7 @@ Description:
 import arcpy
 import os
 
-workspace = r"D:\University\AmericaView_HLS\2019_HLS_data\ndvi" # Make sure NDVI and reprojected Fmask files are in same directory
+workspace = r"D:\University\AmericaView_HLS\2021_HLS_data\ndvi" # Make sure NDVI and reprojected Fmask files are in same directory
 
 ndvi_rasters = [raster for raster in os.listdir(workspace) if "NDVI" in raster]
 fmask_rasters = [raster for raster in os.listdir(workspace) if "Fmask" in raster]
@@ -31,7 +31,7 @@ for ndvi_raster in ndvi_rasters:
         fmask_raster_obj = arcpy.Raster(fmask_path)
         
         # Make binary raster from Fmask (values 72, 76, and >100 are clouds)
-        reclassified_fmask = arcpy.sa.Reclassify(fmask_raster_obj, "Value", "64 72 0;72 1;72 76 0;76 1;76 100 0;100 240 1", "DATA")
+        reclassified_fmask = arcpy.sa.Reclassify(fmask_raster_obj, "Value", "64 72 0;72 1;72 76 0;76 1;76 100 0;100 255 1", "DATA")
         
         # Set clouds equal to NoData, leaving a raster with values of 0
         set_null_fmask = arcpy.sa.SetNull(reclassified_fmask, reclassified_fmask, "VALUE = 1")

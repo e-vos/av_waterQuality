@@ -7,7 +7,7 @@ Description:
 '''
 
 import arcpy
-import csv	# Output for use in Excel later
+import csv # Output for use in Excel later
 from collections import defaultdict
 
 arcpy.env.workspace = r"C:\Users\Elliot\Documents\University\Internships\AV\Project\AmericaView Project.gdb"

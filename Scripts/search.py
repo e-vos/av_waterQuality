@@ -15,7 +15,7 @@ from datetime import datetime
 
 data_file = r'C:\Users\Elliot\Downloads\test_out.csv'
 
-target_ww = 'Indian Lake' # Case sensitive. If you're looking for Indian Lake, do not type "indian lake" or "Indian lake"
+target_ww = 'Worden Pond' # Case sensitive. If you're looking for Indian Lake, do not type "indian lake" or "Indian lake"
 
 startTime = datetime.now() # Just for timing execution time
 
@@ -29,7 +29,7 @@ target_alerts = alert_df[alert_df['Waterbody'] == target_ww] # Only extract data
 
 advisory_dates = pd.to_datetime(target_alerts['Advisory Posted']).unique() # Extract alert dates for target_ww
 
-print(f"Found {len(advisory_dates)} advisory dates for {target_ww}.\n")
+print(f"Found {len(advisory_dates)} advisory dates for {target_ww}\n")
 
 ############
 # Query loop
@@ -62,5 +62,5 @@ for adv_date in advisory_dates:
         print(f"!! No data available between {str(start_date)[:10]} and {str(end_date)[:10]}. !!\n")
     else:
         print(f"{filtered_df}\n")
-
+        
 print(f"Query completed in {(datetime.now() - startTime).total_seconds():.2f} seconds.")

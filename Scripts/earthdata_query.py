@@ -37,31 +37,31 @@ password= EARTHDATA_PASSWORD
 session = SessionWithHeaderRedirection(username, password)
 
 url_string = """
-https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T19TBG.2024072T153929.v2.0/HLS.S30.T19TBG.2024072T153929.v2.0.B11.tif
-https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T19TBG.2024072T153929.v2.0/HLS.S30.T19TBG.2024072T153929.v2.0.B04.tif
-https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T19TBG.2024072T153929.v2.0/HLS.S30.T19TBG.2024072T153929.v2.0.B09.tif
-https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T19TBG.2024072T153929.v2.0/HLS.S30.T19TBG.2024072T153929.v2.0.B06.tif
-https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T19TBG.2024072T153929.v2.0/HLS.S30.T19TBG.2024072T153929.v2.0.B08.tif
-https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T19TBG.2024072T153929.v2.0/HLS.S30.T19TBG.2024072T153929.v2.0.SAA.tif
-https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T19TBG.2024072T153929.v2.0/HLS.S30.T19TBG.2024072T153929.v2.0.VZA.tif
-https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T19TBG.2024072T153929.v2.0/HLS.S30.T19TBG.2024072T153929.v2.0.B02.tif
-https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T19TBG.2024072T153929.v2.0/HLS.S30.T19TBG.2024072T153929.v2.0.B10.tif
-https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T19TBG.2024072T153929.v2.0/HLS.S30.T19TBG.2024072T153929.v2.0.VAA.tif
-https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T19TBG.2024072T153929.v2.0/HLS.S30.T19TBG.2024072T153929.v2.0.B8A.tif
-https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T19TBG.2024072T153929.v2.0/HLS.S30.T19TBG.2024072T153929.v2.0.SZA.tif
-https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T19TBG.2024072T153929.v2.0/HLS.S30.T19TBG.2024072T153929.v2.0.B12.tif
-https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T19TBG.2024072T153929.v2.0/HLS.S30.T19TBG.2024072T153929.v2.0.B05.tif
-https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T19TBG.2024072T153929.v2.0/HLS.S30.T19TBG.2024072T153929.v2.0.B01.tif
-https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T19TBG.2024072T153929.v2.0/HLS.S30.T19TBG.2024072T153929.v2.0.B07.tif
-https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T19TBG.2024072T153929.v2.0/HLS.S30.T19TBG.2024072T153929.v2.0.Fmask.tif
-https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T19TBG.2024072T153929.v2.0/HLS.S30.T19TBG.2024072T153929.v2.0.B03.tif
+https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T18TYM.2019190T153601.v2.0/HLS.S30.T18TYM.2019190T153601.v2.0.B12.tif
+https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T18TYM.2019190T153601.v2.0/HLS.S30.T18TYM.2019190T153601.v2.0.B02.tif
+https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T18TYM.2019190T153601.v2.0/HLS.S30.T18TYM.2019190T153601.v2.0.B11.tif
+https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T18TYM.2019190T153601.v2.0/HLS.S30.T18TYM.2019190T153601.v2.0.Fmask.tif
+https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T18TYM.2019190T153601.v2.0/HLS.S30.T18TYM.2019190T153601.v2.0.SAA.tif
+https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T18TYM.2019190T153601.v2.0/HLS.S30.T18TYM.2019190T153601.v2.0.B09.tif
+https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T18TYM.2019190T153601.v2.0/HLS.S30.T18TYM.2019190T153601.v2.0.B04.tif
+https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T18TYM.2019190T153601.v2.0/HLS.S30.T18TYM.2019190T153601.v2.0.B03.tif
+https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T18TYM.2019190T153601.v2.0/HLS.S30.T18TYM.2019190T153601.v2.0.B07.tif
+https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T18TYM.2019190T153601.v2.0/HLS.S30.T18TYM.2019190T153601.v2.0.B08.tif
+https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T18TYM.2019190T153601.v2.0/HLS.S30.T18TYM.2019190T153601.v2.0.B06.tif
+https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T18TYM.2019190T153601.v2.0/HLS.S30.T18TYM.2019190T153601.v2.0.B8A.tif
+https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T18TYM.2019190T153601.v2.0/HLS.S30.T18TYM.2019190T153601.v2.0.B10.tif
+https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T18TYM.2019190T153601.v2.0/HLS.S30.T18TYM.2019190T153601.v2.0.VAA.tif
+https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T18TYM.2019190T153601.v2.0/HLS.S30.T18TYM.2019190T153601.v2.0.B05.tif
+https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T18TYM.2019190T153601.v2.0/HLS.S30.T18TYM.2019190T153601.v2.0.VZA.tif
+https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T18TYM.2019190T153601.v2.0/HLS.S30.T18TYM.2019190T153601.v2.0.B01.tif
+https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/HLSS30.020/HLS.S30.T18TYM.2019190T153601.v2.0/HLS.S30.T18TYM.2019190T153601.v2.0.SZA.tif
 """
 
 url_lines = url_string.strip().splitlines()
 urls = url_lines
-req_band_urls = [url for url in urls if url.endswith("B04.tif") or url.endswith("B05.tif") or url.endswith("Fmask.tif")]
+req_band_urls = [url for url in urls if url.endswith("B03.tif") or url.endswith("B05.tif") or url.endswith("B04.tif")]
 
-storage_path = r"D:\University\temp"
+storage_path = r"D:\University\AmericaView_HLS\composites_2019"
 
 with requests.Session() as session:
     for url in req_band_urls:

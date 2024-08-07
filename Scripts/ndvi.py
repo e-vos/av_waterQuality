@@ -17,8 +17,8 @@ from rasterio.crs import CRS
 from rasterio.warp import reproject, Resampling
 import earthpy.spatial as es
 
-data_path = r"D:\University\AmericaView_HLS\2019_HLS_data" # Source directory
-ndvi_path = r"D:\University\AmericaView_HLS\2019_HLS_data\ndvi" # Output directory
+data_path = r"D:\University\AmericaView_HLS\2019_summer" # Source directory
+ndvi_path = r"D:\University\AmericaView_HLS\2019_summer\ndvi" # Output directory
 
 # Not all files are in tif format; filtering steps
 tif_files = glob(os.path.join(data_path, "*.tif"))

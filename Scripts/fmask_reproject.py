@@ -12,7 +12,7 @@ import numpy as np
 from rasterio.warp import reproject, Resampling
 from rasterio.crs import CRS
 
-directory = r"D:\University\AmericaView_HLS\2013_2018_HLS_data"
+directory = r"D:\University\AmericaView_HLS\2019_summer"
 
 print(f"Working from {directory}...")
 
